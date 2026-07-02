@@ -1,0 +1,19 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "migrate:up": "docker run --rm --network geofinance_geofinance-network -v \"%cd%:/work\" -w /work node:20-alpine sh -lc \"npm ci --silent; DATABASE_URL=postgresql://postgres:postgres@postgres:5432/geofinance npx node-pg-migrate -m migrations --check-order false up\"",
+    "migrate:down": "docker run --rm --network geofinance_geofinance-network -v \"%cd%:/work\" -w /work node:20-alpine sh -lc \"npm ci --silent; DATABASE_URL=postgresql://postgres:postgres@postgres:5432/geofinance npx node-pg-migrate -m migrations --check-order false down\"",
+    "migrate:create": "node-pg-migrate -m migrations create",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "node-pg-migrate": "^8.0.4"
+  }
+}
