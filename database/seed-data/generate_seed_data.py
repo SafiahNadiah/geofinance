@@ -24,6 +24,7 @@ import csv
 import json
 import random
 from pathlib import Path
+from uuid import uuid4
 
 from faker import Faker
 
@@ -60,7 +61,7 @@ BRANCH_AREAS = [
     ("Rawang", 3.3175, 101.5764),
 ]
 
-BRANCH_TYPES = ["Main branch", "Retail branch", "SME centre", "Priority banking"]
+BRANCH_TYPES = ["main_branch", "retail_branch", "sme_centre", "priority_banking"]
 
 
 def jitter(lat, lng, radius_km=2.5):
@@ -70,21 +71,40 @@ def jitter(lat, lng, radius_km=2.5):
     return round(lat + dlat, 6), round(lng + dlng, 6)
 
 
+def point_ewkt(lat, lng):
+    return f"SRID=4326;POINT({lng} {lat})"
+
+
 branches = []
 for i, (name, lat, lng) in enumerate(BRANCH_AREAS, start=1):
     branches.append({
-        "branch_id": f"BR{i:03d}",
+        "id": str(uuid4()),
+        "code": f"BR{i:03d}",
         "name": f"{name} Branch",
         "type": random.choice(BRANCH_TYPES),
         "address": f"{fake.building_number()}, Jalan {fake.last_name()}, {name}, Selangor",
-        "latitude": lat,
-        "longitude": lng,
+        "geom": point_ewkt(lat, lng),
         "opened_date": fake.date_between(start_date="-15y", end_date="-1y").isoformat(),
         "staff_count": random.randint(8, 45),
+        "_latitude": lat,
+        "_longitude": lng,
     })
 
 with open(OUT_DIR / "branches.csv", "w", newline="") as f:
-    writer = csv.DictWriter(f, fieldnames=branches[0].keys())
+    writer = csv.DictWriter(
+        f,
+        fieldnames=[
+            "id",
+            "code",
+            "name",
+            "type",
+            "address",
+            "geom",
+            "opened_date",
+            "staff_count",
+        ],
+        extrasaction="ignore",
+    )
     writer.writeheader()
     writer.writerows(branches)
 
@@ -118,14 +138,13 @@ for i in range(1, N_CUSTOMERS + 1):
     first_pool, last_pool = random.choice(NAME_POOLS)
     name = f"{random.choice(first_pool)} {random.choice(last_pool)}"
     branch = random.choice(branches)
-    lat, lng = jitter(branch["latitude"], branch["longitude"], radius_km=6)
+    lat, lng = jitter(branch["_latitude"], branch["_longitude"], radius_km=6)
     dob = fake.date_of_birth(minimum_age=21, maximum_age=70)
     customers.append({
-        "customer_id": f"CUST{i:05d}",
+        "id": str(uuid4()),
+        "code": f"CUST{i:05d}",
         "full_name": name,
-        # Synthetic IC-style number (NOT a valid/real Malaysian IC — format only)
-        "ic_number_fake": f"{dob.strftime('%y%m%d')}-{random.randint(1,16):02d}-{random.randint(1000,9999)}",
-        "email": fake.email(),
+        "email": fake.unique.email(),
         "phone": f"+601{random.randint(0,9)}-{random.randint(1000000,9999999)}",
         "occupation": random.choice(OCCUPATIONS),
         "monthly_income_myr": random.choice([
@@ -133,50 +152,82 @@ for i in range(1, N_CUSTOMERS + 1):
             round(random.uniform(4500, 8000), 2),
             round(random.uniform(8000, 20000), 2),
         ]),
-        "home_latitude": lat,
-        "home_longitude": lng,
-        "nearest_branch_id": branch["branch_id"],
+        "home_geom": point_ewkt(lat, lng),
+        "nearest_branch_id": branch["id"],
         "customer_since": fake.date_between(start_date="-10y", end_date="today").isoformat(),
+        "_home_latitude": lat,
+        "_home_longitude": lng,
     })
 
 with open(OUT_DIR / "customers.csv", "w", newline="") as f:
-    writer = csv.DictWriter(f, fieldnames=customers[0].keys())
+    writer = csv.DictWriter(
+        f,
+        fieldnames=[
+            "id",
+            "code",
+            "full_name",
+            "email",
+            "phone",
+            "occupation",
+            "monthly_income_myr",
+            "home_geom",
+            "nearest_branch_id",
+            "customer_since",
+        ],
+        extrasaction="ignore",
+    )
     writer.writeheader()
     writer.writerows(customers)
 
 # ---------------------------------------------------------------------------
 # 3. Properties — linked to a subset of customers
 # ---------------------------------------------------------------------------
-PROPERTY_TYPES = ["Terrace house", "Condominium", "Apartment", "Semi-detached", "Bungalow", "Shop lot"]
+PROPERTY_TYPES = ["terrace_house", "condominium", "apartment", "semi_detached", "bungalow", "shop_lot"]
 
 N_PROPERTIES = 1200
 property_customers = random.sample(customers, N_PROPERTIES)
 properties = []
 for i, cust in enumerate(property_customers, start=1):
-    lat, lng = jitter(cust["home_latitude"], cust["home_longitude"], radius_km=1.5)
+    lat, lng = jitter(cust["_home_latitude"], cust["_home_longitude"], radius_km=1.5)
     ptype = random.choice(PROPERTY_TYPES)
     base_value = {
-        "Terrace house": (350000, 750000),
-        "Condominium": (300000, 900000),
-        "Apartment": (180000, 450000),
-        "Semi-detached": (700000, 1600000),
-        "Bungalow": (1200000, 3500000),
-        "Shop lot": (500000, 2000000),
+        "terrace_house": (350000, 750000),
+        "condominium": (300000, 900000),
+        "apartment": (180000, 450000),
+        "semi_detached": (700000, 1600000),
+        "bungalow": (1200000, 3500000),
+        "shop_lot": (500000, 2000000),
     }[ptype]
     properties.append({
-        "property_id": f"PROP{i:05d}",
-        "owner_customer_id": cust["customer_id"],
+        "id": str(uuid4()),
+        "code": f"PROP{i:05d}",
+        "owner_customer_id": cust["id"],
         "type": ptype,
         "address": f"{fake.building_number()}, Jalan {fake.street_name()}, {fake.city()}, Selangor",
-        "latitude": lat,
-        "longitude": lng,
+        "geom": point_ewkt(lat, lng),
         "market_value_myr": round(random.uniform(*base_value), 2),
         "floor_area_sqft": random.randint(600, 4500),
         "year_built": random.randint(1985, 2023),
+        "_latitude": lat,
+        "_longitude": lng,
     })
 
 with open(OUT_DIR / "properties.csv", "w", newline="") as f:
-    writer = csv.DictWriter(f, fieldnames=properties[0].keys())
+    writer = csv.DictWriter(
+        f,
+        fieldnames=[
+            "id",
+            "code",
+            "owner_customer_id",
+            "type",
+            "address",
+            "geom",
+            "market_value_myr",
+            "floor_area_sqft",
+            "year_built",
+        ],
+        extrasaction="ignore",
+    )
     writer.writeheader()
     writer.writerows(properties)
 
@@ -217,7 +268,8 @@ for i, (name, lat, lng, hazard, severity) in enumerate(RISK_ZONE_CENTERS, start=
     features.append({
         "type": "Feature",
         "properties": {
-            "zone_id": f"RZ{i:03d}",
+            "id": str(uuid4()),
+            "code": f"RZ{i:03d}",
             "name": name,
             "hazard_type": hazard,
             "severity": severity,
@@ -235,7 +287,7 @@ with open(OUT_DIR / "risk_zones.geojson", "w") as f:
 # ---------------------------------------------------------------------------
 # 5. Loans — linked to customers, a subset of their properties, and branch
 # ---------------------------------------------------------------------------
-LOAN_TYPES = ["Home loan", "Personal loan", "SME business loan", "Auto loan", "Renovation loan"]
+LOAN_TYPES = ["home_loan", "personal_loan", "sme_business_loan", "auto_loan", "renovation_loan"]
 LOAN_STATUS = ["active", "active", "active", "pending_approval", "closed", "defaulted"]
 
 
@@ -260,10 +312,11 @@ def nearest_risk_zone(lat, lng):
 N_LOANS = 900
 loan_properties = random.sample(properties, N_LOANS)
 loans = []
+customers_by_id = {customer["id"]: customer for customer in customers}
 for i, prop in enumerate(loan_properties, start=1):
-    cust = next(c for c in customers if c["customer_id"] == prop["owner_customer_id"])
+    cust = customers_by_id[prop["owner_customer_id"]]
     branch_id = cust["nearest_branch_id"]
-    (zone_name, hazard, severity), dist_km = nearest_risk_zone(prop["latitude"], prop["longitude"])
+    (_, _, severity), dist_km = nearest_risk_zone(prop["_latitude"], prop["_longitude"])
 
     # simple synthetic risk score: closer to a risk zone + higher severity + lower income => higher risk
     severity_weight = {"low": 1, "medium": 2, "high": 3}[severity]
@@ -273,9 +326,10 @@ for i, prop in enumerate(loan_properties, start=1):
     risk_tier = "high" if risk_score >= 55 else "medium" if risk_score >= 30 else "low"
 
     loans.append({
-        "loan_id": f"LN{i:05d}",
-        "customer_id": cust["customer_id"],
-        "property_id": prop["property_id"],
+        "id": str(uuid4()),
+        "code": f"LN{i:05d}",
+        "customer_id": cust["id"],
+        "property_id": prop["id"],
         "branch_id": branch_id,
         "loan_type": random.choice(LOAN_TYPES),
         "principal_amount_myr": round(prop["market_value_myr"] * random.uniform(0.5, 0.9), 2),
@@ -283,15 +337,29 @@ for i, prop in enumerate(loan_properties, start=1):
         "tenure_years": random.choice([5, 10, 15, 20, 25, 30]),
         "status": random.choice(LOAN_STATUS),
         "application_date": fake.date_between(start_date="-6y", end_date="today").isoformat(),
-        "nearest_risk_zone": zone_name,
-        "nearest_risk_zone_hazard": hazard,
-        "distance_to_risk_zone_km": round(dist_km, 2),
-        "risk_score": risk_score,
-        "risk_tier": risk_tier,
+        "_distance_to_risk_zone_km": round(dist_km, 2),
+        "_risk_score": risk_score,
+        "_risk_tier": risk_tier,
     })
 
 with open(OUT_DIR / "loans.csv", "w", newline="") as f:
-    writer = csv.DictWriter(f, fieldnames=loans[0].keys())
+    writer = csv.DictWriter(
+        f,
+        fieldnames=[
+            "id",
+            "code",
+            "customer_id",
+            "property_id",
+            "branch_id",
+            "loan_type",
+            "principal_amount_myr",
+            "interest_rate_pct",
+            "tenure_years",
+            "status",
+            "application_date",
+        ],
+        extrasaction="ignore",
+    )
     writer.writeheader()
     writer.writerows(loans)
 

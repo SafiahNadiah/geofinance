@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "zone_id": "RZ001",
+        "id": "ac345fee-aeb4-4d1b-9945-55f28f2fd5be",
+        "code": "RZ001",
         "name": "Klang riverside",
         "hazard_type": "flood",
         "severity": "high"
@@ -40,7 +41,8 @@
     {
       "type": "Feature",
       "properties": {
-        "zone_id": "RZ002",
+        "id": "98916b78-68c1-4ad6-9bad-48bf4deff273",
+        "code": "RZ002",
         "name": "Shah Alam lowland",
         "hazard_type": "flood",
         "severity": "medium"
@@ -76,7 +78,8 @@
     {
       "type": "Feature",
       "properties": {
-        "zone_id": "RZ003",
+        "id": "6a124180-fa17-404e-aa8b-86bf27647113",
+        "code": "RZ003",
         "name": "Kajang stream basin",
         "hazard_type": "flood",
         "severity": "medium"
@@ -112,7 +115,8 @@
     {
       "type": "Feature",
       "properties": {
-        "zone_id": "RZ004",
+        "id": "ff729fae-2966-4a40-9b57-fee7022925ee",
+        "code": "RZ004",
         "name": "Cheras drainage basin",
         "hazard_type": "flood",
         "severity": "low"
@@ -148,7 +152,8 @@
     {
       "type": "Feature",
       "properties": {
-        "zone_id": "RZ005",
+        "id": "2f380d29-cdca-4db4-aa30-6c931d912f79",
+        "code": "RZ005",
         "name": "Puchong industrial zone",
         "hazard_type": "landslide",
         "severity": "low"
@@ -184,7 +189,8 @@
     {
       "type": "Feature",
       "properties": {
-        "zone_id": "RZ006",
+        "id": "84a03af0-dd37-493a-9d58-b582d699b5ff",
+        "code": "RZ006",
         "name": "Ampang hillside",
         "hazard_type": "landslide",
         "severity": "high"
@@ -220,7 +226,8 @@
     {
       "type": "Feature",
       "properties": {
-        "zone_id": "RZ007",
+        "id": "5c4c2afa-4458-4e17-9492-10a334e7a0c5",
+        "code": "RZ007",
         "name": "Sungai Buloh floodplain",
         "hazard_type": "flood",
         "severity": "medium"
@@ -256,7 +263,8 @@
     {
       "type": "Feature",
       "properties": {
-        "zone_id": "RZ008",
+        "id": "f3b9368d-b8b1-4bce-93fd-79ac6933e19c",
+        "code": "RZ008",
         "name": "Rawang lowland",
         "hazard_type": "flood",
         "severity": "low"
@@ -292,7 +300,8 @@
     {
       "type": "Feature",
       "properties": {
-        "zone_id": "RZ009",
+        "id": "af1100cc-4c9c-4a6a-91fd-ce769a85f42c",
+        "code": "RZ009",
         "name": "Semenyih catchment",
         "hazard_type": "flood",
         "severity": "medium"
@@ -328,7 +337,8 @@
     {
       "type": "Feature",
       "properties": {
-        "zone_id": "RZ010",
+        "id": "0ff47fc0-f7b2-465e-9182-ce96dd960581",
+        "code": "RZ010",
         "name": "Subang Jaya urban drain",
         "hazard_type": "flood",
         "severity": "low"
@@ -364,7 +374,8 @@
     {
       "type": "Feature",
       "properties": {
-        "zone_id": "RZ011",
+        "id": "bfe1eaa4-a234-4dda-bcc2-f827027f83cc",
+        "code": "RZ011",
         "name": "Bangi highland",
         "hazard_type": "landslide",
         "severity": "low"
@@ -400,7 +411,8 @@
     {
       "type": "Feature",
       "properties": {
-        "zone_id": "RZ012",
+        "id": "47556960-e220-487e-9ed0-4f7f3a3fee53",
+        "code": "RZ012",
         "name": "Wangsa Maju basin",
         "hazard_type": "flood",
         "severity": "medium"

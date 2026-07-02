@@ -25,17 +25,22 @@ in a demo, say explicitly it's synthetic.** For a real deployment, replace:
 
 | File | Rows | Key columns |
 | --- | --- | --- |
-| `branches.csv` | 18 | `branch_id`, `latitude`, `longitude` |
-| `customers.csv` | 2,000 | `customer_id`, `nearest_branch_id`, `home_latitude/longitude` |
-| `properties.csv` | 1,200 | `property_id`, `owner_customer_id`, `latitude/longitude` |
-| `loans.csv` | 900 | `loan_id`, `customer_id`, `property_id`, `branch_id`, `risk_score`, `risk_tier` |
-| `risk_zones.geojson` | 12 | `zone_id`, `hazard_type`, `severity` (Polygon features) |
+| `branches.csv` | 18 | `id` (UUID PK), `code` (`BR001`...), `geom` |
+| `customers.csv` | 2,000 | `id` (UUID PK), `code` (`CUST00001`...), `nearest_branch_id` (UUID FK) |
+| `properties.csv` | 1,200 | `id` (UUID PK), `code` (`PROP00001`...), `owner_customer_id` (UUID FK) |
+| `loans.csv` | 900 | `id` (UUID PK), `code` (`LN00001`...), `customer_id`/`property_id`/`branch_id` (UUID FKs) |
+| `risk_zones.geojson` | 12 | feature properties include `id` (UUID PK), `code` (`RZ001`...), `hazard_type`, `severity` |
 
-Relationships: `loans.customer_id → customers.customer_id`,
-`loans.property_id → properties.property_id`,
-`loans.branch_id → branches.branch_id`,
-`properties.owner_customer_id → customers.customer_id`,
-`customers.nearest_branch_id → branches.branch_id`.
+ID strategy:
+- `id`: UUID v4 primary key used by the database schema
+- `code`: human-readable business identifier retained for display/demo compatibility
+
+Relationships (UUID FK → UUID PK):
+`loans.customer_id → customers.id`,
+`loans.property_id → properties.id`,
+`loans.branch_id → branches.id`,
+`properties.owner_customer_id → customers.id`,
+`customers.nearest_branch_id → branches.id`.
 
 ## Regenerating
 
@@ -56,8 +61,12 @@ chmod +x import.sh
 ./import.sh
 ```
 
-Requires `psql` and `ogr2ogr` (GDAL) on your machine — both are included
-if you install PostGIS via the official Docker image
-(`postgis/postgis`), or `brew install gdal` / `apt install gdal-bin` for
-`ogr2ogr` locally. See `schema.sql` for table definitions and manual
-`\copy` commands if you'd rather run steps individually.
+Requires `psql` and Python with `psycopg2` (`psycopg2-binary`) on your
+machine. Install Python dependency with:
+
+```bash
+pip install psycopg2-binary
+```
+
+See `schema.sql` for table definitions and manual `\copy` commands if
+you'd rather run steps individually.

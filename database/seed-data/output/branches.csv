@@ -1,19 +1,19 @@
-branch_id,name,type,address,latitude,longitude,opened_date,staff_count
-BR001,KL City Centre Branch,Main branch,"104, Jalan Sanchez, KL City Centre, Selangor",3.1579,101.7116,2013-06-13,9
-BR002,Bangsar Branch,SME centre,"81960, Jalan Johnson, Bangsar, Selangor",3.129,101.671,2014-07-22,23
-BR003,Cheras Branch,Retail branch,"908, Jalan Gonzalez, Cheras, Selangor",3.1073,101.744,2020-08-04,16
-BR004,Ampang Branch,Main branch,"637, Jalan Lawrence, Ampang, Selangor",3.1487,101.762,2022-10-29,42
-BR005,Petaling Jaya Old Town Branch,Main branch,"26542, Jalan Lewis, Petaling Jaya Old Town, Selangor",3.1073,101.6413,2022-03-08,45
-BR006,Damansara Utama Branch,Priority banking,"16155, Jalan Munoz, Damansara Utama, Selangor",3.136,101.623,2022-10-17,10
-BR007,Subang Jaya Branch,Main branch,"781, Jalan Dudley, Subang Jaya, Selangor",3.0567,101.5851,2016-10-17,13
-BR008,Shah Alam Branch,Retail branch,"495, Jalan Ray, Shah Alam, Selangor",3.0733,101.5185,2021-05-11,22
-BR009,Klang Branch,Main branch,"34131, Jalan James, Klang, Selangor",3.0449,101.4455,2017-11-04,43
-BR010,Puchong Branch,Retail branch,"2553, Jalan Santiago, Puchong, Selangor",3.0219,101.6183,2021-04-27,42
-BR011,Kajang Branch,Priority banking,"192, Jalan Ferguson, Kajang, Selangor",2.9931,101.7874,2014-12-03,22
-BR012,Bangi Branch,Priority banking,"6483, Jalan Cohen, Bangi, Selangor",2.9161,101.7861,2023-04-18,45
-BR013,Cyberjaya Branch,SME centre,"30564, Jalan Jones, Cyberjaya, Selangor",2.9213,101.6559,2024-04-11,8
-BR014,Wangsa Maju Branch,Retail branch,"537, Jalan Foster, Wangsa Maju, Selangor",3.2041,101.7294,2024-04-19,35
-BR015,Setapak Branch,SME centre,"2423, Jalan Mcgee, Setapak, Selangor",3.193,101.7213,2019-01-15,25
-BR016,Sungai Buloh Branch,Retail branch,"969, Jalan Ross, Sungai Buloh, Selangor",3.2033,101.5802,2014-07-26,21
-BR017,Semenyih Branch,SME centre,"87101, Jalan Hernandez, Semenyih, Selangor",2.9497,101.8434,2013-09-25,14
-BR018,Rawang Branch,Main branch,"691, Jalan Cruz, Rawang, Selangor",3.3175,101.5764,2019-11-02,32
+id,code,name,type,address,geom,opened_date,staff_count
+21587684-afe8-43c3-9a7a-e9c9ce0b59d5,BR001,KL City Centre Branch,main_branch,"104, Jalan Sanchez, KL City Centre, Selangor",SRID=4326;POINT(101.7116 3.1579),2013-11-15,9
+544eed09-f45b-41a5-92cf-412e30c7f436,BR002,Bangsar Branch,sme_centre,"181, Jalan Garza, Bangsar, Selangor",SRID=4326;POINT(101.671 3.129),2012-01-15,23
+e69ac3b9-b2c4-4411-a47c-1ce3e71116a2,BR003,Cheras Branch,retail_branch,"13389, Jalan Johnson, Cheras, Selangor",SRID=4326;POINT(101.744 3.1073),2014-11-18,16
+56cefe43-6694-46eb-be75-a7d3d59ba981,BR004,Ampang Branch,main_branch,"863, Jalan Cole, Ampang, Selangor",SRID=4326;POINT(101.762 3.1487),2016-03-25,42
+257543d5-a955-47e7-9340-df8624ec61c9,BR005,Petaling Jaya Old Town Branch,main_branch,"26542, Jalan Lewis, Petaling Jaya Old Town, Selangor",SRID=4326;POINT(101.6413 3.1073),2024-06-27,45
+bc43fabf-288c-48d3-9531-173558eaadcf,BR006,Damansara Utama Branch,priority_banking,"1161, Jalan Howard, Damansara Utama, Selangor",SRID=4326;POINT(101.623 3.136),2017-05-08,10
+ca625959-942a-466c-95e5-8d7502bdb383,BR007,Subang Jaya Branch,main_branch,"407, Jalan Herrera, Subang Jaya, Selangor",SRID=4326;POINT(101.5851 3.0567),2017-12-09,13
+2c319a9e-551f-4919-9998-4c9b0700d297,BR008,Shah Alam Branch,retail_branch,"84959, Jalan Lee, Shah Alam, Selangor",SRID=4326;POINT(101.5185 3.0733),2012-09-06,22
+2a7fe392-59da-4cc0-b6bb-9ef2db7a14d8,BR009,Klang Branch,main_branch,"34131, Jalan James, Klang, Selangor",SRID=4326;POINT(101.4455 3.0449),2019-03-19,43
+8deefdbe-a6ad-4e2d-82e4-3edd927d6b13,BR010,Puchong Branch,retail_branch,"525, Jalan Kelly, Puchong, Selangor",SRID=4326;POINT(101.6183 3.0219),2022-11-25,42
+c810cfe4-333b-444c-88e6-6ff1837eae24,BR011,Kajang Branch,priority_banking,"1928, Jalan Daniel, Kajang, Selangor",SRID=4326;POINT(101.7874 2.9931),2014-04-12,22
+fbd8fab2-1d49-4604-ba16-17e405f4e44e,BR012,Bangi Branch,priority_banking,"6483, Jalan Cohen, Bangi, Selangor",SRID=4326;POINT(101.7861 2.9161),2024-07-27,45
+067f8d2e-f1a9-4bd9-819b-4a40a6076aa6,BR013,Cyberjaya Branch,sme_centre,"30564, Jalan Jones, Cyberjaya, Selangor",SRID=4326;POINT(101.6559 2.9213),2021-02-23,8
+b57a3634-b996-4966-abac-d127f262ec68,BR014,Wangsa Maju Branch,retail_branch,"537, Jalan Foster, Wangsa Maju, Selangor",SRID=4326;POINT(101.7294 3.2041),2022-06-08,35
+df4af7b7-f815-408e-88cc-dd9ccbba8190,BR015,Setapak Branch,sme_centre,"2423, Jalan Mcgee, Setapak, Selangor",SRID=4326;POINT(101.7213 3.193),2020-09-01,25
+b8dab038-8e54-4564-a829-59da87d3e9aa,BR016,Sungai Buloh Branch,retail_branch,"9696, Jalan Cox, Sungai Buloh, Selangor",SRID=4326;POINT(101.5802 3.2033),2013-11-07,21
+3fea2fe2-f9fb-4eda-b036-8f7aac30eb62,BR017,Semenyih Branch,sme_centre,"710, Jalan Callahan, Semenyih, Selangor",SRID=4326;POINT(101.8434 2.9497),2014-02-05,14
+fa7286ac-7f1b-4905-945a-b7e0eb722033,BR018,Rawang Branch,main_branch,"269, Jalan Brown, Rawang, Selangor",SRID=4326;POINT(101.5764 3.3175),2017-12-28,32
