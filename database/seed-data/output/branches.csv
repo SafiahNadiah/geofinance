@@ -1,0 +1,19 @@
+branch_id,name,type,address,latitude,longitude,opened_date,staff_count
+BR001,KL City Centre Branch,Main branch,"104, Jalan Sanchez, KL City Centre, Selangor",3.1579,101.7116,2013-06-13,9
+BR002,Bangsar Branch,SME centre,"81960, Jalan Johnson, Bangsar, Selangor",3.129,101.671,2014-07-22,23
+BR003,Cheras Branch,Retail branch,"908, Jalan Gonzalez, Cheras, Selangor",3.1073,101.744,2020-08-04,16
+BR004,Ampang Branch,Main branch,"637, Jalan Lawrence, Ampang, Selangor",3.1487,101.762,2022-10-29,42
+BR005,Petaling Jaya Old Town Branch,Main branch,"26542, Jalan Lewis, Petaling Jaya Old Town, Selangor",3.1073,101.6413,2022-03-08,45
+BR006,Damansara Utama Branch,Priority banking,"16155, Jalan Munoz, Damansara Utama, Selangor",3.136,101.623,2022-10-17,10
+BR007,Subang Jaya Branch,Main branch,"781, Jalan Dudley, Subang Jaya, Selangor",3.0567,101.5851,2016-10-17,13
+BR008,Shah Alam Branch,Retail branch,"495, Jalan Ray, Shah Alam, Selangor",3.0733,101.5185,2021-05-11,22
+BR009,Klang Branch,Main branch,"34131, Jalan James, Klang, Selangor",3.0449,101.4455,2017-11-04,43
+BR010,Puchong Branch,Retail branch,"2553, Jalan Santiago, Puchong, Selangor",3.0219,101.6183,2021-04-27,42
+BR011,Kajang Branch,Priority banking,"192, Jalan Ferguson, Kajang, Selangor",2.9931,101.7874,2014-12-03,22
+BR012,Bangi Branch,Priority banking,"6483, Jalan Cohen, Bangi, Selangor",2.9161,101.7861,2023-04-18,45
+BR013,Cyberjaya Branch,SME centre,"30564, Jalan Jones, Cyberjaya, Selangor",2.9213,101.6559,2024-04-11,8
+BR014,Wangsa Maju Branch,Retail branch,"537, Jalan Foster, Wangsa Maju, Selangor",3.2041,101.7294,2024-04-19,35
+BR015,Setapak Branch,SME centre,"2423, Jalan Mcgee, Setapak, Selangor",3.193,101.7213,2019-01-15,25
+BR016,Sungai Buloh Branch,Retail branch,"969, Jalan Ross, Sungai Buloh, Selangor",3.2033,101.5802,2014-07-26,21
+BR017,Semenyih Branch,SME centre,"87101, Jalan Hernandez, Semenyih, Selangor",2.9497,101.8434,2013-09-25,14
+BR018,Rawang Branch,Main branch,"691, Jalan Cruz, Rawang, Selangor",3.3175,101.5764,2019-11-02,32

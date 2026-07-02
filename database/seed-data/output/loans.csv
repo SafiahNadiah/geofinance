@@ -1,0 +1,901 @@
+loan_id,customer_id,property_id,branch_id,loan_type,principal_amount_myr,interest_rate_pct,tenure_years,status,application_date,nearest_risk_zone,nearest_risk_zone_hazard,distance_to_risk_zone_km,risk_score,risk_tier
+LN00001,CUST00953,PROP00025,BR002,SME business loan,337360.21,4.91,30,pending_approval,2020-07-16,Wangsa Maju basin,flood,10.0,23.2,low
+LN00002,CUST01093,PROP00347,BR018,Renovation loan,1081315.64,6.79,5,active,2022-12-10,Rawang lowland,flood,8.44,34.1,medium
+LN00003,CUST01833,PROP00573,BR018,Auto loan,339114.05,4.83,20,active,2021-08-25,Rawang lowland,flood,7.86,23.1,low
+LN00004,CUST01010,PROP00250,BR006,SME business loan,447202.71,6.53,25,active,2024-10-25,Sungai Buloh floodplain,flood,6.88,11.1,low
+LN00005,CUST00421,PROP00453,BR017,Auto loan,257278.55,6.2,15,defaulted,2021-03-23,Semenyih catchment,flood,3.17,33.6,medium
+LN00006,CUST01058,PROP00050,BR004,SME business loan,2654578.61,5.13,20,active,2025-09-19,Ampang hillside,landslide,4.23,50.6,medium
+LN00007,CUST01868,PROP00097,BR009,Personal loan,553610.08,5.29,15,active,2024-06-14,Klang riverside,flood,7.19,1.8,low
+LN00008,CUST01470,PROP00909,BR002,Auto loan,624730.42,5.56,30,active,2021-05-02,Wangsa Maju basin,flood,8.41,11.0,low
+LN00009,CUST00056,PROP01052,BR015,Renovation loan,1888529.83,7.38,10,active,2021-05-09,Cheras drainage basin,flood,9.29,14.0,low
+LN00010,CUST00775,PROP01119,BR014,SME business loan,374738.01,5.42,25,defaulted,2021-05-20,Wangsa Maju basin,flood,1.64,73.9,high
+LN00011,CUST00536,PROP00867,BR005,Personal loan,440043.93,4.02,20,pending_approval,2021-07-18,Subang Jaya urban drain,flood,8.73,27.7,low
+LN00012,CUST01988,PROP01011,BR002,SME business loan,343450.58,4.08,20,active,2021-06-04,Sungai Buloh floodplain,flood,10.79,31.1,medium
+LN00013,CUST01633,PROP00716,BR014,Personal loan,637522.61,5.39,25,active,2020-07-28,Wangsa Maju basin,flood,4.24,33.7,medium
+LN00014,CUST00716,PROP01057,BR004,Auto loan,579853.91,5.86,10,active,2022-02-28,Ampang hillside,landslide,1.89,95.9,high
+LN00015,CUST01137,PROP00993,BR004,Personal loan,565326.25,6.53,15,defaulted,2022-06-16,Ampang hillside,landslide,2.63,57.1,high
+LN00016,CUST01427,PROP00665,BR002,Personal loan,785061.69,6.05,5,active,2021-06-05,Cheras drainage basin,flood,10.4,26.5,low
+LN00017,CUST00028,PROP00698,BR010,SME business loan,711610.64,7.09,25,active,2021-08-26,Puchong industrial zone,landslide,2.68,29.3,low
+LN00018,CUST00781,PROP01109,BR006,Auto loan,222502.55,6.17,15,active,2026-06-30,Wangsa Maju basin,flood,6.98,21.6,low
+LN00019,CUST01608,PROP00693,BR017,Renovation loan,411926.93,7.24,30,defaulted,2024-01-16,Bangi highland,landslide,2.3,30.6,medium
+LN00020,CUST00989,PROP00011,BR013,Auto loan,1049010.05,6.25,5,active,2022-04-12,Bangi highland,landslide,10.63,10.6,low
+LN00021,CUST00599,PROP00694,BR013,Auto loan,427694.94,4.74,20,pending_approval,2020-07-02,Puchong industrial zone,landslide,14.11,29.9,low
+LN00022,CUST01101,PROP01178,BR009,Auto loan,848039.41,6.25,10,pending_approval,2021-01-18,Klang riverside,flood,2.16,100,high
+LN00023,CUST00742,PROP00199,BR006,Home loan,521293.4,5.76,15,active,2024-11-08,Subang Jaya urban drain,flood,6.38,30.8,medium
+LN00024,CUST00971,PROP00622,BR015,Renovation loan,794110.42,6.23,15,defaulted,2023-10-27,Wangsa Maju basin,flood,4.7,31.5,medium
+LN00025,CUST01671,PROP00687,BR010,SME business loan,501752.37,4.22,30,pending_approval,2023-03-18,Puchong industrial zone,landslide,4.49,5.6,low
+LN00026,CUST01403,PROP00089,BR006,Auto loan,2077317.23,5.01,25,active,2025-04-24,Subang Jaya urban drain,flood,4.2,31.3,medium
+LN00027,CUST00327,PROP00608,BR013,Personal loan,473677.75,6.44,10,pending_approval,2021-11-12,Puchong industrial zone,landslide,12.43,24.0,low
+LN00028,CUST01069,PROP00897,BR007,SME business loan,401897.0,7.03,25,defaulted,2025-11-01,Subang Jaya urban drain,flood,8.59,25.3,low
+LN00029,CUST00041,PROP00361,BR008,Personal loan,527807.06,3.72,30,active,2021-02-08,Shah Alam lowland,flood,5.84,31.4,medium
+LN00030,CUST01832,PROP00509,BR014,Personal loan,2379610.01,6.22,15,defaulted,2021-03-10,Wangsa Maju basin,flood,0.69,97.2,high
+LN00031,CUST01060,PROP00801,BR014,Auto loan,239129.02,3.92,15,active,2021-12-21,Wangsa Maju basin,flood,7.79,24.3,low
+LN00032,CUST01363,PROP00845,BR014,SME business loan,1123624.01,6.47,5,closed,2024-07-01,Wangsa Maju basin,flood,6.59,38.9,medium
+LN00033,CUST00850,PROP00597,BR006,Auto loan,1829011.65,5.08,25,closed,2025-06-14,Subang Jaya urban drain,flood,6.06,16.6,low
+LN00034,CUST01374,PROP00806,BR010,Renovation loan,1733942.46,7.32,25,active,2026-03-03,Puchong industrial zone,landslide,7.85,28.1,low
+LN00035,CUST01987,PROP00263,BR012,SME business loan,451423.95,7.44,5,active,2022-05-20,Bangi highland,landslide,2.42,45.0,medium
+LN00036,CUST01310,PROP00913,BR001,Renovation loan,249371.37,5.58,20,closed,2022-05-29,Wangsa Maju basin,flood,3.82,36.7,medium
+LN00037,CUST00991,PROP00365,BR008,Auto loan,1053139.46,4.42,15,active,2025-03-05,Shah Alam lowland,flood,5.02,31.4,medium
+LN00038,CUST01382,PROP01028,BR001,Renovation loan,1263682.67,4.41,30,active,2023-02-26,Cheras drainage basin,flood,3.74,25.5,low
+LN00039,CUST01285,PROP00880,BR006,Renovation loan,211258.61,3.61,20,closed,2021-05-15,Subang Jaya urban drain,flood,6.41,18.4,low
+LN00040,CUST01656,PROP00695,BR002,SME business loan,294712.81,5.84,10,defaulted,2025-02-03,Cheras drainage basin,flood,6.23,34.9,medium
+LN00041,CUST01414,PROP00214,BR006,Personal loan,1664551.38,5.48,10,defaulted,2023-09-06,Wangsa Maju basin,flood,5.72,26.8,low
+LN00042,CUST01475,PROP01107,BR012,Renovation loan,437915.93,3.86,30,active,2021-04-13,Bangi highland,landslide,5.56,37.1,medium
+LN00043,CUST01810,PROP00256,BR001,Home loan,121583.04,4.36,25,active,2025-06-13,Wangsa Maju basin,flood,2.82,58.7,high
+LN00044,CUST00985,PROP00590,BR007,Home loan,2286766.44,4.46,5,active,2025-03-31,Shah Alam lowland,flood,4.26,14.5,low
+LN00045,CUST01658,PROP00276,BR001,Home loan,611674.0,4.47,20,defaulted,2023-02-12,Wangsa Maju basin,flood,4.11,31.9,medium
+LN00046,CUST01206,PROP00081,BR009,Personal loan,609161.73,4.66,5,closed,2021-03-14,Klang riverside,flood,4.37,35.6,medium
+LN00047,CUST00399,PROP00632,BR001,Home loan,1822447.88,3.68,10,active,2024-09-11,Cheras drainage basin,flood,4.31,37.1,medium
+LN00048,CUST00377,PROP00463,BR002,Auto loan,495397.43,3.64,5,active,2024-06-26,Subang Jaya urban drain,flood,6.67,19.0,low
+LN00049,CUST00420,PROP01134,BR016,Renovation loan,113763.05,6.89,10,active,2026-03-27,Sungai Buloh floodplain,flood,6.25,34.2,medium
+LN00050,CUST00342,PROP00554,BR008,Auto loan,267612.17,4.78,25,defaulted,2023-11-01,Klang riverside,flood,2.45,77.3,high
+LN00051,CUST00565,PROP00664,BR005,Home loan,340559.93,6.26,30,closed,2020-09-27,Subang Jaya urban drain,flood,5.35,32.8,medium
+LN00052,CUST01933,PROP00095,BR014,Home loan,1138441.3,5.0,15,active,2025-01-19,Wangsa Maju basin,flood,0.92,79.2,high
+LN00053,CUST00497,PROP00531,BR006,Personal loan,318840.85,6.9,25,active,2023-08-23,Subang Jaya urban drain,flood,7.24,35.8,medium
+LN00054,CUST00948,PROP00822,BR012,Personal loan,228206.53,5.54,20,active,2020-09-02,Kajang stream basin,flood,3.17,37.0,medium
+LN00055,CUST00893,PROP00300,BR013,Home loan,200427.74,6.38,15,pending_approval,2026-01-21,Puchong industrial zone,landslide,10.19,14.2,low
+LN00056,CUST00054,PROP00218,BR009,Home loan,248937.68,6.01,30,defaulted,2020-08-06,Klang riverside,flood,6.81,27.0,low
+LN00057,CUST01406,PROP00998,BR004,Home loan,318704.29,4.06,10,active,2020-12-06,Ampang hillside,landslide,5.79,23.4,low
+LN00058,CUST01150,PROP00791,BR004,Home loan,1292711.24,4.45,30,defaulted,2025-11-12,Ampang hillside,landslide,4.59,38.0,medium
+LN00059,CUST01899,PROP00535,BR009,Renovation loan,619718.6,4.31,30,defaulted,2021-02-09,Klang riverside,flood,6.53,29.9,low
+LN00060,CUST01158,PROP00397,BR013,Home loan,424442.22,4.32,5,pending_approval,2022-03-22,Bangi highland,landslide,11.37,30.6,medium
+LN00061,CUST01075,PROP00606,BR006,Home loan,1120031.99,6.94,30,active,2025-09-11,Sungai Buloh floodplain,flood,4.89,35.9,medium
+LN00062,CUST01629,PROP00413,BR008,Home loan,266016.03,4.06,30,active,2026-02-26,Klang riverside,flood,4.24,44.5,medium
+LN00063,CUST01784,PROP00587,BR010,Auto loan,517868.89,4.94,30,active,2021-12-13,Puchong industrial zone,landslide,5.1,24.8,low
+LN00064,CUST00334,PROP00219,BR007,Home loan,380376.76,3.89,20,closed,2020-12-16,Subang Jaya urban drain,flood,4.3,34.6,medium
+LN00065,CUST01937,PROP00872,BR005,SME business loan,1934547.36,7.32,30,active,2022-06-29,Subang Jaya urban drain,flood,4.64,8.1,low
+LN00066,CUST00256,PROP00774,BR007,Auto loan,506554.37,3.61,30,active,2025-01-18,Subang Jaya urban drain,flood,2.2,47.4,medium
+LN00067,CUST01601,PROP00920,BR009,Renovation loan,982926.31,6.71,20,defaulted,2025-03-20,Klang riverside,flood,4.12,49.5,medium
+LN00068,CUST00626,PROP00526,BR006,Personal loan,1496185.66,3.53,15,active,2023-07-24,Sungai Buloh floodplain,flood,4.98,28.8,low
+LN00069,CUST01731,PROP00069,BR005,Renovation loan,1228341.93,4.53,10,pending_approval,2025-12-07,Subang Jaya urban drain,flood,6.32,22.2,low
+LN00070,CUST01801,PROP00905,BR003,Home loan,551846.35,3.66,25,active,2026-01-28,Ampang hillside,landslide,2.37,87.4,high
+LN00071,CUST00590,PROP00860,BR011,SME business loan,201030.67,6.93,15,defaulted,2022-01-26,Kajang stream basin,flood,1.93,71.6,high
+LN00072,CUST00366,PROP01047,BR016,Personal loan,260873.64,5.59,5,active,2023-04-25,Sungai Buloh floodplain,flood,6.71,20.0,low
+LN00073,CUST01909,PROP00738,BR017,Home loan,964447.59,6.68,5,closed,2022-12-15,Semenyih catchment,flood,7.47,24.6,low
+LN00074,CUST01898,PROP01092,BR015,SME business loan,1730241.24,4.66,20,pending_approval,2023-03-22,Ampang hillside,landslide,3.12,71.2,high
+LN00075,CUST01080,PROP00645,BR002,Auto loan,1485982.43,5.24,25,pending_approval,2024-11-22,Wangsa Maju basin,flood,3.44,25.8,low
+LN00076,CUST01345,PROP00915,BR011,Home loan,1370077.45,6.4,5,defaulted,2024-04-08,Kajang stream basin,flood,7.38,23.4,low
+LN00077,CUST01614,PROP00555,BR005,SME business loan,383087.05,6.82,15,closed,2023-10-19,Subang Jaya urban drain,flood,4.35,31.3,medium
+LN00078,CUST00699,PROP00155,BR014,SME business loan,493437.22,3.53,20,active,2021-07-19,Wangsa Maju basin,flood,2.95,46.7,medium
+LN00079,CUST00290,PROP00177,BR011,Auto loan,970682.77,7.43,10,defaulted,2024-05-06,Kajang stream basin,flood,3.85,48.8,medium
+LN00080,CUST00268,PROP00112,BR011,Personal loan,1168526.97,3.97,30,closed,2024-07-16,Kajang stream basin,flood,1.83,58.6,high
+LN00081,CUST00483,PROP00810,BR009,Personal loan,328903.1,3.93,10,active,2026-01-20,Klang riverside,flood,4.92,18.4,low
+LN00082,CUST01577,PROP00895,BR001,SME business loan,307158.57,7.08,20,closed,2021-11-01,Cheras drainage basin,flood,3.66,45.9,medium
+LN00083,CUST01545,PROP00938,BR008,Renovation loan,403580.77,4.96,10,active,2022-10-23,Subang Jaya urban drain,flood,5.13,20.6,low
+LN00084,CUST01203,PROP00310,BR011,SME business loan,356149.21,6.2,30,defaulted,2025-01-12,Kajang stream basin,flood,5.1,22.3,low
+LN00085,CUST00304,PROP00879,BR005,Auto loan,190487.34,6.38,20,active,2023-06-26,Cheras drainage basin,flood,7.42,12.5,low
+LN00086,CUST00668,PROP00594,BR014,SME business loan,2158878.32,7.26,20,closed,2025-12-21,Ampang hillside,landslide,5.27,10.4,low
+LN00087,CUST01032,PROP00188,BR005,Renovation loan,236329.28,7.31,30,defaulted,2024-05-08,Subang Jaya urban drain,flood,5.74,25.8,low
+LN00088,CUST00410,PROP01033,BR002,SME business loan,440453.12,5.29,30,closed,2026-04-22,Subang Jaya urban drain,flood,9.25,9.2,low
+LN00089,CUST01413,PROP00917,BR014,SME business loan,914720.5,3.82,10,closed,2024-07-15,Wangsa Maju basin,flood,3.71,40.9,medium
+LN00090,CUST01338,PROP00484,BR017,Renovation loan,1038263.85,3.75,5,active,2021-11-10,Semenyih catchment,flood,5.26,28.2,low
+LN00091,CUST00335,PROP00922,BR016,SME business loan,1217831.88,4.84,20,pending_approval,2023-11-05,Sungai Buloh floodplain,flood,7.41,37.1,medium
+LN00092,CUST00761,PROP01102,BR005,Auto loan,189950.86,5.16,5,closed,2025-02-18,Sungai Buloh floodplain,flood,9.29,11.9,low
+LN00093,CUST00308,PROP00650,BR013,Personal loan,1157739.2,5.1,5,active,2024-07-02,Puchong industrial zone,landslide,4.48,41.8,medium
+LN00094,CUST00907,PROP00444,BR002,Renovation loan,836483.67,3.88,20,active,2021-01-29,Ampang hillside,landslide,4.41,42.4,medium
+LN00095,CUST01443,PROP00931,BR011,Auto loan,1043017.26,5.37,5,active,2025-06-10,Kajang stream basin,flood,1.99,70.7,high
+LN00096,CUST01861,PROP00969,BR004,Personal loan,383279.48,4.51,15,active,2024-03-21,Ampang hillside,landslide,3.09,82.0,high
+LN00097,CUST01322,PROP00108,BR017,Renovation loan,523962.42,5.26,30,active,2025-12-04,Semenyih catchment,flood,5.74,28.9,low
+LN00098,CUST01846,PROP00149,BR014,Personal loan,252653.34,3.74,15,defaulted,2023-03-01,Wangsa Maju basin,flood,6.48,4.8,low
+LN00099,CUST00542,PROP00328,BR017,Personal loan,434522.13,5.6,25,pending_approval,2026-01-31,Kajang stream basin,flood,0.95,95.3,high
+LN00100,CUST01709,PROP00571,BR018,SME business loan,1495835.6,5.5,20,active,2025-12-02,Rawang lowland,flood,8.12,28.4,low
+LN00101,CUST00448,PROP00436,BR004,Personal loan,1752167.1,6.4,30,pending_approval,2025-06-05,Ampang hillside,landslide,5.29,28.7,low
+LN00102,CUST01568,PROP00225,BR014,Home loan,484979.09,7.1,5,closed,2022-11-29,Wangsa Maju basin,flood,6.82,38.1,medium
+LN00103,CUST01408,PROP00884,BR014,Renovation loan,275607.47,5.19,30,closed,2023-12-13,Wangsa Maju basin,flood,5.76,24.9,low
+LN00104,CUST00698,PROP00545,BR007,SME business loan,369167.38,4.64,15,active,2022-05-30,Subang Jaya urban drain,flood,4.38,36.6,medium
+LN00105,CUST00015,PROP00730,BR013,Auto loan,540497.96,5.73,15,defaulted,2022-06-27,Bangi highland,landslide,12.1,14.6,low
+LN00106,CUST01037,PROP01069,BR014,SME business loan,391651.54,4.46,5,closed,2022-06-08,Wangsa Maju basin,flood,7.74,34.6,medium
+LN00107,CUST00020,PROP00302,BR009,Auto loan,241535.21,5.12,10,pending_approval,2022-07-25,Klang riverside,flood,4.65,32.2,medium
+LN00108,CUST00704,PROP00530,BR003,Personal loan,497952.72,6.93,5,pending_approval,2023-06-15,Cheras drainage basin,flood,8.41,18.2,low
+LN00109,CUST00774,PROP00506,BR013,Home loan,1088391.37,5.14,10,active,2022-09-23,Bangi highland,landslide,9.19,34.4,medium
+LN00110,CUST01136,PROP00899,BR007,Home loan,178345.67,6.26,10,active,2023-12-06,Puchong industrial zone,landslide,2.41,24.8,low
+LN00111,CUST00765,PROP00030,BR011,Personal loan,259462.66,6.26,15,active,2024-09-06,Kajang stream basin,flood,5.02,28.0,low
+LN00112,CUST00876,PROP01151,BR006,Auto loan,312297.57,4.19,25,closed,2020-08-14,Subang Jaya urban drain,flood,7.86,23.1,low
+LN00113,CUST01730,PROP00902,BR011,Personal loan,157057.25,5.34,15,active,2025-01-19,Kajang stream basin,flood,2.95,39.1,medium
+LN00114,CUST00809,PROP00006,BR003,SME business loan,503561.5,3.97,30,active,2021-08-12,Cheras drainage basin,flood,1.68,39.9,medium
+LN00115,CUST01182,PROP00600,BR008,SME business loan,652240.68,3.84,5,pending_approval,2025-11-12,Shah Alam lowland,flood,3.77,28.0,low
+LN00116,CUST01983,PROP01155,BR004,Renovation loan,509907.21,7.47,15,pending_approval,2020-07-01,Ampang hillside,landslide,4.22,43.9,medium
+LN00117,CUST01449,PROP00989,BR017,Personal loan,386923.5,3.82,25,closed,2023-01-04,Semenyih catchment,flood,5.18,24.5,low
+LN00118,CUST00417,PROP00412,BR016,Personal loan,489804.45,6.57,20,active,2026-04-14,Sungai Buloh floodplain,flood,0.26,89.0,high
+LN00119,CUST00790,PROP00797,BR014,SME business loan,539036.68,6.0,5,pending_approval,2023-11-23,Wangsa Maju basin,flood,1.93,56.7,high
+LN00120,CUST00443,PROP00706,BR008,Auto loan,537278.05,4.19,15,defaulted,2020-10-15,Shah Alam lowland,flood,4.6,10.5,low
+LN00121,CUST00568,PROP00140,BR012,Personal loan,414400.12,7.01,20,active,2022-04-14,Bangi highland,landslide,8.48,26.9,low
+LN00122,CUST00500,PROP01043,BR011,Personal loan,340594.4,6.11,25,closed,2025-11-10,Cheras drainage basin,flood,7.08,24.5,low
+LN00123,CUST01249,PROP00916,BR014,Auto loan,306627.97,6.08,5,active,2023-08-13,Wangsa Maju basin,flood,5.68,8.8,low
+LN00124,CUST01456,PROP00765,BR013,Home loan,1376430.7,4.76,5,active,2025-04-20,Puchong industrial zone,landslide,13.91,27.6,low
+LN00125,CUST01178,PROP00807,BR002,Home loan,378713.85,4.38,15,pending_approval,2023-01-26,Ampang hillside,landslide,4.13,49.7,medium
+LN00126,CUST00106,PROP00366,BR018,Personal loan,2112007.04,7.09,5,active,2022-10-04,Rawang lowland,flood,6.82,31.6,medium
+LN00127,CUST00378,PROP00885,BR014,Renovation loan,254167.43,4.8,10,active,2024-11-11,Wangsa Maju basin,flood,1.67,67.6,high
+LN00128,CUST00918,PROP00286,BR016,Renovation loan,400334.69,4.5,15,active,2022-10-29,Sungai Buloh floodplain,flood,6.39,16.7,low
+LN00129,CUST01157,PROP00103,BR013,Renovation loan,548440.42,6.8,20,active,2023-01-07,Puchong industrial zone,landslide,5.98,27.5,low
+LN00130,CUST01967,PROP00452,BR004,Home loan,646119.12,6.04,15,defaulted,2021-12-09,Ampang hillside,landslide,2.43,87.4,high
+LN00131,CUST00463,PROP00326,BR001,Auto loan,418683.58,6.47,20,active,2023-03-18,Cheras drainage basin,flood,2.43,35.0,medium
+LN00132,CUST01278,PROP00962,BR011,Auto loan,2077904.93,5.88,20,active,2022-02-19,Semenyih catchment,flood,2.9,58.5,high
+LN00133,CUST01482,PROP00427,BR005,SME business loan,1200846.2,7.02,10,active,2023-02-28,Subang Jaya urban drain,flood,4.43,40.6,medium
+LN00134,CUST01011,PROP00702,BR012,Auto loan,602527.45,6.3,5,pending_approval,2020-10-02,Bangi highland,landslide,0.75,47.6,medium
+LN00135,CUST00584,PROP01017,BR014,Auto loan,727716.39,6.59,20,active,2022-11-21,Ampang hillside,landslide,4.74,35.9,medium
+LN00136,CUST00025,PROP00242,BR013,Home loan,196452.0,7.1,15,active,2021-05-11,Bangi highland,landslide,9.11,26.3,low
+LN00137,CUST00531,PROP00289,BR018,Personal loan,203843.94,3.68,15,active,2022-12-25,Rawang lowland,flood,5.63,27.0,low
+LN00138,CUST01484,PROP00746,BR007,Auto loan,643254.36,7.21,25,closed,2026-01-20,Puchong industrial zone,landslide,6.81,23.6,low
+LN00139,CUST01416,PROP00798,BR005,Renovation loan,1300505.83,6.06,5,active,2023-01-02,Cheras drainage basin,flood,7.83,28.5,low
+LN00140,CUST00493,PROP00991,BR014,Auto loan,348348.08,4.56,30,closed,2023-11-09,Wangsa Maju basin,flood,4.82,26.4,low
+LN00141,CUST00221,PROP00379,BR005,Personal loan,310233.76,6.9,25,pending_approval,2022-04-16,Subang Jaya urban drain,flood,6.3,33.1,medium
+LN00142,CUST00229,PROP01103,BR014,Renovation loan,726534.89,6.05,20,closed,2025-11-21,Wangsa Maju basin,flood,5.82,24.3,low
+LN00143,CUST00478,PROP00317,BR016,Personal loan,145878.41,3.75,5,active,2020-11-05,Sungai Buloh floodplain,flood,4.21,47.0,medium
+LN00144,CUST01393,PROP00511,BR003,SME business loan,964684.3,5.07,30,pending_approval,2022-08-23,Cheras drainage basin,flood,6.75,5.3,low
+LN00145,CUST01860,PROP00010,BR018,Auto loan,505200.38,6.32,25,pending_approval,2024-04-21,Rawang lowland,flood,5.4,26.9,low
+LN00146,CUST00211,PROP00056,BR015,SME business loan,346509.0,4.18,30,active,2023-07-27,Wangsa Maju basin,flood,7.89,25.6,low
+LN00147,CUST00763,PROP00700,BR016,Renovation loan,633592.7,7.4,30,pending_approval,2021-08-30,Sungai Buloh floodplain,flood,3.27,62.8,high
+LN00148,CUST00879,PROP01118,BR017,Personal loan,2147517.43,7.09,30,closed,2024-10-31,Semenyih catchment,flood,3.03,64.3,high
+LN00149,CUST01742,PROP01037,BR013,Renovation loan,152769.03,4.86,20,pending_approval,2024-03-11,Puchong industrial zone,landslide,16.8,29.0,low
+LN00150,CUST00913,PROP00715,BR007,Renovation loan,2529605.28,6.89,10,pending_approval,2021-06-17,Puchong industrial zone,landslide,5.25,26.3,low
+LN00151,CUST01301,PROP00236,BR006,Home loan,1851720.41,6.38,5,active,2024-03-04,Subang Jaya urban drain,flood,4.52,31.2,medium
+LN00152,CUST00259,PROP00753,BR008,Personal loan,508344.08,6.42,25,active,2022-11-18,Subang Jaya urban drain,flood,2.16,35.3,medium
+LN00153,CUST01354,PROP00480,BR006,SME business loan,1917428.69,4.42,5,active,2022-02-10,Wangsa Maju basin,flood,7.33,22.9,low
+LN00154,CUST01814,PROP00291,BR012,Auto loan,1226502.93,7.0,25,active,2023-04-03,Bangi highland,landslide,3.3,41.3,medium
+LN00155,CUST01617,PROP00625,BR010,Auto loan,2208723.74,7.36,20,defaulted,2025-07-09,Puchong industrial zone,landslide,7.7,20.9,low
+LN00156,CUST01188,PROP00372,BR001,Renovation loan,236502.31,4.93,30,pending_approval,2025-08-27,Cheras drainage basin,flood,9.56,14.8,low
+LN00157,CUST01622,PROP01184,BR009,Auto loan,791056.11,5.44,5,active,2021-07-30,Klang riverside,flood,3.63,52.3,medium
+LN00158,CUST00325,PROP00796,BR015,Home loan,302027.37,4.02,10,defaulted,2025-04-24,Wangsa Maju basin,flood,5.54,1.3,low
+LN00159,CUST00579,PROP00780,BR016,SME business loan,1050525.98,4.64,5,closed,2025-05-14,Sungai Buloh floodplain,flood,3.48,44.4,medium
+LN00160,CUST00380,PROP00041,BR007,Personal loan,408062.53,4.88,15,active,2023-09-08,Shah Alam lowland,flood,7.23,25.2,low
+LN00161,CUST00022,PROP00015,BR018,Renovation loan,965128.31,4.79,15,active,2024-07-19,Rawang lowland,flood,7.23,13.0,low
+LN00162,CUST01041,PROP00002,BR009,SME business loan,1078405.02,5.38,20,defaulted,2021-12-08,Klang riverside,flood,5.15,17.1,low
+LN00163,CUST00518,PROP00684,BR018,SME business loan,1552607.25,5.29,20,defaulted,2021-05-04,Rawang lowland,flood,10.07,31.5,medium
+LN00164,CUST01154,PROP01006,BR018,SME business loan,906988.2,4.39,15,closed,2021-12-31,Rawang lowland,flood,5.18,14.7,low
+LN00165,CUST01944,PROP01100,BR007,SME business loan,559681.05,6.5,15,active,2021-10-09,Puchong industrial zone,landslide,4.13,43.8,medium
+LN00166,CUST01653,PROP00835,BR009,SME business loan,237049.2,6.48,15,pending_approval,2023-07-27,Klang riverside,flood,6.04,14.9,low
+LN00167,CUST01424,PROP01149,BR014,Renovation loan,786381.99,3.71,30,pending_approval,2025-02-04,Wangsa Maju basin,flood,3.75,44.0,medium
+LN00168,CUST00715,PROP00421,BR016,Personal loan,389694.47,6.91,25,defaulted,2022-02-20,Sungai Buloh floodplain,flood,6.67,33.3,medium
+LN00169,CUST01815,PROP00064,BR001,Renovation loan,187681.23,6.24,20,active,2023-03-22,Cheras drainage basin,flood,2.35,50.8,medium
+LN00170,CUST01247,PROP00415,BR002,Personal loan,2339769.02,5.09,15,defaulted,2021-04-02,Wangsa Maju basin,flood,6.31,13.2,low
+LN00171,CUST01066,PROP00551,BR016,Renovation loan,1111914.51,4.07,10,defaulted,2021-02-27,Sungai Buloh floodplain,flood,4.47,40.9,medium
+LN00172,CUST00816,PROP00150,BR004,SME business loan,348786.33,3.5,25,active,2022-06-25,Cheras drainage basin,flood,0.88,62.2,high
+LN00173,CUST01451,PROP00504,BR018,SME business loan,745999.24,3.83,10,active,2021-12-22,Rawang lowland,flood,6.63,29.1,low
+LN00174,CUST01329,PROP00831,BR013,Renovation loan,398151.46,5.38,15,active,2025-09-25,Puchong industrial zone,landslide,12.47,22.8,low
+LN00175,CUST00195,PROP01182,BR013,Renovation loan,135093.99,6.33,10,defaulted,2024-02-05,Bangi highland,landslide,10.22,16.0,low
+LN00176,CUST00594,PROP00388,BR002,Auto loan,274543.25,4.49,10,closed,2022-06-18,Subang Jaya urban drain,flood,7.16,38.3,medium
+LN00177,CUST00067,PROP00257,BR010,Home loan,195329.61,6.39,30,active,2022-07-10,Subang Jaya urban drain,flood,1.95,50.7,medium
+LN00178,CUST01518,PROP00603,BR013,Home loan,1033181.46,4.06,20,active,2023-04-01,Puchong industrial zone,landslide,14.16,0.3,low
+LN00179,CUST00280,PROP00528,BR006,Auto loan,475185.76,5.61,20,closed,2025-07-28,Subang Jaya urban drain,flood,8.08,11.8,low
+LN00180,CUST00861,PROP00331,BR017,Auto loan,458596.68,4.22,20,active,2024-01-03,Semenyih catchment,flood,2.61,65.5,high
+LN00181,CUST00903,PROP00445,BR001,Personal loan,277201.19,6.27,5,active,2020-09-01,Cheras drainage basin,flood,9.8,36.0,medium
+LN00182,CUST00317,PROP00750,BR009,Renovation loan,217477.26,3.84,20,active,2021-07-16,Shah Alam lowland,flood,3.99,40.6,medium
+LN00183,CUST00887,PROP00959,BR009,Personal loan,376423.89,6.45,30,active,2023-06-28,Klang riverside,flood,1.19,100,high
+LN00184,CUST01186,PROP00549,BR016,SME business loan,1909355.07,3.85,30,active,2025-05-08,Sungai Buloh floodplain,flood,7.76,24.6,low
+LN00185,CUST00519,PROP00274,BR014,Auto loan,574968.13,4.22,5,defaulted,2020-08-01,Wangsa Maju basin,flood,8.81,27.6,low
+LN00186,CUST01429,PROP01154,BR013,Personal loan,765687.98,5.38,25,closed,2022-02-28,Puchong industrial zone,landslide,13.6,9.1,low
+LN00187,CUST01143,PROP00912,BR004,Personal loan,771930.21,3.77,25,active,2022-09-16,Ampang hillside,landslide,2.88,56.1,high
+LN00188,CUST00387,PROP00696,BR002,Auto loan,198506.07,6.39,20,pending_approval,2020-11-11,Cheras drainage basin,flood,4.93,36.1,medium
+LN00189,CUST01786,PROP00617,BR016,Auto loan,890920.51,6.91,15,pending_approval,2026-06-23,Sungai Buloh floodplain,flood,1.97,87.1,high
+LN00190,CUST00043,PROP01162,BR009,SME business loan,1515202.13,4.82,5,active,2021-10-09,Klang riverside,flood,4.03,52.2,medium
+LN00191,CUST01604,PROP00455,BR005,Renovation loan,148198.21,4.82,30,active,2024-06-09,Cheras drainage basin,flood,7.53,26.0,low
+LN00192,CUST00812,PROP00887,BR001,Home loan,441324.18,3.7,20,closed,2024-03-21,Wangsa Maju basin,flood,7.74,26.8,low
+LN00193,CUST01770,PROP01128,BR018,SME business loan,272302.69,4.44,5,closed,2022-07-10,Rawang lowland,flood,2.92,40.6,medium
+LN00194,CUST01250,PROP01147,BR008,Personal loan,245889.95,4.5,30,active,2024-02-04,Shah Alam lowland,flood,3.68,45.1,medium
+LN00195,CUST00073,PROP01071,BR012,Home loan,225954.9,6.12,15,active,2022-08-25,Semenyih catchment,flood,2.81,61.1,high
+LN00196,CUST00321,PROP00836,BR014,Home loan,287823.14,4.07,15,active,2026-01-30,Ampang hillside,landslide,5.76,32.8,medium
+LN00197,CUST00523,PROP01084,BR008,Auto loan,148812.73,5.26,30,active,2025-08-02,Klang riverside,flood,4.67,24.7,low
+LN00198,CUST01237,PROP00029,BR014,Home loan,1894938.93,4.69,25,pending_approval,2022-06-06,Wangsa Maju basin,flood,0.8,83.9,high
+LN00199,CUST01491,PROP00755,BR003,Home loan,436368.53,7.12,20,active,2023-09-21,Ampang hillside,landslide,2.32,70.8,high
+LN00200,CUST01759,PROP01187,BR007,Personal loan,1307921.04,4.52,10,pending_approval,2025-05-11,Puchong industrial zone,landslide,2.02,47.5,medium
+LN00201,CUST01779,PROP00821,BR013,Renovation loan,204908.77,3.72,25,active,2023-08-25,Bangi highland,landslide,10.45,19.8,low
+LN00202,CUST00086,PROP00045,BR014,Renovation loan,1932830.02,5.41,10,active,2021-11-08,Ampang hillside,landslide,1.78,95.0,high
+LN00203,CUST01064,PROP00437,BR008,Home loan,1390642.64,6.46,15,closed,2022-03-04,Shah Alam lowland,flood,3.82,43.4,medium
+LN00204,CUST00578,PROP00046,BR001,Auto loan,271225.21,3.95,15,closed,2025-12-19,Wangsa Maju basin,flood,6.7,23.4,low
+LN00205,CUST00773,PROP00026,BR018,SME business loan,193026.05,6.57,25,active,2021-05-02,Rawang lowland,flood,5.07,24.7,low
+LN00206,CUST01834,PROP01001,BR016,Renovation loan,351955.4,4.7,25,active,2023-02-08,Sungai Buloh floodplain,flood,7.25,29.4,low
+LN00207,CUST01300,PROP00279,BR005,Auto loan,254715.02,4.84,25,active,2021-08-06,Subang Jaya urban drain,flood,8.57,32.8,medium
+LN00208,CUST01047,PROP01095,BR009,Renovation loan,298626.04,6.84,20,defaulted,2025-10-14,Klang riverside,flood,5.39,24.0,low
+LN00209,CUST01802,PROP00387,BR002,SME business loan,1906789.77,6.57,10,active,2024-03-13,Sungai Buloh floodplain,flood,7.08,15.0,low
+LN00210,CUST00068,PROP00102,BR007,Home loan,454596.01,3.79,15,active,2021-01-14,Subang Jaya urban drain,flood,3.05,51.2,medium
+LN00211,CUST01963,PROP00852,BR017,Personal loan,228621.25,7.02,30,closed,2021-06-11,Semenyih catchment,flood,7.75,4.8,low
+LN00212,CUST00490,PROP00285,BR010,Renovation loan,249841.01,4.52,5,active,2023-05-29,Puchong industrial zone,landslide,6.24,20.9,low
+LN00213,CUST00381,PROP01076,BR010,Auto loan,949436.38,5.9,15,active,2026-03-16,Puchong industrial zone,landslide,5.81,13.3,low
+LN00214,CUST01554,PROP00246,BR005,SME business loan,331760.04,7.26,30,closed,2024-02-05,Sungai Buloh floodplain,flood,5.63,24.9,low
+LN00215,CUST01433,PROP00254,BR004,Personal loan,270441.88,4.07,30,active,2025-06-21,Ampang hillside,landslide,3.31,55.4,high
+LN00216,CUST01968,PROP00893,BR013,Personal loan,664783.08,6.29,5,defaulted,2020-08-26,Kajang stream basin,flood,10.87,36.0,medium
+LN00217,CUST00833,PROP00456,BR005,Home loan,155651.8,7.1,5,defaulted,2021-01-06,Subang Jaya urban drain,flood,5.02,28.4,low
+LN00218,CUST00863,PROP00033,BR003,SME business loan,715622.64,5.19,30,active,2023-04-13,Ampang hillside,landslide,2.67,81.1,high
+LN00219,CUST00102,PROP00053,BR012,Home loan,403920.05,4.69,30,pending_approval,2026-01-23,Kajang stream basin,flood,2.65,60.1,high
+LN00220,CUST00487,PROP00803,BR004,Personal loan,386069.61,6.48,20,active,2021-07-22,Ampang hillside,landslide,5.48,20.1,low
+LN00221,CUST00434,PROP01004,BR005,SME business loan,666076.6,5.45,15,defaulted,2021-03-18,Wangsa Maju basin,flood,8.37,26.0,low
+LN00222,CUST01126,PROP00751,BR010,Renovation loan,517761.49,6.17,10,active,2024-08-08,Puchong industrial zone,landslide,6.4,10.9,low
+LN00223,CUST00124,PROP01140,BR006,Auto loan,1038837.51,7.1,15,active,2024-01-15,Sungai Buloh floodplain,flood,8.56,32.6,medium
+LN00224,CUST01256,PROP00082,BR014,Home loan,352608.15,7.04,25,closed,2025-11-23,Ampang hillside,landslide,1.25,100,high
+LN00225,CUST00245,PROP00748,BR010,SME business loan,1431846.5,3.94,15,active,2022-10-16,Puchong industrial zone,landslide,5.08,1.1,low
+LN00226,CUST01949,PROP00889,BR005,Auto loan,905366.35,5.19,25,closed,2021-10-03,Subang Jaya urban drain,flood,8.04,14.6,low
+LN00227,CUST00037,PROP00677,BR005,Home loan,1121682.98,5.18,30,active,2025-08-24,Sungai Buloh floodplain,flood,8.3,33.1,medium
+LN00228,CUST01697,PROP00500,BR002,Auto loan,1881044.1,4.87,15,active,2025-07-02,Sungai Buloh floodplain,flood,11.26,5.8,low
+LN00229,CUST01783,PROP01058,BR018,Auto loan,148960.58,7.13,10,active,2022-11-15,Rawang lowland,flood,6.02,24.7,low
+LN00230,CUST01238,PROP00914,BR017,Auto loan,480403.23,4.25,15,active,2026-05-31,Semenyih catchment,flood,4.06,43.7,medium
+LN00231,CUST00528,PROP01129,BR005,Renovation loan,557145.7,5.08,20,active,2025-05-31,Cheras drainage basin,flood,8.24,35.0,medium
+LN00232,CUST01646,PROP00202,BR013,Home loan,375331.02,6.06,20,closed,2025-01-02,Bangi highland,landslide,9.87,32.6,medium
+LN00233,CUST01686,PROP01141,BR009,SME business loan,1833513.15,6.54,20,closed,2026-04-28,Klang riverside,flood,7.02,6.8,low
+LN00234,CUST01086,PROP00574,BR012,SME business loan,329710.59,5.78,25,defaulted,2021-03-22,Bangi highland,landslide,7.34,9.7,low
+LN00235,CUST00768,PROP00449,BR016,Auto loan,1764478.14,3.84,20,active,2021-11-17,Sungai Buloh floodplain,flood,8.3,23.8,low
+LN00236,CUST00076,PROP00085,BR005,Personal loan,488051.36,3.7,30,active,2021-06-08,Sungai Buloh floodplain,flood,8.82,24.4,low
+LN00237,CUST00358,PROP00974,BR018,Personal loan,555344.8,4.89,25,defaulted,2020-10-06,Rawang lowland,flood,3.49,27.1,low
+LN00238,CUST01360,PROP01063,BR003,SME business loan,419776.15,3.52,5,active,2023-09-08,Ampang hillside,landslide,2.17,69.1,high
+LN00239,CUST01490,PROP00653,BR008,Auto loan,633030.76,6.37,5,active,2026-02-14,Shah Alam lowland,flood,4.59,27.5,low
+LN00240,CUST00858,PROP00846,BR012,Personal loan,1469756.82,6.51,5,closed,2022-08-24,Bangi highland,landslide,7.02,29.6,low
+LN00241,CUST01284,PROP00868,BR001,Auto loan,1172364.73,7.48,30,active,2021-08-09,Wangsa Maju basin,flood,5.91,12.4,low
+LN00242,CUST00484,PROP00925,BR007,SME business loan,1326530.9,4.4,20,active,2020-10-06,Subang Jaya urban drain,flood,4.7,36.6,medium
+LN00243,CUST00720,PROP00391,BR014,Personal loan,289165.1,3.55,10,active,2021-01-24,Wangsa Maju basin,flood,2.78,64.9,high
+LN00244,CUST01777,PROP00245,BR013,Personal loan,294871.73,4.91,20,active,2024-01-03,Bangi highland,landslide,9.61,28.3,low
+LN00245,CUST01930,PROP00516,BR001,SME business loan,340617.41,5.93,15,active,2021-02-17,Wangsa Maju basin,flood,8.35,12.5,low
+LN00246,CUST00078,PROP00933,BR015,SME business loan,315336.99,6.85,30,active,2021-12-06,Sungai Buloh floodplain,flood,8.81,17.9,low
+LN00247,CUST01405,PROP00720,BR012,Personal loan,940402.7,3.57,10,active,2021-12-15,Bangi highland,landslide,1.89,46.2,medium
+LN00248,CUST00897,PROP00470,BR006,Personal loan,572577.08,4.72,30,pending_approval,2022-09-27,Sungai Buloh floodplain,flood,10.43,30.0,medium
+LN00249,CUST01883,PROP00448,BR003,SME business loan,281045.81,6.4,15,pending_approval,2021-11-06,Cheras drainage basin,flood,7.01,22.9,low
+LN00250,CUST00394,PROP00191,BR010,Renovation loan,216221.69,6.51,5,active,2024-02-14,Puchong industrial zone,landslide,0.42,62.2,high
+LN00251,CUST01426,PROP00896,BR015,Renovation loan,177636.46,6.87,30,defaulted,2021-01-01,Cheras drainage basin,flood,7.31,35.4,medium
+LN00252,CUST01217,PROP00977,BR001,SME business loan,591368.52,7.44,10,defaulted,2020-11-12,Cheras drainage basin,flood,4.31,40.6,medium
+LN00253,CUST00088,PROP00929,BR002,SME business loan,362034.17,6.1,30,active,2020-11-04,Subang Jaya urban drain,flood,10.99,17.5,low
+LN00254,CUST01688,PROP00367,BR013,Home loan,219499.83,4.15,5,pending_approval,2020-08-16,Bangi highland,landslide,10.49,34.0,medium
+LN00255,CUST00435,PROP00971,BR016,Renovation loan,341655.94,7.26,30,pending_approval,2024-09-30,Sungai Buloh floodplain,flood,3.05,55.0,high
+LN00256,CUST00395,PROP00490,BR014,Auto loan,714741.44,6.1,25,active,2024-05-20,Wangsa Maju basin,flood,2.36,66.4,high
+LN00257,CUST00701,PROP00725,BR004,Renovation loan,250499.53,4.49,20,active,2023-01-29,Cheras drainage basin,flood,4.87,8.2,low
+LN00258,CUST00047,PROP00502,BR006,SME business loan,477771.34,4.27,30,pending_approval,2022-10-03,Subang Jaya urban drain,flood,9.83,27.6,low
+LN00259,CUST00702,PROP00820,BR012,Personal loan,2255578.44,5.9,5,active,2021-08-07,Bangi highland,landslide,8.92,24.4,low
+LN00260,CUST01464,PROP00309,BR001,Personal loan,328053.96,6.25,30,defaulted,2022-07-16,Wangsa Maju basin,flood,9.26,18.7,low
+LN00261,CUST00859,PROP00853,BR014,Personal loan,784513.08,4.5,15,active,2024-10-15,Ampang hillside,landslide,4.5,38.0,medium
+LN00262,CUST01885,PROP00007,BR016,Auto loan,2594896.87,4.82,20,active,2024-07-23,Rawang lowland,flood,6.93,24.0,low
+LN00263,CUST01546,PROP00757,BR014,SME business loan,504780.27,6.72,30,active,2024-09-11,Ampang hillside,landslide,1.0,100,high
+LN00264,CUST01480,PROP00333,BR005,Auto loan,309148.21,5.72,20,active,2020-11-17,Wangsa Maju basin,flood,6.34,22.4,low
+LN00265,CUST00117,PROP00262,BR003,Auto loan,197526.45,4.64,25,active,2024-12-07,Cheras drainage basin,flood,5.14,24.6,low
+LN00266,CUST01728,PROP00384,BR013,Renovation loan,1082450.68,4.92,30,closed,2022-08-14,Puchong industrial zone,landslide,12.63,35.5,medium
+LN00267,CUST00726,PROP00854,BR004,Personal loan,522725.8,7.1,5,defaulted,2024-02-04,Ampang hillside,landslide,3.39,72.3,high
+LN00268,CUST01254,PROP00514,BR006,Home loan,220898.08,5.37,20,pending_approval,2020-07-05,Cheras drainage basin,flood,8.7,21.8,low
+LN00269,CUST00361,PROP00952,BR013,Home loan,225768.58,6.4,20,active,2023-03-12,Puchong industrial zone,landslide,6.27,24.6,low
+LN00270,CUST01123,PROP00440,BR009,SME business loan,211218.05,7.11,10,active,2026-06-25,Klang riverside,flood,3.63,55.1,high
+LN00271,CUST01511,PROP00125,BR003,Auto loan,326903.43,5.77,15,defaulted,2025-05-14,Cheras drainage basin,flood,6.94,23.8,low
+LN00272,CUST00543,PROP00537,BR013,Renovation loan,2023464.23,3.59,10,closed,2021-05-08,Puchong industrial zone,landslide,11.82,28.9,low
+LN00273,CUST01600,PROP00153,BR005,SME business loan,282521.78,4.69,30,defaulted,2020-07-01,Subang Jaya urban drain,flood,1.14,51.1,medium
+LN00274,CUST01864,PROP00298,BR002,SME business loan,1034437.04,6.83,20,pending_approval,2025-04-05,Wangsa Maju basin,flood,8.68,34.9,medium
+LN00275,CUST01918,PROP00779,BR016,Personal loan,519532.16,5.64,20,active,2022-07-24,Sungai Buloh floodplain,flood,1.82,67.8,high
+LN00276,CUST00525,PROP00553,BR006,Home loan,635858.98,7.33,5,defaulted,2025-04-26,Wangsa Maju basin,flood,8.06,21.0,low
+LN00277,CUST00265,PROP00742,BR006,Home loan,281879.08,5.88,30,pending_approval,2021-10-19,Subang Jaya urban drain,flood,8.83,37.5,medium
+LN00278,CUST00005,PROP00512,BR008,Renovation loan,662858.59,7.28,25,defaulted,2024-12-14,Shah Alam lowland,flood,3.84,52.6,medium
+LN00279,CUST01765,PROP00315,BR014,SME business loan,563192.21,6.53,10,pending_approval,2020-12-28,Wangsa Maju basin,flood,6.47,14.7,low
+LN00280,CUST01004,PROP01132,BR001,Home loan,399140.34,4.64,10,defaulted,2022-10-22,Wangsa Maju basin,flood,3.55,49.5,medium
+LN00281,CUST01138,PROP00281,BR004,Auto loan,147642.37,5.75,15,defaulted,2024-04-05,Ampang hillside,landslide,5.22,6.9,low
+LN00282,CUST01054,PROP00175,BR005,Home loan,779940.46,5.47,5,pending_approval,2023-04-16,Subang Jaya urban drain,flood,7.82,21.7,low
+LN00283,CUST01575,PROP00501,BR018,Personal loan,211163.68,6.93,10,defaulted,2025-03-09,Rawang lowland,flood,5.93,26.3,low
+LN00284,CUST01639,PROP00519,BR010,Renovation loan,3049015.23,3.9,5,active,2025-02-08,Subang Jaya urban drain,flood,1.65,53.4,medium
+LN00285,CUST00738,PROP00371,BR017,Renovation loan,1931506.31,5.08,20,pending_approval,2022-03-16,Semenyih catchment,flood,6.05,22.6,low
+LN00286,CUST00559,PROP00904,BR011,Auto loan,350521.23,3.57,30,pending_approval,2022-10-04,Kajang stream basin,flood,6.44,14.7,low
+LN00287,CUST01160,PROP00240,BR015,SME business loan,1818610.94,7.45,20,active,2023-02-21,Wangsa Maju basin,flood,2.96,51.5,medium
+LN00288,CUST00085,PROP00643,BR003,Home loan,601682.33,3.9,30,defaulted,2022-03-23,Ampang hillside,landslide,6.4,29.6,low
+LN00289,CUST01375,PROP00066,BR017,Auto loan,327550.77,4.8,15,active,2021-12-19,Semenyih catchment,flood,1.28,76.9,high
+LN00290,CUST00162,PROP01024,BR002,Auto loan,1354494.5,4.77,20,pending_approval,2020-07-28,Subang Jaya urban drain,flood,8.39,8.8,low
+LN00291,CUST01357,PROP01121,BR013,Personal loan,663115.3,4.51,25,active,2024-12-08,Bangi highland,landslide,9.0,21.2,low
+LN00292,CUST01736,PROP00744,BR010,SME business loan,1139624.07,5.2,25,defaulted,2024-03-08,Subang Jaya urban drain,flood,2.17,41.6,medium
+LN00293,CUST00723,PROP00752,BR010,Personal loan,451744.17,3.7,15,closed,2026-03-02,Puchong industrial zone,landslide,3.18,37.8,medium
+LN00294,CUST00356,PROP00619,BR006,Auto loan,1117146.32,3.73,10,active,2022-08-12,Sungai Buloh floodplain,flood,6.27,24.8,low
+LN00295,CUST01750,PROP00956,BR006,Home loan,174580.54,5.86,10,pending_approval,2024-07-24,Subang Jaya urban drain,flood,7.29,27.5,low
+LN00296,CUST00817,PROP00513,BR017,Auto loan,421051.53,4.59,20,closed,2024-09-09,Semenyih catchment,flood,7.01,12.6,low
+LN00297,CUST00834,PROP00482,BR015,Home loan,255195.34,5.56,15,active,2021-02-13,Ampang hillside,landslide,4.82,31.0,medium
+LN00298,CUST01772,PROP00178,BR002,SME business loan,383436.97,6.83,25,pending_approval,2020-12-22,Cheras drainage basin,flood,1.56,60.7,high
+LN00299,CUST01850,PROP00429,BR018,Home loan,760972.91,3.78,25,defaulted,2023-03-16,Rawang lowland,flood,5.58,35.5,medium
+LN00300,CUST01581,PROP00213,BR009,Home loan,604562.58,5.58,15,active,2023-06-28,Shah Alam lowland,flood,4.49,23.7,low
+LN00301,CUST01741,PROP00726,BR018,Personal loan,1173210.17,6.41,15,active,2026-04-24,Rawang lowland,flood,5.11,22.7,low
+LN00302,CUST00151,PROP00265,BR014,Renovation loan,1346397.39,5.79,5,closed,2024-10-06,Wangsa Maju basin,flood,7.31,17.6,low
+LN00303,CUST00291,PROP00703,BR009,Home loan,701142.36,5.8,15,closed,2022-07-15,Klang riverside,flood,7.19,20.5,low
+LN00304,CUST00346,PROP00586,BR017,Home loan,175811.38,4.07,10,active,2022-07-25,Semenyih catchment,flood,2.62,66.9,high
+LN00305,CUST00509,PROP01122,BR014,Personal loan,1370567.56,5.67,15,defaulted,2024-06-13,Ampang hillside,landslide,5.95,30.1,medium
+LN00306,CUST01377,PROP00965,BR010,Personal loan,666881.13,3.77,5,closed,2024-05-20,Puchong industrial zone,landslide,6.2,32.6,medium
+LN00307,CUST00163,PROP00649,BR008,Personal loan,270964.16,5.9,30,active,2025-01-20,Subang Jaya urban drain,flood,3.04,46.8,medium
+LN00308,CUST01506,PROP00165,BR014,Personal loan,1023608.21,4.63,10,active,2020-11-23,Wangsa Maju basin,flood,6.66,28.8,low
+LN00309,CUST00090,PROP01080,BR011,Renovation loan,523696.19,6.78,5,defaulted,2020-08-27,Kajang stream basin,flood,6.86,32.1,medium
+LN00310,CUST01975,PROP00210,BR012,Personal loan,317798.27,5.67,20,defaulted,2023-12-13,Bangi highland,landslide,3.72,36.1,medium
+LN00311,CUST00196,PROP00731,BR014,Auto loan,1361213.36,5.22,30,pending_approval,2023-10-26,Wangsa Maju basin,flood,1.12,84.3,high
+LN00312,CUST01953,PROP01099,BR005,Renovation loan,531552.58,4.78,5,active,2025-06-04,Wangsa Maju basin,flood,6.72,35.3,medium
+LN00313,CUST00071,PROP00591,BR013,SME business loan,550901.59,4.35,25,pending_approval,2024-05-20,Bangi highland,landslide,9.48,33.2,medium
+LN00314,CUST00924,PROP01086,BR016,Renovation loan,2302620.54,4.66,30,defaulted,2023-05-11,Sungai Buloh floodplain,flood,5.62,8.3,low
+LN00315,CUST01262,PROP00855,BR012,Renovation loan,257223.28,4.29,10,active,2020-10-28,Semenyih catchment,flood,3.16,40.0,medium
+LN00316,CUST00214,PROP01000,BR004,Renovation loan,263999.48,6.03,30,pending_approval,2024-06-20,Cheras drainage basin,flood,5.06,22.3,low
+LN00317,CUST00652,PROP00948,BR016,Personal loan,481068.7,5.03,25,active,2025-04-12,Sungai Buloh floodplain,flood,5.13,31.9,medium
+LN00318,CUST01516,PROP00861,BR011,Auto loan,259320.49,7.23,25,active,2024-03-30,Kajang stream basin,flood,2.4,72.6,high
+LN00319,CUST01778,PROP00837,BR005,Home loan,938189.43,6.8,5,active,2021-06-06,Subang Jaya urban drain,flood,5.84,11.0,low
+LN00320,CUST01171,PROP00164,BR011,Renovation loan,926230.03,4.86,20,pending_approval,2021-12-21,Kajang stream basin,flood,1.59,91.5,high
+LN00321,CUST01769,PROP00126,BR017,Auto loan,408619.59,4.05,30,defaulted,2024-07-18,Bangi highland,landslide,2.29,52.9,medium
+LN00322,CUST01558,PROP00322,BR011,Renovation loan,790976.67,3.63,10,active,2022-11-03,Kajang stream basin,flood,5.98,23.4,low
+LN00323,CUST01115,PROP00577,BR007,Renovation loan,575171.91,7.46,15,pending_approval,2024-04-02,Puchong industrial zone,landslide,3.84,23.1,low
+LN00324,CUST00365,PROP00805,BR005,SME business loan,628281.57,6.51,10,active,2024-07-29,Sungai Buloh floodplain,flood,7.75,12.5,low
+LN00325,CUST01912,PROP01200,BR018,Home loan,253038.79,3.55,20,pending_approval,2023-02-23,Rawang lowland,flood,3.17,41.4,medium
+LN00326,CUST00099,PROP01040,BR002,Home loan,318544.79,6.07,15,closed,2022-10-24,Cheras drainage basin,flood,7.42,25.8,low
+LN00327,CUST01879,PROP00473,BR001,Personal loan,706536.02,4.87,20,active,2025-06-14,Cheras drainage basin,flood,3.74,41.0,medium
+LN00328,CUST01317,PROP01188,BR015,Auto loan,2127816.59,6.87,20,active,2024-04-16,Wangsa Maju basin,flood,3.63,46.9,medium
+LN00329,CUST00608,PROP00842,BR005,Home loan,466884.63,4.74,10,pending_approval,2021-09-21,Subang Jaya urban drain,flood,7.17,30.8,medium
+LN00330,CUST01350,PROP01189,BR005,Personal loan,709197.18,6.38,15,defaulted,2021-12-21,Cheras drainage basin,flood,5.95,29.7,low
+LN00331,CUST00251,PROP00217,BR015,Renovation loan,973385.35,7.43,15,active,2021-05-27,Ampang hillside,landslide,1.54,100,high
+LN00332,CUST00242,PROP00142,BR012,Renovation loan,1147424.05,3.69,5,closed,2024-08-07,Bangi highland,landslide,4.25,41.6,medium
+LN00333,CUST00201,PROP00678,BR014,Home loan,483102.89,3.91,5,active,2021-03-26,Wangsa Maju basin,flood,5.62,12.1,low
+LN00334,CUST00532,PROP00713,BR004,Auto loan,1215725.25,6.65,25,active,2022-08-18,Ampang hillside,landslide,4.22,32.9,medium
+LN00335,CUST01566,PROP00939,BR010,Auto loan,721154.32,6.44,20,active,2021-06-05,Puchong industrial zone,landslide,3.22,35.2,medium
+LN00336,CUST00937,PROP00297,BR009,Home loan,1045252.91,6.5,25,active,2025-09-16,Klang riverside,flood,3.57,44.1,medium
+LN00337,CUST00886,PROP00736,BR011,Renovation loan,607662.71,6.44,5,closed,2022-10-07,Semenyih catchment,flood,6.42,38.4,medium
+LN00338,CUST01293,PROP00280,BR006,Auto loan,441276.52,3.74,20,active,2024-04-23,Cheras drainage basin,flood,10.11,23.4,low
+LN00339,CUST01841,PROP00524,BR015,Auto loan,241090.22,7.19,15,defaulted,2024-10-26,Wangsa Maju basin,flood,3.81,42.0,medium
+LN00340,CUST01068,PROP01091,BR001,SME business loan,380527.73,6.25,10,closed,2024-05-18,Sungai Buloh floodplain,flood,10.25,22.8,low
+LN00341,CUST01683,PROP00800,BR010,Personal loan,876979.39,7.39,15,active,2022-09-13,Puchong industrial zone,landslide,5.75,25.5,low
+LN00342,CUST01906,PROP00360,BR014,SME business loan,220111.7,4.86,15,active,2021-10-26,Wangsa Maju basin,flood,0.86,92.2,high
+LN00343,CUST01224,PROP00430,BR011,Renovation loan,311184.23,6.05,20,active,2023-06-26,Bangi highland,landslide,5.88,20.6,low
+LN00344,CUST00910,PROP00465,BR015,Home loan,603020.44,4.31,10,active,2020-12-29,Wangsa Maju basin,flood,5.7,20.0,low
+LN00345,CUST01584,PROP00815,BR015,Personal loan,218276.04,5.01,30,closed,2025-07-28,Wangsa Maju basin,flood,5.63,31.3,medium
+LN00346,CUST00442,PROP00495,BR005,Auto loan,596459.46,6.36,30,closed,2024-02-18,Sungai Buloh floodplain,flood,11.08,29.1,low
+LN00347,CUST01630,PROP00073,BR008,Auto loan,1562024.48,5.35,30,active,2021-08-26,Klang riverside,flood,4.9,30.2,medium
+LN00348,CUST01914,PROP00373,BR016,Personal loan,1587751.21,7.49,30,pending_approval,2020-09-25,Sungai Buloh floodplain,flood,5.58,29.3,low
+LN00349,CUST00588,PROP00850,BR003,Renovation loan,1169890.73,7.47,20,closed,2026-02-17,Cheras drainage basin,flood,2.57,40.1,medium
+LN00350,CUST00063,PROP00848,BR011,Personal loan,473404.55,3.88,10,active,2021-12-18,Semenyih catchment,flood,5.01,11.4,low
+LN00351,CUST00917,PROP00683,BR018,Personal loan,384137.3,5.79,15,active,2025-06-23,Rawang lowland,flood,1.51,59.1,high
+LN00352,CUST00804,PROP00273,BR009,Personal loan,957726.86,6.31,10,closed,2025-02-18,Klang riverside,flood,1.78,100,high
+LN00353,CUST01668,PROP00114,BR013,Home loan,1630263.06,6.56,20,active,2021-12-20,Puchong industrial zone,landslide,14.47,17.4,low
+LN00354,CUST00324,PROP00908,BR011,Renovation loan,377655.46,6.43,25,active,2025-01-04,Kajang stream basin,flood,2.93,57.2,high
+LN00355,CUST01223,PROP00476,BR004,SME business loan,1120779.53,6.87,25,active,2023-11-19,Cheras drainage basin,flood,3.6,39.5,medium
+LN00356,CUST01021,PROP00666,BR010,Renovation loan,1779170.46,7.17,5,active,2024-09-04,Puchong industrial zone,landslide,3.5,16.8,low
+LN00357,CUST00764,PROP01190,BR008,Home loan,1361395.29,4.89,10,active,2025-09-27,Subang Jaya urban drain,flood,5.58,31.7,medium
+LN00358,CUST01380,PROP00389,BR003,Personal loan,680562.06,5.22,10,active,2024-09-18,Cheras drainage basin,flood,1.81,37.2,medium
+LN00359,CUST00341,PROP00400,BR018,Renovation loan,1648230.42,7.44,25,closed,2020-12-07,Rawang lowland,flood,3.34,48.3,medium
+LN00360,CUST00597,PROP00008,BR006,SME business loan,1052604.62,5.21,25,closed,2021-05-09,Wangsa Maju basin,flood,10.64,19.1,low
+LN00361,CUST00574,PROP00304,BR015,Personal loan,476914.73,4.09,30,active,2023-02-13,Wangsa Maju basin,flood,3.92,51.4,medium
+LN00362,CUST01939,PROP00324,BR001,Auto loan,250920.73,5.66,25,active,2024-02-03,Cheras drainage basin,flood,4.53,4.6,low
+LN00363,CUST01209,PROP00428,BR001,Personal loan,977689.42,5.05,30,defaulted,2024-04-03,Cheras drainage basin,flood,7.21,20.4,low
+LN00364,CUST00508,PROP00562,BR016,Renovation loan,350438.94,3.58,10,active,2025-08-09,Sungai Buloh floodplain,flood,6.37,27.5,low
+LN00365,CUST00967,PROP00604,BR005,Personal loan,496377.58,6.67,30,active,2022-10-10,Sungai Buloh floodplain,flood,5.88,23.8,low
+LN00366,CUST01194,PROP00237,BR010,Personal loan,789731.95,3.81,10,active,2021-09-30,Subang Jaya urban drain,flood,3.19,42.6,medium
+LN00367,CUST01444,PROP00888,BR015,Renovation loan,132613.31,3.67,20,active,2026-04-28,Wangsa Maju basin,flood,4.22,32.7,medium
+LN00368,CUST01471,PROP00087,BR016,Personal loan,986893.06,3.56,10,defaulted,2025-01-09,Sungai Buloh floodplain,flood,2.14,59.6,high
+LN00369,CUST00941,PROP01061,BR006,SME business loan,285788.4,5.56,15,defaulted,2023-09-16,Sungai Buloh floodplain,flood,6.18,13.4,low
+LN00370,CUST01009,PROP01083,BR002,Renovation loan,643297.79,3.86,10,active,2022-01-16,Subang Jaya urban drain,flood,6.22,29.9,low
+LN00371,CUST00545,PROP00898,BR013,Personal loan,669527.97,6.22,10,active,2023-06-11,Puchong industrial zone,landslide,15.92,28.5,low
+LN00372,CUST00824,PROP01053,BR007,Home loan,1963617.04,4.44,20,pending_approval,2023-10-26,Subang Jaya urban drain,flood,8.82,20.2,low
+LN00373,CUST00164,PROP00318,BR001,Personal loan,385143.21,4.95,15,active,2025-04-21,Wangsa Maju basin,flood,1.01,71.2,high
+LN00374,CUST00105,PROP00380,BR017,Home loan,1961346.45,4.83,25,pending_approval,2023-06-24,Semenyih catchment,flood,2.34,43.7,medium
+LN00375,CUST00084,PROP00451,BR005,Renovation loan,319084.52,6.56,5,defaulted,2022-07-20,Subang Jaya urban drain,flood,8.24,20.1,low
+LN00376,CUST00140,PROP00669,BR017,SME business loan,391097.79,3.82,20,defaulted,2020-12-03,Semenyih catchment,flood,1.24,81.1,high
+LN00377,CUST01553,PROP00411,BR008,Auto loan,2706004.97,6.46,5,active,2026-05-30,Subang Jaya urban drain,flood,4.67,32.9,medium
+LN00378,CUST00297,PROP01163,BR008,Home loan,742871.94,5.86,30,active,2025-11-13,Shah Alam lowland,flood,1.6,75.9,high
+LN00379,CUST01651,PROP01167,BR005,Renovation loan,434877.75,4.3,30,closed,2026-01-05,Subang Jaya urban drain,flood,4.0,36.9,medium
+LN00380,CUST00136,PROP01038,BR002,Auto loan,2195170.4,4.04,15,active,2021-05-01,Subang Jaya urban drain,flood,8.71,21.5,low
+LN00381,CUST01551,PROP00461,BR011,Home loan,258018.31,6.01,25,closed,2021-01-22,Kajang stream basin,flood,4.02,39.6,medium
+LN00382,CUST01776,PROP00770,BR007,Auto loan,519036.21,4.38,10,active,2025-03-03,Subang Jaya urban drain,flood,3.72,14.6,low
+LN00383,CUST00051,PROP00410,BR009,Home loan,328847.82,7.14,15,active,2024-07-01,Klang riverside,flood,3.62,62.7,high
+LN00384,CUST01180,PROP00382,BR005,Renovation loan,496765.28,4.89,30,active,2020-09-04,Cheras drainage basin,flood,9.28,28.0,low
+LN00385,CUST00589,PROP00486,BR009,Home loan,528539.49,6.7,30,active,2022-10-28,Klang riverside,flood,8.0,34.7,medium
+LN00386,CUST01017,PROP00737,BR002,Personal loan,836372.35,5.0,10,active,2022-08-12,Ampang hillside,landslide,5.54,15.1,low
+LN00387,CUST00447,PROP01159,BR015,Home loan,323054.0,6.05,30,active,2024-09-12,Wangsa Maju basin,flood,5.0,20.4,low
+LN00388,CUST00307,PROP00395,BR013,Auto loan,1126450.55,4.51,15,active,2022-11-08,Puchong industrial zone,landslide,11.39,18.5,low
+LN00389,CUST01015,PROP00824,BR010,Personal loan,2486668.47,5.5,5,active,2021-08-07,Puchong industrial zone,landslide,3.58,34.4,medium
+LN00390,CUST00708,PROP00258,BR005,SME business loan,2151306.28,6.44,5,active,2023-03-02,Sungai Buloh floodplain,flood,8.34,6.8,low
+LN00391,CUST00107,PROP00493,BR004,Renovation loan,424054.02,4.67,25,active,2025-04-03,Ampang hillside,landslide,4.34,24.3,low
+LN00392,CUST00431,PROP00404,BR006,Personal loan,514585.63,6.19,25,active,2021-10-25,Subang Jaya urban drain,flood,6.24,26.8,low
+LN00393,CUST01073,PROP00048,BR018,Personal loan,243983.26,5.85,30,active,2025-10-27,Rawang lowland,flood,5.34,23.9,low
+LN00394,CUST00915,PROP00576,BR013,Auto loan,605631.91,5.69,5,active,2020-11-16,Puchong industrial zone,landslide,10.18,2.1,low
+LN00395,CUST01852,PROP00362,BR015,Auto loan,867026.5,7.36,15,active,2021-05-12,Wangsa Maju basin,flood,6.54,8.4,low
+LN00396,CUST01176,PROP00129,BR003,Personal loan,771060.24,4.04,30,closed,2021-08-05,Wangsa Maju basin,flood,5.93,27.1,low
+LN00397,CUST00960,PROP00009,BR015,Renovation loan,1220992.91,3.72,30,active,2022-03-04,Wangsa Maju basin,flood,6.4,10.3,low
+LN00398,CUST01826,PROP01131,BR011,Personal loan,416508.76,5.9,10,active,2026-02-26,Kajang stream basin,flood,5.27,21.5,low
+LN00399,CUST01503,PROP00688,BR005,Renovation loan,595302.32,4.68,30,active,2021-10-26,Subang Jaya urban drain,flood,6.7,8.4,low
+LN00400,CUST00306,PROP00756,BR009,Auto loan,784616.33,4.34,25,closed,2025-05-05,Klang riverside,flood,5.18,24.3,low
+LN00401,CUST01436,PROP00351,BR005,Renovation loan,940046.1,6.45,5,active,2021-12-27,Subang Jaya urban drain,flood,8.4,23.3,low
+LN00402,CUST01002,PROP00657,BR008,Home loan,266708.42,6.06,5,active,2026-03-13,Subang Jaya urban drain,flood,3.83,37.7,medium
+LN00403,CUST00506,PROP00144,BR002,Personal loan,376731.36,5.86,5,closed,2022-09-09,Ampang hillside,landslide,3.86,58.2,high
+LN00404,CUST01886,PROP00601,BR012,Home loan,260297.59,3.73,15,defaulted,2022-11-06,Bangi highland,landslide,4.55,8.4,low
+LN00405,CUST00900,PROP00447,BR006,Auto loan,686832.59,4.84,5,active,2026-01-29,Sungai Buloh floodplain,flood,6.47,27.2,low
+LN00406,CUST01806,PROP00319,BR014,Personal loan,301167.04,5.37,10,active,2022-10-23,Ampang hillside,landslide,3.93,50.1,medium
+LN00407,CUST01024,PROP00338,BR009,Home loan,1945885.51,4.66,20,closed,2023-04-24,Klang riverside,flood,3.53,36.6,medium
+LN00408,CUST01189,PROP00329,BR015,Renovation loan,1009006.46,3.79,5,pending_approval,2022-12-17,Wangsa Maju basin,flood,5.08,10.4,low
+LN00409,CUST00611,PROP00190,BR014,Home loan,814055.28,6.34,15,pending_approval,2023-09-02,Wangsa Maju basin,flood,1.39,94.1,high
+LN00410,CUST01311,PROP00934,BR005,Renovation loan,687897.93,7.16,25,pending_approval,2023-07-25,Cheras drainage basin,flood,6.61,28.9,low
+LN00411,CUST01917,PROP00503,BR014,Auto loan,1716435.91,5.42,15,closed,2024-01-11,Ampang hillside,landslide,0.68,100,high
+LN00412,CUST00639,PROP00940,BR003,Auto loan,567176.17,5.27,10,pending_approval,2021-06-15,Cheras drainage basin,flood,6.97,24.0,low
+LN00413,CUST00075,PROP01032,BR001,Home loan,1464509.47,6.9,20,active,2022-03-02,Cheras drainage basin,flood,4.99,29.9,low
+LN00414,CUST01706,PROP00295,BR013,Home loan,696241.82,5.67,10,pending_approval,2025-04-23,Bangi highland,landslide,12.03,1.6,low
+LN00415,CUST01479,PROP01138,BR010,Personal loan,499057.67,4.12,10,closed,2022-03-23,Puchong industrial zone,landslide,8.48,30.2,medium
+LN00416,CUST01932,PROP00639,BR014,Renovation loan,975438.74,3.52,10,closed,2022-09-13,Ampang hillside,landslide,2.38,74.7,high
+LN00417,CUST01934,PROP01030,BR017,SME business loan,815267.41,3.57,20,closed,2021-03-20,Kajang stream basin,flood,2.69,56.8,high
+LN00418,CUST01762,PROP00532,BR002,SME business loan,1073473.28,5.26,10,defaulted,2022-05-03,Cheras drainage basin,flood,5.67,12.2,low
+LN00419,CUST01761,PROP00507,BR011,Auto loan,875320.57,7.29,5,active,2024-04-01,Kajang stream basin,flood,7.57,31.5,medium
+LN00420,CUST01515,PROP00542,BR017,Home loan,878308.73,5.1,25,active,2022-05-21,Semenyih catchment,flood,4.27,45.3,medium
+LN00421,CUST00023,PROP00138,BR008,Personal loan,514840.65,6.09,5,active,2026-04-01,Subang Jaya urban drain,flood,7.64,11.0,low
+LN00422,CUST00684,PROP01174,BR013,Auto loan,320609.11,4.57,25,closed,2023-12-20,Puchong industrial zone,landslide,9.39,27.5,low
+LN00423,CUST00869,PROP00572,BR003,Renovation loan,1613153.15,4.34,25,active,2026-04-27,Cheras drainage basin,flood,3.85,12.7,low
+LN00424,CUST01927,PROP00955,BR012,SME business loan,371081.57,6.29,20,active,2023-01-04,Bangi highland,landslide,5.15,27.3,low
+LN00425,CUST00711,PROP00973,BR002,Renovation loan,1330307.27,4.25,25,closed,2022-10-17,Cheras drainage basin,flood,1.09,63.6,high
+LN00426,CUST01306,PROP00148,BR004,Personal loan,260721.17,6.96,5,active,2026-01-25,Ampang hillside,landslide,4.03,58.1,high
+LN00427,CUST01690,PROP01048,BR004,Renovation loan,1102466.77,6.38,20,active,2025-08-25,Wangsa Maju basin,flood,5.74,25.9,low
+LN00428,CUST01196,PROP00370,BR002,Auto loan,422158.95,6.98,20,pending_approval,2021-05-09,Subang Jaya urban drain,flood,6.78,23.7,low
+LN00429,CUST00665,PROP00307,BR008,Renovation loan,1564540.87,3.66,20,pending_approval,2024-07-12,Shah Alam lowland,flood,7.03,1.4,low
+LN00430,CUST01947,PROP00759,BR004,Renovation loan,127041.05,6.79,20,active,2025-09-11,Cheras drainage basin,flood,8.51,8.0,low
+LN00431,CUST00657,PROP00283,BR009,Auto loan,1501793.28,5.04,5,defaulted,2025-02-02,Klang riverside,flood,5.09,25.0,low
+LN00432,CUST01226,PROP00146,BR013,SME business loan,423869.0,5.38,20,closed,2024-12-31,Bangi highland,landslide,10.65,3.0,low
+LN00433,CUST00933,PROP00171,BR016,Renovation loan,522141.7,3.7,30,active,2025-10-01,Sungai Buloh floodplain,flood,7.55,38.4,medium
+LN00434,CUST01324,PROP01087,BR017,Home loan,893388.71,5.49,15,pending_approval,2024-10-05,Kajang stream basin,flood,1.76,78.7,high
+LN00435,CUST00070,PROP00442,BR015,SME business loan,729110.63,3.63,30,active,2021-07-28,Wangsa Maju basin,flood,7.53,30.3,medium
+LN00436,CUST00612,PROP00079,BR006,Renovation loan,537567.83,5.52,30,pending_approval,2026-03-01,Subang Jaya urban drain,flood,9.95,33.4,medium
+LN00437,CUST00488,PROP00704,BR009,Auto loan,580873.3,5.8,5,pending_approval,2024-12-07,Shah Alam lowland,flood,1.92,74.5,high
+LN00438,CUST00315,PROP00717,BR012,Auto loan,192087.77,5.14,15,active,2024-09-16,Bangi highland,landslide,4.62,29.9,low
+LN00439,CUST01665,PROP00568,BR011,SME business loan,382178.99,4.83,25,defaulted,2024-03-06,Kajang stream basin,flood,6.26,1.8,low
+LN00440,CUST00382,PROP01078,BR006,Home loan,404912.89,5.04,20,defaulted,2024-01-01,Subang Jaya urban drain,flood,8.69,24.1,low
+LN00441,CUST01587,PROP00709,BR016,Home loan,1017464.7,4.07,25,active,2021-10-15,Rawang lowland,flood,9.15,26.8,low
+LN00442,CUST00193,PROP00042,BR010,Auto loan,554182.58,6.0,25,closed,2024-08-09,Puchong industrial zone,landslide,6.16,11.1,low
+LN00443,CUST00889,PROP00425,BR015,Personal loan,832745.02,7.32,25,active,2022-02-10,Wangsa Maju basin,flood,6.4,21.8,low
+LN00444,CUST01342,PROP01177,BR014,Auto loan,1759524.92,5.62,5,defaulted,2021-04-29,Ampang hillside,landslide,1.37,98.5,high
+LN00445,CUST01415,PROP00919,BR011,Renovation loan,246577.12,7.0,10,pending_approval,2021-04-13,Kajang stream basin,flood,4.84,37.1,medium
+LN00446,CUST01541,PROP00610,BR009,Home loan,1334887.56,4.61,20,pending_approval,2021-02-26,Klang riverside,flood,4.53,46.9,medium
+LN00447,CUST01294,PROP00550,BR011,Renovation loan,959749.52,5.76,20,active,2023-02-13,Kajang stream basin,flood,6.94,20.1,low
+LN00448,CUST00384,PROP00479,BR001,Home loan,1162315.58,5.99,15,active,2025-03-11,Wangsa Maju basin,flood,6.81,7.4,low
+LN00449,CUST01121,PROP01013,BR011,Home loan,332981.47,4.72,5,active,2022-09-21,Semenyih catchment,flood,3.32,59.5,high
+LN00450,CUST01447,PROP00238,BR015,SME business loan,143964.65,5.28,20,active,2020-07-09,Wangsa Maju basin,flood,0.37,85.3,high
+LN00451,CUST00557,PROP00661,BR017,Home loan,238922.88,5.19,5,pending_approval,2021-05-18,Semenyih catchment,flood,6.89,25.4,low
+LN00452,CUST01088,PROP00539,BR001,Renovation loan,375733.39,5.84,25,defaulted,2021-09-02,Wangsa Maju basin,flood,4.96,23.9,low
+LN00453,CUST01280,PROP00443,BR003,Renovation loan,833446.31,7.09,30,active,2025-11-08,Cheras drainage basin,flood,5.2,27.1,low
+LN00454,CUST01594,PROP00830,BR003,Personal loan,610476.52,4.53,25,defaulted,2023-04-07,Cheras drainage basin,flood,1.77,50.6,medium
+LN00455,CUST01239,PROP00819,BR002,Renovation loan,291571.5,6.96,5,defaulted,2026-05-26,Cheras drainage basin,flood,7.33,27.5,low
+LN00456,CUST01412,PROP00036,BR007,Auto loan,389555.54,6.75,20,defaulted,2024-08-19,Shah Alam lowland,flood,3.12,65.4,high
+LN00457,CUST01935,PROP00788,BR016,SME business loan,1581064.53,5.28,15,closed,2025-08-16,Sungai Buloh floodplain,flood,3.02,44.0,medium
+LN00458,CUST01523,PROP00390,BR006,Auto loan,1255793.3,6.31,30,defaulted,2024-07-03,Subang Jaya urban drain,flood,5.4,36.4,medium
+LN00459,CUST01402,PROP00491,BR011,Auto loan,1376580.68,7.14,30,active,2024-09-09,Kajang stream basin,flood,3.49,50.1,medium
+LN00460,CUST01318,PROP01062,BR006,Renovation loan,2401603.8,4.07,30,defaulted,2022-03-20,Cheras drainage basin,flood,9.9,2.8,low
+LN00461,CUST00932,PROP00313,BR015,Auto loan,318624.33,5.48,5,closed,2022-07-25,Ampang hillside,landslide,2.77,62.8,high
+LN00462,CUST00922,PROP00758,BR001,Auto loan,270380.48,6.04,20,active,2023-06-15,Cheras drainage basin,flood,7.5,22.7,low
+LN00463,CUST01940,PROP00976,BR006,Home loan,377383.25,7.35,10,active,2023-11-25,Sungai Buloh floodplain,flood,8.0,36.6,medium
+LN00464,CUST00693,PROP00208,BR011,Home loan,767779.78,3.98,5,pending_approval,2025-08-23,Kajang stream basin,flood,3.48,51.9,medium
+LN00465,CUST01213,PROP00599,BR006,Auto loan,1357537.48,4.09,5,pending_approval,2021-04-26,Wangsa Maju basin,flood,10.99,32.1,medium
+LN00466,CUST01304,PROP00039,BR003,Personal loan,361289.55,5.8,30,defaulted,2021-03-11,Cheras drainage basin,flood,4.85,24.4,low
+LN00467,CUST01780,PROP00252,BR015,Home loan,436628.87,4.35,15,active,2023-08-13,Wangsa Maju basin,flood,4.94,29.0,low
+LN00468,CUST00052,PROP00167,BR003,SME business loan,256830.19,6.29,10,closed,2024-09-07,Ampang hillside,landslide,4.81,35.1,medium
+LN00469,CUST01542,PROP00090,BR013,Home loan,1043078.19,4.34,25,defaulted,2020-10-21,Puchong industrial zone,landslide,5.12,30.3,medium
+LN00470,CUST00622,PROP00264,BR004,Auto loan,292754.79,4.04,10,pending_approval,2020-08-22,Ampang hillside,landslide,5.41,18.8,low
+LN00471,CUST00914,PROP00986,BR018,SME business loan,1533959.74,7.3,20,defaulted,2021-11-16,Rawang lowland,flood,4.31,29.1,low
+LN00472,CUST01027,PROP00057,BR016,Personal loan,549826.44,4.77,15,pending_approval,2024-02-29,Sungai Buloh floodplain,flood,5.26,39.3,medium
+LN00473,CUST00472,PROP01179,BR010,Auto loan,202996.81,5.17,15,pending_approval,2021-04-19,Puchong industrial zone,landslide,2.14,44.9,medium
+LN00474,CUST01248,PROP00092,BR009,Renovation loan,1052617.35,6.11,30,active,2022-04-02,Klang riverside,flood,2.97,76.0,high
+LN00475,CUST01507,PROP00558,BR010,Home loan,594006.62,7.13,15,defaulted,2023-10-30,Puchong industrial zone,landslide,7.07,22.0,low
+LN00476,CUST00688,PROP00714,BR002,SME business loan,194623.76,6.75,20,active,2025-07-17,Subang Jaya urban drain,flood,7.93,33.7,medium
+LN00477,CUST01309,PROP00195,BR006,Home loan,411664.05,6.98,20,active,2026-02-27,Sungai Buloh floodplain,flood,5.51,21.8,low
+LN00478,CUST00370,PROP00581,BR010,Personal loan,138387.22,6.58,5,defaulted,2026-03-07,Subang Jaya urban drain,flood,2.65,20.2,low
+LN00479,CUST00295,PROP00957,BR002,Auto loan,1842735.07,7.38,15,defaulted,2025-02-20,Cheras drainage basin,flood,7.26,23.9,low
+LN00480,CUST00930,PROP00248,BR012,Personal loan,256737.97,4.22,10,defaulted,2021-08-27,Kajang stream basin,flood,4.72,15.4,low
+LN00481,CUST00223,PROP00021,BR012,Home loan,775204.75,5.15,25,active,2024-05-14,Semenyih catchment,flood,2.76,53.9,medium
+LN00482,CUST01046,PROP01085,BR013,Personal loan,1104749.45,7.28,25,defaulted,2025-10-12,Bangi highland,landslide,12.46,17.8,low
+LN00483,CUST01478,PROP00910,BR016,Home loan,519126.96,6.16,15,closed,2024-08-27,Sungai Buloh floodplain,flood,5.73,30.3,medium
+LN00484,CUST01356,PROP00115,BR005,Personal loan,627119.01,5.58,15,pending_approval,2026-01-20,Wangsa Maju basin,flood,10.36,28.6,low
+LN00485,CUST01102,PROP00521,BR010,Home loan,257676.12,6.6,20,closed,2024-09-08,Puchong industrial zone,landslide,4.06,29.5,low
+LN00486,CUST00010,PROP00270,BR007,Renovation loan,546790.79,4.93,15,active,2022-02-11,Subang Jaya urban drain,flood,4.37,29.9,low
+LN00487,CUST01337,PROP00685,BR009,SME business loan,537087.05,5.26,30,active,2020-11-17,Klang riverside,flood,3.84,51.9,medium
+LN00488,CUST01114,PROP00022,BR003,Auto loan,570759.29,7.36,10,closed,2026-01-12,Cheras drainage basin,flood,6.98,32.9,medium
+LN00489,CUST01905,PROP00812,BR009,Home loan,1149416.27,5.63,15,active,2023-06-05,Klang riverside,flood,6.51,36.0,medium
+LN00490,CUST00593,PROP00363,BR007,Personal loan,417746.83,6.19,25,defaulted,2025-02-02,Puchong industrial zone,landslide,2.87,18.4,low
+LN00491,CUST00890,PROP00811,BR004,Auto loan,212370.97,7.23,15,closed,2023-03-03,Ampang hillside,landslide,3.17,52.1,medium
+LN00492,CUST00433,PROP00777,BR014,Personal loan,1234202.08,4.49,20,active,2022-11-13,Wangsa Maju basin,flood,5.67,21.8,low
+LN00493,CUST01485,PROP01097,BR004,Personal loan,202706.07,4.88,15,active,2022-12-09,Ampang hillside,landslide,1.53,83.8,high
+LN00494,CUST01533,PROP00332,BR016,Renovation loan,615881.25,5.29,15,active,2021-10-24,Rawang lowland,flood,7.36,30.6,medium
+LN00495,CUST00899,PROP00352,BR014,Personal loan,842164.14,5.58,25,active,2021-05-04,Wangsa Maju basin,flood,7.2,32.1,medium
+LN00496,CUST00784,PROP00536,BR001,Personal loan,1258582.42,4.29,15,active,2025-09-03,Cheras drainage basin,flood,8.8,26.8,low
+LN00497,CUST01335,PROP00995,BR005,Home loan,138992.72,6.0,20,pending_approval,2026-05-17,Cheras drainage basin,flood,6.99,25.2,low
+LN00498,CUST00703,PROP01183,BR015,Home loan,197204.12,4.58,5,pending_approval,2023-08-14,Wangsa Maju basin,flood,5.97,26.5,low
+LN00499,CUST00992,PROP00381,BR005,Auto loan,505397.93,4.09,30,pending_approval,2021-09-12,Subang Jaya urban drain,flood,5.83,23.8,low
+LN00500,CUST00952,PROP00137,BR016,Personal loan,350425.58,4.06,30,active,2021-03-04,Sungai Buloh floodplain,flood,4.87,34.1,medium
+LN00501,CUST00258,PROP00865,BR011,Auto loan,1573749.11,6.21,5,active,2026-06-05,Kajang stream basin,flood,6.36,25.7,low
+LN00502,CUST00158,PROP01164,BR012,Renovation loan,515948.25,4.17,30,pending_approval,2025-10-18,Bangi highland,landslide,4.05,9.2,low
+LN00503,CUST01928,PROP00158,BR002,Renovation loan,377919.23,3.67,25,closed,2025-06-13,Sungai Buloh floodplain,flood,7.46,18.5,low
+LN00504,CUST01573,PROP00584,BR007,SME business loan,1858955.11,6.57,15,closed,2020-08-28,Subang Jaya urban drain,flood,2.93,29.8,low
+LN00505,CUST01181,PROP00403,BR003,Home loan,407739.69,7.08,25,active,2026-03-11,Ampang hillside,landslide,4.09,41.7,medium
+LN00506,CUST00997,PROP00107,BR002,Renovation loan,111844.82,6.41,25,active,2020-10-15,Wangsa Maju basin,flood,6.48,7.3,low
+LN00507,CUST01105,PROP01081,BR009,Renovation loan,291844.03,5.93,5,active,2025-10-28,Shah Alam lowland,flood,3.93,22.0,low
+LN00508,CUST00880,PROP00077,BR011,Renovation loan,919942.26,3.98,5,active,2024-07-20,Kajang stream basin,flood,5.68,31.7,medium
+LN00509,CUST00428,PROP00284,BR016,Home loan,438098.26,3.63,30,active,2022-04-01,Sungai Buloh floodplain,flood,3.83,40.6,medium
+LN00510,CUST00837,PROP00198,BR001,Home loan,397112.83,7.42,30,active,2026-01-02,Cheras drainage basin,flood,4.76,29.5,low
+LN00511,CUST01519,PROP00422,BR006,Renovation loan,606136.5,6.13,25,closed,2021-04-03,Sungai Buloh floodplain,flood,7.09,21.6,low
+LN00512,CUST01183,PROP00624,BR013,Personal loan,608875.26,6.61,5,active,2025-05-26,Puchong industrial zone,landslide,8.83,7.2,low
+LN00513,CUST00113,PROP00469,BR012,Auto loan,638486.99,5.17,10,defaulted,2025-02-18,Bangi highland,landslide,2.99,39.2,medium
+LN00514,CUST01025,PROP00260,BR018,SME business loan,476700.8,7.35,20,active,2025-09-18,Rawang lowland,flood,4.61,23.2,low
+LN00515,CUST00445,PROP00355,BR006,Home loan,617785.98,6.24,30,active,2021-09-19,Sungai Buloh floodplain,flood,6.84,26.2,low
+LN00516,CUST00143,PROP00466,BR003,Personal loan,299790.39,4.13,20,active,2026-06-15,Cheras drainage basin,flood,0.75,51.7,medium
+LN00517,CUST01720,PROP00705,BR009,Renovation loan,287801.24,4.55,30,defaulted,2021-10-08,Klang riverside,flood,4.93,30.7,medium
+LN00518,CUST00453,PROP00870,BR005,Home loan,1121597.74,5.06,25,active,2025-08-04,Cheras drainage basin,flood,8.79,27.5,low
+LN00519,CUST00467,PROP00325,BR018,Personal loan,389793.3,6.87,30,pending_approval,2024-07-20,Rawang lowland,flood,8.63,0.0,low
+LN00520,CUST00526,PROP00075,BR004,SME business loan,208767.67,7.11,5,pending_approval,2022-10-13,Wangsa Maju basin,flood,1.29,72.5,high
+LN00521,CUST01527,PROP00464,BR015,Auto loan,1191521.09,7.18,30,active,2026-03-06,Wangsa Maju basin,flood,4.93,24.5,low
+LN00522,CUST00368,PROP01173,BR002,SME business loan,370486.21,5.99,5,active,2023-07-21,Cheras drainage basin,flood,6.35,25.6,low
+LN00523,CUST00014,PROP00560,BR002,Renovation loan,212542.63,6.52,15,defaulted,2026-02-16,Wangsa Maju basin,flood,8.53,26.6,low
+LN00524,CUST00173,PROP00205,BR018,SME business loan,249549.2,5.61,10,defaulted,2024-08-23,Rawang lowland,flood,5.93,23.1,low
+LN00525,CUST01099,PROP01169,BR009,Renovation loan,323069.42,4.26,10,active,2024-02-16,Klang riverside,flood,5.35,21.1,low
+LN00526,CUST00551,PROP00760,BR001,Home loan,610435.3,4.09,15,defaulted,2023-06-28,Wangsa Maju basin,flood,9.1,12.7,low
+LN00527,CUST00175,PROP00468,BR012,Renovation loan,356465.34,5.04,5,active,2024-12-08,Semenyih catchment,flood,2.44,55.7,high
+LN00528,CUST01752,PROP00727,BR008,Personal loan,269508.97,5.77,15,pending_approval,2021-01-04,Shah Alam lowland,flood,8.96,20.8,low
+LN00529,CUST00995,PROP00721,BR004,Renovation loan,483500.7,5.52,5,defaulted,2021-09-26,Ampang hillside,landslide,7.0,22.4,low
+LN00530,CUST01547,PROP00337,BR016,Renovation loan,473854.31,4.48,5,closed,2020-07-19,Sungai Buloh floodplain,flood,4.31,33.9,medium
+LN00531,CUST00190,PROP00358,BR012,SME business loan,645009.06,7.2,10,defaulted,2022-07-05,Bangi highland,landslide,0.94,53.0,medium
+LN00532,CUST00692,PROP00407,BR005,Renovation loan,849021.98,5.76,25,active,2024-07-23,Wangsa Maju basin,flood,5.23,26.2,low
+LN00533,CUST00139,PROP00435,BR004,Home loan,322497.92,5.03,20,closed,2024-02-19,Ampang hillside,landslide,3.31,58.7,high
+LN00534,CUST00375,PROP00633,BR008,SME business loan,764669.39,5.89,10,pending_approval,2022-03-19,Shah Alam lowland,flood,3.48,27.3,low
+LN00535,CUST00184,PROP01008,BR007,Personal loan,552092.63,5.16,10,active,2023-02-08,Subang Jaya urban drain,flood,7.77,28.2,low
+LN00536,CUST00843,PROP01096,BR010,Auto loan,918583.28,7.12,5,closed,2025-12-28,Puchong industrial zone,landslide,6.5,35.1,medium
+LN00537,CUST00520,PROP00209,BR011,Renovation loan,1163768.14,7.5,15,defaulted,2021-04-17,Kajang stream basin,flood,6.95,19.4,low
+LN00538,CUST00717,PROP00556,BR013,Renovation loan,864117.69,6.62,5,active,2023-11-14,Puchong industrial zone,landslide,13.12,19.0,low
+LN00539,CUST00154,PROP00589,BR016,Personal loan,251530.97,3.57,20,pending_approval,2022-09-20,Sungai Buloh floodplain,flood,6.53,38.1,medium
+LN00540,CUST00333,PROP00364,BR001,Home loan,781181.36,5.76,15,active,2023-01-05,Cheras drainage basin,flood,2.54,45.4,medium
+LN00541,CUST00685,PROP00784,BR009,Auto loan,598624.5,5.79,15,pending_approval,2023-11-27,Klang riverside,flood,8.14,22.5,low
+LN00542,CUST00033,PROP00932,BR018,SME business loan,1982094.39,4.61,30,active,2025-07-02,Rawang lowland,flood,4.93,5.4,low
+LN00543,CUST00855,PROP00911,BR007,Renovation loan,170974.12,6.47,10,active,2021-03-06,Puchong industrial zone,landslide,3.74,42.4,medium
+LN00544,CUST00610,PROP00070,BR003,Home loan,594207.6,5.22,30,defaulted,2021-08-15,Cheras drainage basin,flood,2.54,49.5,medium
+LN00545,CUST00745,PROP00961,BR011,Auto loan,445714.93,6.05,20,pending_approval,2022-01-24,Kajang stream basin,flood,6.11,13.3,low
+LN00546,CUST00219,PROP00547,BR002,SME business loan,1038057.25,6.08,10,active,2022-09-18,Wangsa Maju basin,flood,7.8,9.6,low
+LN00547,CUST00138,PROP00145,BR010,Home loan,695511.84,6.99,15,active,2025-09-12,Shah Alam lowland,flood,3.74,30.8,medium
+LN00548,CUST00925,PROP00335,BR007,Renovation loan,938721.82,6.47,25,active,2025-12-11,Puchong industrial zone,landslide,1.36,61.7,high
+LN00549,CUST01219,PROP00968,BR009,Home loan,932429.68,5.29,30,pending_approval,2026-01-29,Klang riverside,flood,6.26,26.8,low
+LN00550,CUST00963,PROP00808,BR005,SME business loan,2355582.42,4.25,30,active,2022-09-28,Subang Jaya urban drain,flood,10.23,27.6,low
+LN00551,CUST00845,PROP00871,BR014,SME business loan,252297.5,4.4,25,active,2025-06-12,Wangsa Maju basin,flood,3.42,43.7,medium
+LN00552,CUST00635,PROP00615,BR011,Personal loan,542964.73,6.56,20,pending_approval,2026-04-24,Semenyih catchment,flood,4.89,28.4,low
+LN00553,CUST00018,PROP00630,BR010,Auto loan,966915.16,4.95,30,active,2025-09-29,Puchong industrial zone,landslide,7.74,29.0,low
+LN00554,CUST01964,PROP00598,BR003,Home loan,1466947.68,5.58,15,active,2020-12-16,Cheras drainage basin,flood,4.37,5.7,low
+LN00555,CUST01699,PROP00851,BR007,SME business loan,1414972.07,5.23,5,active,2025-11-21,Subang Jaya urban drain,flood,5.9,21.6,low
+LN00556,CUST00655,PROP00676,BR017,Personal loan,401072.75,5.83,20,defaulted,2022-03-31,Kajang stream basin,flood,4.02,40.4,medium
+LN00557,CUST01116,PROP00133,BR006,Auto loan,424350.29,5.52,15,active,2021-02-25,Sungai Buloh floodplain,flood,8.01,17.9,low
+LN00558,CUST00676,PROP00271,BR011,Home loan,170507.18,6.68,15,pending_approval,2022-07-26,Kajang stream basin,flood,3.61,58.2,high
+LN00559,CUST00282,PROP00668,BR017,Renovation loan,255613.33,4.49,30,closed,2025-11-22,Kajang stream basin,flood,4.81,32.2,medium
+LN00560,CUST00838,PROP00618,BR014,SME business loan,404045.19,5.4,20,closed,2024-10-15,Wangsa Maju basin,flood,1.74,86.4,high
+LN00561,CUST01386,PROP00314,BR008,Personal loan,2473870.13,4.21,15,active,2025-11-11,Shah Alam lowland,flood,5.23,26.8,low
+LN00562,CUST01295,PROP01125,BR017,Home loan,598413.79,7.39,15,active,2024-05-07,Semenyih catchment,flood,2.83,51.0,medium
+LN00563,CUST01332,PROP00432,BR015,Auto loan,338304.66,6.32,20,closed,2023-09-28,Ampang hillside,landslide,2.42,87.9,high
+LN00564,CUST01624,PROP00173,BR016,Auto loan,488396.25,5.28,20,closed,2020-10-14,Sungai Buloh floodplain,flood,7.65,38.8,medium
+LN00565,CUST01620,PROP00607,BR015,Home loan,429573.04,6.55,25,pending_approval,2026-03-17,Wangsa Maju basin,flood,5.19,32.0,medium
+LN00566,CUST00491,PROP00201,BR014,Auto loan,293775.61,3.81,10,closed,2024-11-24,Wangsa Maju basin,flood,4.6,25.5,low
+LN00567,CUST00104,PROP00847,BR014,SME business loan,264930.71,4.81,25,active,2023-12-16,Wangsa Maju basin,flood,6.11,21.5,low
+LN00568,CUST01297,PROP00754,BR012,Home loan,139483.23,5.74,30,pending_approval,2025-01-15,Kajang stream basin,flood,4.23,22.9,low
+LN00569,CUST01325,PROP00970,BR008,SME business loan,309238.69,3.71,25,active,2024-11-27,Shah Alam lowland,flood,7.51,24.1,low
+LN00570,CUST00359,PROP00141,BR015,Auto loan,1776129.25,5.19,20,defaulted,2022-03-18,Wangsa Maju basin,flood,8.36,21.7,low
+LN00571,CUST01472,PROP00766,BR014,Renovation loan,412797.22,6.82,15,closed,2024-04-28,Wangsa Maju basin,flood,7.02,3.0,low
+LN00572,CUST01734,PROP00538,BR015,Auto loan,1855402.54,5.78,30,pending_approval,2020-11-11,Wangsa Maju basin,flood,7.83,38.9,medium
+LN00573,CUST01179,PROP00761,BR011,Personal loan,448742.8,6.68,5,active,2020-11-11,Kajang stream basin,flood,3.92,25.6,low
+LN00574,CUST01399,PROP00120,BR016,Home loan,1006407.61,3.62,30,active,2021-12-12,Sungai Buloh floodplain,flood,4.22,41.9,medium
+LN00575,CUST01208,PROP00497,BR004,Auto loan,683963.73,5.88,20,active,2022-08-03,Ampang hillside,landslide,3.75,42.7,medium
+LN00576,CUST01159,PROP00605,BR015,SME business loan,1193155.16,5.84,5,active,2022-10-21,Wangsa Maju basin,flood,1.63,76.2,high
+LN00577,CUST01954,PROP00802,BR012,Home loan,522643.58,5.09,5,defaulted,2023-07-20,Semenyih catchment,flood,1.02,76.7,high
+LN00578,CUST00170,PROP00196,BR014,Home loan,1263293.57,3.53,30,active,2020-12-13,Wangsa Maju basin,flood,2.88,66.9,high
+LN00579,CUST01270,PROP01020,BR007,SME business loan,963655.28,5.43,10,active,2021-10-11,Subang Jaya urban drain,flood,3.38,25.5,low
+LN00580,CUST00322,PROP01120,BR016,Personal loan,2399544.44,6.19,30,active,2022-06-23,Sungai Buloh floodplain,flood,4.72,22.2,low
+LN00581,CUST01496,PROP00579,BR001,Renovation loan,1449003.36,5.19,30,defaulted,2023-08-19,Cheras drainage basin,flood,3.5,46.6,medium
+LN00582,CUST00972,PROP01195,BR009,SME business loan,461965.08,4.29,5,active,2024-06-03,Klang riverside,flood,3.56,53.6,medium
+LN00583,CUST01397,PROP00093,BR007,Home loan,569750.95,4.12,15,active,2022-02-21,Shah Alam lowland,flood,2.39,57.0,high
+LN00584,CUST01593,PROP00005,BR009,Personal loan,365242.4,4.52,10,active,2024-05-15,Klang riverside,flood,4.97,25.3,low
+LN00585,CUST01187,PROP00135,BR003,Auto loan,400006.2,6.2,30,pending_approval,2023-05-12,Cheras drainage basin,flood,4.78,5.8,low
+LN00586,CUST01361,PROP00782,BR009,Personal loan,564617.09,6.39,10,pending_approval,2023-03-31,Klang riverside,flood,8.23,31.2,medium
+LN00587,CUST01539,PROP01077,BR016,SME business loan,1849849.07,5.43,5,active,2022-08-11,Sungai Buloh floodplain,flood,7.35,16.3,low
+LN00588,CUST01177,PROP00060,BR005,Home loan,1696818.82,6.09,20,closed,2020-10-17,Sungai Buloh floodplain,flood,6.96,10.0,low
+LN00589,CUST00968,PROP00321,BR006,Home loan,381423.51,5.41,30,defaulted,2020-09-30,Sungai Buloh floodplain,flood,6.86,21.4,low
+LN00590,CUST00385,PROP00131,BR003,Renovation loan,739592.68,6.65,5,defaulted,2024-05-01,Cheras drainage basin,flood,2.74,51.8,medium
+LN00591,CUST00650,PROP01056,BR013,Renovation loan,696511.62,6.87,20,pending_approval,2021-02-11,Puchong industrial zone,landslide,12.01,25.5,low
+LN00592,CUST01719,PROP00193,BR010,Auto loan,327352.27,5.49,30,active,2022-12-01,Puchong industrial zone,landslide,7.17,34.9,medium
+LN00593,CUST01330,PROP01018,BR002,Home loan,1016539.82,6.5,10,active,2026-01-31,Cheras drainage basin,flood,4.84,26.8,low
+LN00594,CUST01031,PROP00944,BR011,SME business loan,984335.7,5.5,10,defaulted,2022-10-14,Kajang stream basin,flood,6.58,11.5,low
+LN00595,CUST00868,PROP00163,BR009,Personal loan,583038.73,4.29,25,active,2023-03-07,Klang riverside,flood,4.01,48.1,medium
+LN00596,CUST01474,PROP00104,BR018,SME business loan,415779.29,5.28,30,pending_approval,2023-06-02,Rawang lowland,flood,1.9,51.0,medium
+LN00597,CUST00814,PROP00132,BR009,SME business loan,300658.25,5.4,25,active,2025-05-22,Klang riverside,flood,2.37,86.7,high
+LN00598,CUST01145,PROP00128,BR014,Auto loan,328892.42,6.25,30,closed,2023-10-16,Wangsa Maju basin,flood,1.16,80.4,high
+LN00599,CUST00978,PROP00375,BR014,Auto loan,1114775.19,4.57,30,pending_approval,2020-09-17,Wangsa Maju basin,flood,3.56,42.3,medium
+LN00600,CUST00957,PROP00078,BR018,Home loan,818371.16,5.02,15,closed,2026-04-08,Rawang lowland,flood,7.08,30.6,medium
+LN00601,CUST00729,PROP00679,BR017,Renovation loan,424786.51,5.12,10,active,2024-02-23,Semenyih catchment,flood,4.86,36.5,medium
+LN00602,CUST01022,PROP00043,BR002,Auto loan,221470.58,7.35,20,active,2021-06-04,Subang Jaya urban drain,flood,7.34,11.6,low
+LN00603,CUST00244,PROP01152,BR013,SME business loan,618972.9,5.82,5,closed,2023-04-09,Puchong industrial zone,landslide,9.07,19.7,low
+LN00604,CUST00829,PROP01172,BR009,Renovation loan,385035.24,5.07,20,active,2025-12-19,Klang riverside,flood,8.32,18.4,low
+LN00605,CUST00857,PROP00392,BR005,Home loan,591475.46,4.3,10,defaulted,2021-02-10,Cheras drainage basin,flood,8.47,38.4,medium
+LN00606,CUST01986,PROP00176,BR016,Home loan,2156647.41,3.81,15,active,2025-11-18,Sungai Buloh floodplain,flood,3.01,58.7,high
+LN00607,CUST01435,PROP00740,BR004,Auto loan,1681483.68,7.36,30,defaulted,2023-08-29,Ampang hillside,landslide,5.49,29.0,low
+LN00608,CUST01559,PROP00278,BR005,SME business loan,320826.13,5.51,5,active,2023-11-06,Puchong industrial zone,landslide,6.59,24.1,low
+LN00609,CUST01938,PROP00838,BR003,SME business loan,987810.55,7.07,10,defaulted,2024-09-18,Cheras drainage basin,flood,3.86,39.8,medium
+LN00610,CUST01532,PROP01114,BR015,Personal loan,1597104.89,4.96,10,pending_approval,2023-05-26,Ampang hillside,landslide,6.09,31.9,medium
+LN00611,CUST01700,PROP01123,BR005,Personal loan,581760.74,5.88,25,defaulted,2021-02-10,Subang Jaya urban drain,flood,7.4,19.0,low
+LN00612,CUST01717,PROP00037,BR017,Auto loan,257604.9,6.29,15,active,2021-01-20,Semenyih catchment,flood,4.33,43.5,medium
+LN00613,CUST00112,PROP01194,BR002,Renovation loan,1986675.07,6.58,20,active,2022-09-09,Cheras drainage basin,flood,8.18,26.1,low
+LN00614,CUST00794,PROP00401,BR017,Renovation loan,2175854.14,5.04,25,active,2026-01-23,Semenyih catchment,flood,6.36,39.3,medium
+LN00615,CUST01112,PROP00345,BR001,Renovation loan,232290.29,6.79,20,active,2023-01-16,Ampang hillside,landslide,3.29,70.2,high
+LN00616,CUST01006,PROP01036,BR016,Personal loan,343031.35,4.37,30,active,2025-04-16,Sungai Buloh floodplain,flood,5.19,13.2,low
+LN00617,CUST01404,PROP00418,BR018,Personal loan,469004.57,5.79,20,active,2026-05-13,Rawang lowland,flood,5.5,24.9,low
+LN00618,CUST00097,PROP00223,BR014,Personal loan,286673.09,5.24,25,closed,2021-03-04,Wangsa Maju basin,flood,8.43,29.4,low
+LN00619,CUST01231,PROP01065,BR010,SME business loan,2047362.88,3.83,10,defaulted,2023-11-28,Puchong industrial zone,landslide,7.78,25.5,low
+LN00620,CUST01287,PROP01145,BR003,Home loan,511875.11,4.19,30,defaulted,2023-04-26,Cheras drainage basin,flood,2.57,34.5,medium
+LN00621,CUST00866,PROP01007,BR001,Renovation loan,915410.02,5.15,5,pending_approval,2025-06-26,Wangsa Maju basin,flood,2.02,53.2,medium
+LN00622,CUST00135,PROP00038,BR016,SME business loan,316509.17,5.9,10,active,2023-02-16,Sungai Buloh floodplain,flood,8.27,19.3,low
+LN00623,CUST01548,PROP01142,BR014,SME business loan,324321.62,6.26,15,closed,2023-12-21,Wangsa Maju basin,flood,9.57,31.6,medium
+LN00624,CUST00288,PROP00160,BR012,Home loan,360162.46,7.09,10,active,2024-10-09,Bangi highland,landslide,5.21,17.0,low
+LN00625,CUST00227,PROP00787,BR016,Personal loan,1075749.03,5.69,30,active,2021-09-15,Sungai Buloh floodplain,flood,5.41,35.0,medium
+LN00626,CUST01273,PROP00194,BR009,Personal loan,574312.36,4.93,10,closed,2021-09-09,Klang riverside,flood,7.25,32.0,medium
+LN00627,CUST01163,PROP00616,BR006,Renovation loan,557153.76,3.92,30,active,2022-12-24,Sungai Buloh floodplain,flood,4.34,25.0,low
+LN00628,CUST00700,PROP00393,BR005,Renovation loan,167266.75,4.7,10,pending_approval,2023-05-10,Wangsa Maju basin,flood,6.73,28.2,low
+LN00629,CUST00318,PROP01005,BR006,SME business loan,1666321.97,5.5,20,active,2020-09-29,Sungai Buloh floodplain,flood,7.03,14.1,low
+LN00630,CUST00732,PROP01021,BR006,SME business loan,294714.94,6.24,25,active,2022-06-03,Sungai Buloh floodplain,flood,8.58,34.9,medium
+LN00631,CUST01235,PROP00247,BR001,Home loan,627111.56,3.99,25,active,2020-08-30,Wangsa Maju basin,flood,3.87,40.9,medium
+LN00632,CUST00021,PROP00552,BR001,Home loan,363302.48,3.7,25,pending_approval,2026-04-25,Cheras drainage basin,flood,9.84,35.9,medium
+LN00633,CUST00042,PROP00094,BR014,SME business loan,1218157.45,7.27,5,defaulted,2023-09-18,Wangsa Maju basin,flood,7.21,4.7,low
+LN00634,CUST01095,PROP00692,BR003,Renovation loan,631862.98,3.55,25,active,2022-09-29,Cheras drainage basin,flood,6.54,10.2,low
+LN00635,CUST01996,PROP00875,BR016,Renovation loan,1038855.89,5.72,30,pending_approval,2022-01-11,Sungai Buloh floodplain,flood,5.1,17.3,low
+LN00636,CUST01185,PROP00241,BR007,Auto loan,579433.43,4.54,20,pending_approval,2024-05-10,Shah Alam lowland,flood,2.44,68.5,high
+LN00637,CUST00614,PROP00055,BR017,Personal loan,565309.46,6.75,30,closed,2020-11-23,Kajang stream basin,flood,4.81,22.6,low
+LN00638,CUST00027,PROP00894,BR018,Auto loan,137573.18,5.04,30,active,2022-08-01,Rawang lowland,flood,4.9,36.4,medium
+LN00639,CUST01652,PROP01116,BR017,SME business loan,834997.44,4.38,15,pending_approval,2022-06-17,Bangi highland,landslide,0.29,64.4,high
+LN00640,CUST00157,PROP00612,BR005,Renovation loan,126812.45,4.42,20,closed,2024-09-23,Subang Jaya urban drain,flood,4.56,10.2,low
+LN00641,CUST01139,PROP00540,BR001,Personal loan,810965.55,6.96,30,pending_approval,2023-10-08,Wangsa Maju basin,flood,0.68,100,high
+LN00642,CUST01863,PROP01015,BR015,Personal loan,2295113.99,5.96,5,active,2021-12-23,Wangsa Maju basin,flood,3.84,36.1,medium
+LN00643,CUST00793,PROP00068,BR017,Personal loan,461541.75,4.33,30,pending_approval,2026-03-17,Semenyih catchment,flood,4.23,25.4,low
+LN00644,CUST00640,PROP00647,BR006,SME business loan,582314.97,7.35,5,closed,2026-06-03,Wangsa Maju basin,flood,9.27,26.4,low
+LN00645,CUST01509,PROP00881,BR018,SME business loan,560832.62,3.52,20,active,2023-12-20,Rawang lowland,flood,0.59,58.2,high
+LN00646,CUST00464,PROP00063,BR017,Home loan,321761.94,6.96,30,closed,2024-01-21,Bangi highland,landslide,1.08,44.6,medium
+LN00647,CUST01693,PROP00654,BR012,Renovation loan,551615.16,4.92,25,pending_approval,2025-01-23,Bangi highland,landslide,8.22,30.7,medium
+LN00648,CUST00237,PROP00290,BR013,Auto loan,276183.5,5.79,30,active,2021-06-22,Puchong industrial zone,landslide,11.08,31.2,medium
+LN00649,CUST00338,PROP00781,BR001,Renovation loan,1231388.58,5.26,15,pending_approval,2021-06-14,Wangsa Maju basin,flood,0.74,76.9,high
+LN00650,CUST00460,PROP00305,BR015,Personal loan,893493.06,4.96,25,pending_approval,2022-11-24,Wangsa Maju basin,flood,4.25,48.4,medium
+LN00651,CUST01458,PROP00724,BR016,Renovation loan,245002.82,5.3,15,closed,2021-05-07,Sungai Buloh floodplain,flood,3.38,59.0,high
+LN00652,CUST00350,PROP00686,BR009,SME business loan,2717689.27,6.99,20,active,2023-04-22,Klang riverside,flood,2.87,62.4,high
+LN00653,CUST01995,PROP00051,BR014,Renovation loan,501091.05,7.34,15,defaulted,2025-02-26,Wangsa Maju basin,flood,8.03,27.6,low
+LN00654,CUST01924,PROP00776,BR005,Auto loan,346943.15,5.24,25,active,2023-05-22,Cheras drainage basin,flood,7.21,9.0,low
+LN00655,CUST00789,PROP00287,BR015,Auto loan,459247.59,5.41,15,active,2023-11-08,Wangsa Maju basin,flood,9.59,27.6,low
+LN00656,CUST00216,PROP00378,BR001,Personal loan,441029.52,4.39,15,closed,2020-11-22,Ampang hillside,landslide,6.32,6.6,low
+LN00657,CUST01563,PROP00566,BR009,SME business loan,340048.98,6.76,25,active,2022-06-23,Klang riverside,flood,5.17,6.8,low
+LN00658,CUST00549,PROP00723,BR017,Renovation loan,1220051.13,5.38,15,pending_approval,2025-05-20,Bangi highland,landslide,1.43,62.5,high
+LN00659,CUST00996,PROP00253,BR014,Renovation loan,1290417.34,4.38,30,active,2026-01-26,Wangsa Maju basin,flood,3.0,65.2,high
+LN00660,CUST01695,PROP00189,BR009,Home loan,866283.96,3.61,5,active,2023-01-23,Klang riverside,flood,4.26,44.3,medium
+LN00661,CUST00839,PROP01022,BR014,SME business loan,257125.38,6.46,20,active,2023-05-28,Wangsa Maju basin,flood,5.24,8.8,low
+LN00662,CUST00274,PROP01055,BR014,Renovation loan,510305.44,3.63,30,closed,2025-09-16,Wangsa Maju basin,flood,5.46,30.6,medium
+LN00663,CUST00860,PROP00477,BR004,Personal loan,160439.9,7.2,15,pending_approval,2020-07-09,Wangsa Maju basin,flood,4.98,19.5,low
+LN00664,CUST00645,PROP00996,BR004,Auto loan,130903.59,4.04,25,active,2025-09-29,Ampang hillside,landslide,1.09,95.6,high
+LN00665,CUST01422,PROP00741,BR001,Home loan,1073492.42,6.55,15,active,2021-09-16,Ampang hillside,landslide,3.43,63.3,high
+LN00666,CUST00191,PROP00272,BR011,Personal loan,517394.69,4.97,20,active,2021-05-28,Kajang stream basin,flood,3.7,48.5,medium
+LN00667,CUST01820,PROP00277,BR013,Renovation loan,683552.3,3.58,20,active,2023-08-03,Puchong industrial zone,landslide,10.99,14.0,low
+LN00668,CUST01504,PROP01012,BR006,Home loan,1114874.61,7.16,25,pending_approval,2021-09-21,Cheras drainage basin,flood,7.93,21.9,low
+LN00669,CUST01048,PROP01117,BR018,SME business loan,403264.91,5.52,25,active,2025-11-25,Rawang lowland,flood,2.04,54.3,medium
+LN00670,CUST00468,PROP00856,BR017,Auto loan,658435.63,5.36,20,active,2023-04-08,Kajang stream basin,flood,3.12,63.1,high
+LN00671,CUST01407,PROP01175,BR015,Auto loan,1946123.03,5.82,25,defaulted,2023-05-15,Wangsa Maju basin,flood,1.06,78.2,high
+LN00672,CUST00121,PROP00876,BR014,Auto loan,584779.92,5.15,25,pending_approval,2022-10-20,Wangsa Maju basin,flood,7.58,6.8,low
+LN00673,CUST01500,PROP00013,BR007,Auto loan,1440343.35,4.8,15,active,2024-01-19,Shah Alam lowland,flood,5.86,9.9,low
+LN00674,CUST00252,PROP01135,BR018,Home loan,580028.16,4.67,15,defaulted,2025-05-12,Rawang lowland,flood,3.4,32.7,medium
+LN00675,CUST01264,PROP00496,BR010,Personal loan,760165.45,4.13,25,defaulted,2021-10-29,Puchong industrial zone,landslide,2.17,44.8,medium
+LN00676,CUST01631,PROP00099,BR001,Home loan,615620.3,3.57,20,closed,2022-05-25,Ampang hillside,landslide,0.52,100,high
+LN00677,CUST01727,PROP00179,BR016,Personal loan,295973.5,4.09,15,active,2024-04-28,Sungai Buloh floodplain,flood,6.21,26.0,low
+LN00678,CUST00087,PROP00582,BR009,Personal loan,1234059.12,5.04,5,active,2025-05-12,Klang riverside,flood,5.73,7.3,low
+LN00679,CUST00552,PROP00671,BR015,Home loan,206548.47,5.2,5,active,2024-10-03,Wangsa Maju basin,flood,4.55,32.6,medium
+LN00680,CUST00832,PROP00672,BR011,SME business loan,219182.37,5.7,30,pending_approval,2021-06-25,Kajang stream basin,flood,5.39,15.0,low
+LN00681,CUST00367,PROP00644,BR014,SME business loan,560074.73,6.37,25,closed,2021-04-01,Ampang hillside,landslide,1.45,100,high
+LN00682,CUST01640,PROP00918,BR007,Home loan,255066.47,6.19,15,active,2023-08-09,Puchong industrial zone,landslide,1.2,58.8,high
+LN00683,CUST00414,PROP00487,BR009,SME business loan,567937.25,6.26,5,active,2026-02-26,Klang riverside,flood,8.54,31.4,medium
+LN00684,CUST00182,PROP00226,BR003,Auto loan,310207.6,6.01,10,pending_approval,2023-01-20,Cheras drainage basin,flood,5.14,25.2,low
+LN00685,CUST01666,PROP00943,BR012,Renovation loan,526719.7,3.63,20,defaulted,2026-04-22,Bangi highland,landslide,2.68,44.2,medium
+LN00686,CUST00877,PROP01079,BR004,Home loan,516475.42,6.69,5,pending_approval,2020-07-09,Ampang hillside,landslide,2.2,89.3,high
+LN00687,CUST01522,PROP01019,BR011,Auto loan,1940653.17,6.62,25,active,2023-10-06,Bangi highland,landslide,5.57,23.6,low
+LN00688,CUST00080,PROP01180,BR014,Renovation loan,521822.95,5.3,5,active,2025-05-28,Wangsa Maju basin,flood,2.1,69.2,high
+LN00689,CUST01572,PROP00890,BR004,Renovation loan,433395.73,4.4,25,closed,2026-02-22,Ampang hillside,landslide,5.49,28.5,low
+LN00690,CUST01889,PROP00517,BR002,Home loan,111372.95,7.34,25,active,2020-07-16,Subang Jaya urban drain,flood,6.01,35.2,medium
+LN00691,CUST01744,PROP00204,BR010,Personal loan,2191684.69,5.42,5,pending_approval,2025-12-29,Puchong industrial zone,landslide,7.3,5.1,low
+LN00692,CUST01340,PROP00034,BR008,Renovation loan,230024.39,7.33,15,closed,2026-01-15,Subang Jaya urban drain,flood,4.18,31.0,medium
+LN00693,CUST00961,PROP00975,BR015,Auto loan,708434.7,6.23,25,active,2021-03-31,Wangsa Maju basin,flood,1.78,74.9,high
+LN00694,CUST00260,PROP01014,BR004,Auto loan,442826.73,6.55,5,pending_approval,2024-10-29,Ampang hillside,landslide,7.42,22.2,low
+LN00695,CUST01113,PROP00228,BR010,Personal loan,329076.5,5.2,30,pending_approval,2020-07-17,Puchong industrial zone,landslide,4.86,27.4,low
+LN00696,CUST01583,PROP00183,BR002,Auto loan,223197.51,4.99,15,closed,2023-03-28,Cheras drainage basin,flood,7.06,24.0,low
+LN00697,CUST00695,PROP00244,BR004,Personal loan,689850.92,6.51,15,active,2025-06-20,Ampang hillside,landslide,6.83,7.7,low
+LN00698,CUST00344,PROP00485,BR009,Home loan,423675.11,6.48,30,defaulted,2023-10-30,Klang riverside,flood,5.51,14.1,low
+LN00699,CUST00235,PROP00116,BR009,Auto loan,1279111.55,4.02,5,active,2024-10-14,Klang riverside,flood,5.12,37.0,medium
+LN00700,CUST01441,PROP00637,BR003,SME business loan,169521.19,6.71,25,defaulted,2021-06-30,Cheras drainage basin,flood,6.25,0.6,low
+LN00701,CUST01290,PROP00985,BR002,Renovation loan,265287.28,3.6,25,active,2023-05-26,Subang Jaya urban drain,flood,9.76,15.3,low
+LN00702,CUST00008,PROP00159,BR006,Renovation loan,248475.48,4.34,20,closed,2023-05-07,Subang Jaya urban drain,flood,10.38,26.9,low
+LN00703,CUST01266,PROP01073,BR006,SME business loan,303599.21,6.02,5,closed,2023-03-26,Subang Jaya urban drain,flood,9.43,26.5,low
+LN00704,CUST01135,PROP00475,BR004,SME business loan,197655.09,3.57,15,active,2024-12-23,Cheras drainage basin,flood,3.46,37.4,medium
+LN00705,CUST00841,PROP00564,BR010,Auto loan,702263.16,7.25,15,closed,2025-01-11,Puchong industrial zone,landslide,4.35,25.8,low
+LN00706,CUST00159,PROP00775,BR014,Auto loan,491570.15,5.59,5,pending_approval,2021-03-21,Ampang hillside,landslide,3.09,49.5,medium
+LN00707,CUST01084,PROP00946,BR006,Home loan,576370.77,6.04,30,pending_approval,2025-01-20,Subang Jaya urban drain,flood,5.79,36.0,medium
+LN00708,CUST01797,PROP00481,BR017,Home loan,711195.72,4.64,30,active,2022-04-02,Semenyih catchment,flood,8.4,14.5,low
+LN00709,CUST01513,PROP00907,BR007,SME business loan,624883.6,3.67,15,active,2022-05-30,Puchong industrial zone,landslide,5.11,26.1,low
+LN00710,CUST01440,PROP00641,BR007,Home loan,275969.56,5.71,10,active,2024-08-27,Puchong industrial zone,landslide,3.65,28.4,low
+LN00711,CUST01038,PROP00636,BR003,Home loan,371592.51,7.07,25,defaulted,2023-05-19,Cheras drainage basin,flood,0.65,69.0,high
+LN00712,CUST00919,PROP00200,BR009,Auto loan,2017529.94,6.66,25,active,2023-07-09,Shah Alam lowland,flood,3.66,43.7,medium
+LN00713,CUST00734,PROP01150,BR006,SME business loan,294008.0,6.91,30,closed,2022-11-01,Sungai Buloh floodplain,flood,6.17,21.1,low
+LN00714,CUST01505,PROP00220,BR014,Personal loan,1186601.87,5.07,25,active,2020-07-02,Wangsa Maju basin,flood,4.3,50.0,medium
+LN00715,CUST00285,PROP01133,BR015,Auto loan,274791.63,4.16,15,active,2024-02-10,Wangsa Maju basin,flood,2.97,38.5,medium
+LN00716,CUST00566,PROP00174,BR015,Home loan,547304.12,5.6,10,active,2020-07-18,Wangsa Maju basin,flood,1.62,80.6,high
+LN00717,CUST01974,PROP00457,BR018,SME business loan,364607.44,6.17,15,active,2025-12-10,Rawang lowland,flood,7.31,19.8,low
+LN00718,CUST01737,PROP00350,BR007,Renovation loan,320289.68,6.34,20,defaulted,2021-05-16,Subang Jaya urban drain,flood,5.15,17.4,low
+LN00719,CUST00766,PROP00127,BR002,Renovation loan,732337.21,3.66,5,active,2020-10-13,Subang Jaya urban drain,flood,8.37,16.9,low
+LN00720,CUST01936,PROP00927,BR010,Renovation loan,163892.94,6.34,5,active,2021-05-06,Puchong industrial zone,landslide,0.75,55.2,high
+LN00721,CUST01891,PROP00718,BR008,Renovation loan,956064.87,5.67,30,pending_approval,2025-08-22,Shah Alam lowland,flood,4.05,49.4,medium
+LN00722,CUST01394,PROP00409,BR003,Personal loan,588435.42,3.92,5,defaulted,2021-05-04,Cheras drainage basin,flood,8.18,7.4,low
+LN00723,CUST01049,PROP00396,BR018,Home loan,830151.26,3.7,25,closed,2022-04-08,Rawang lowland,flood,4.93,9.2,low
+LN00724,CUST00827,PROP00296,BR009,Personal loan,234534.1,6.8,25,closed,2022-03-28,Shah Alam lowland,flood,2.99,46.4,medium
+LN00725,CUST00392,PROP00817,BR015,Auto loan,1190310.11,7.34,25,active,2021-10-17,Ampang hillside,landslide,2.78,84.2,high
+LN00726,CUST00935,PROP00446,BR012,Home loan,1133995.37,6.01,15,pending_approval,2024-07-24,Bangi highland,landslide,3.7,38.1,medium
+LN00727,CUST01536,PROP00563,BR009,Personal loan,647323.73,4.96,5,pending_approval,2020-10-21,Klang riverside,flood,5.54,11.9,low
+LN00728,CUST01637,PROP00311,BR012,SME business loan,1061846.03,5.04,10,active,2024-12-05,Bangi highland,landslide,3.64,39.5,medium
+LN00729,CUST01585,PROP00701,BR005,Home loan,209081.68,4.9,20,active,2023-05-25,Subang Jaya urban drain,flood,3.63,19.3,low
+LN00730,CUST00851,PROP00673,BR018,Auto loan,927693.37,5.31,10,active,2025-06-05,Rawang lowland,flood,5.94,1.9,low
+LN00731,CUST00129,PROP01035,BR018,Renovation loan,263617.83,5.49,30,defaulted,2024-06-20,Rawang lowland,flood,2.26,40.3,medium
+LN00732,CUST00101,PROP00711,BR012,SME business loan,592794.97,4.96,25,active,2026-05-30,Bangi highland,landslide,4.27,37.8,medium
+LN00733,CUST00296,PROP00027,BR002,Renovation loan,412891.77,5.31,20,active,2021-01-21,Sungai Buloh floodplain,flood,8.07,31.8,medium
+LN00734,CUST01315,PROP01068,BR015,Home loan,274914.41,6.6,5,pending_approval,2024-03-17,Wangsa Maju basin,flood,7.16,10.4,low
+LN00735,CUST00673,PROP00072,BR001,SME business loan,521935.52,7.25,5,active,2026-01-23,Cheras drainage basin,flood,6.23,22.0,low
+LN00736,CUST01875,PROP00745,BR009,SME business loan,283387.15,7.09,15,active,2024-10-07,Klang riverside,flood,4.55,38.5,medium
+LN00737,CUST01081,PROP00903,BR016,SME business loan,217391.36,4.98,20,active,2023-01-22,Rawang lowland,flood,7.49,34.8,medium
+LN00738,CUST00006,PROP00031,BR014,SME business loan,455345.76,5.5,30,active,2021-03-20,Wangsa Maju basin,flood,2.62,58.6,high
+LN00739,CUST01586,PROP00793,BR011,Auto loan,560427.16,4.64,15,active,2023-12-22,Semenyih catchment,flood,1.81,60.0,high
+LN00740,CUST01660,PROP00548,BR016,Renovation loan,152523.69,3.96,10,defaulted,2024-04-12,Sungai Buloh floodplain,flood,5.87,17.1,low
+LN00741,CUST01165,PROP01161,BR006,Renovation loan,899883.11,5.88,20,pending_approval,2021-02-22,Sungai Buloh floodplain,flood,4.65,38.9,medium
+LN00742,CUST01392,PROP01196,BR011,Renovation loan,892117.89,5.69,10,pending_approval,2022-09-07,Kajang stream basin,flood,3.05,56.4,high
+LN00743,CUST00416,PROP00611,BR009,Auto loan,1755136.04,6.44,15,active,2024-02-26,Klang riverside,flood,8.05,23.6,low
+LN00744,CUST00777,PROP00426,BR017,Auto loan,624308.97,6.71,15,defaulted,2022-08-05,Semenyih catchment,flood,8.24,34.1,medium
+LN00745,CUST00271,PROP00438,BR017,SME business loan,342577.92,6.88,15,active,2022-11-21,Semenyih catchment,flood,5.77,25.0,low
+LN00746,CUST00999,PROP00646,BR012,Auto loan,309557.83,4.26,10,active,2025-02-11,Semenyih catchment,flood,4.53,26.7,low
+LN00747,CUST00313,PROP01070,BR016,SME business loan,430697.34,3.85,10,active,2022-12-08,Sungai Buloh floodplain,flood,7.19,26.9,low
+LN00748,CUST01283,PROP01023,BR016,Auto loan,2336470.31,6.82,10,closed,2020-09-27,Sungai Buloh floodplain,flood,4.83,36.8,medium
+LN00749,CUST01142,PROP00292,BR017,Home loan,836074.82,4.94,5,active,2024-02-25,Semenyih catchment,flood,7.49,7.4,low
+LN00750,CUST01611,PROP01098,BR011,SME business loan,396095.91,4.03,30,active,2024-08-01,Kajang stream basin,flood,2.66,67.0,high
+LN00751,CUST01655,PROP00224,BR015,Auto loan,231506.73,4.97,25,closed,2023-08-22,Wangsa Maju basin,flood,4.05,45.8,medium
+LN00752,CUST00276,PROP00719,BR018,Renovation loan,659101.81,6.09,25,active,2021-11-26,Rawang lowland,flood,2.49,36.1,medium
+LN00753,CUST01915,PROP00523,BR009,Auto loan,508757.21,3.79,20,active,2022-03-22,Klang riverside,flood,2.19,81.5,high
+LN00754,CUST01212,PROP00972,BR005,Home loan,805006.87,4.24,25,active,2022-02-03,Cheras drainage basin,flood,9.72,26.9,low
+LN00755,CUST00524,PROP00984,BR004,Home loan,1816760.85,4.49,20,pending_approval,2020-08-07,Ampang hillside,landslide,6.68,7.3,low
+LN00756,CUST01384,PROP00827,BR002,Personal loan,900338.66,7.01,10,pending_approval,2024-10-10,Cheras drainage basin,flood,7.45,16.8,low
+LN00757,CUST00100,PROP00534,BR015,Auto loan,789528.43,5.24,25,active,2021-05-29,Wangsa Maju basin,flood,5.58,22.1,low
+LN00758,CUST00040,PROP00640,BR006,Renovation loan,2578127.62,5.82,15,pending_approval,2026-02-11,Wangsa Maju basin,flood,7.45,32.5,medium
+LN00759,CUST01621,PROP00330,BR016,Auto loan,774369.68,5.33,15,closed,2025-07-14,Sungai Buloh floodplain,flood,5.07,8.1,low
+LN00760,CUST01045,PROP00170,BR003,Renovation loan,202679.66,5.93,10,active,2026-03-02,Cheras drainage basin,flood,1.81,35.8,medium
+LN00761,CUST00842,PROP00259,BR016,Auto loan,816061.9,7.04,10,defaulted,2026-06-01,Sungai Buloh floodplain,flood,1.54,73.0,high
+LN00762,CUST01976,PROP00924,BR004,Auto loan,1055120.02,4.54,25,active,2022-10-10,Wangsa Maju basin,flood,5.63,27.4,low
+LN00763,CUST00374,PROP00886,BR009,SME business loan,1892196.47,6.1,20,defaulted,2024-10-09,Klang riverside,flood,4.91,32.1,medium
+LN00764,CUST01040,PROP00416,BR006,Personal loan,387716.23,3.8,5,defaulted,2021-09-03,Cheras drainage basin,flood,9.34,29.1,low
+LN00765,CUST00501,PROP00229,BR010,Personal loan,356271.57,5.43,25,active,2023-04-01,Subang Jaya urban drain,flood,1.44,62.9,high
+LN00766,CUST00452,PROP00243,BR005,SME business loan,897258.07,4.33,30,closed,2021-09-12,Subang Jaya urban drain,flood,4.81,31.6,medium
+LN00767,CUST00511,PROP00588,BR010,Personal loan,1210847.24,4.78,30,defaulted,2024-08-30,Puchong industrial zone,landslide,3.03,36.8,medium
+LN00768,CUST01922,PROP00111,BR009,Home loan,689305.04,5.11,25,active,2021-04-04,Shah Alam lowland,flood,3.77,35.5,medium
+LN00769,CUST01756,PROP01168,BR005,Auto loan,881977.94,3.73,5,closed,2021-01-09,Puchong industrial zone,landslide,5.56,23.9,low
+LN00770,CUST01373,PROP00467,BR009,Renovation loan,157700.97,6.45,25,defaulted,2020-12-13,Shah Alam lowland,flood,3.45,43.3,medium
+LN00771,CUST00825,PROP00926,BR001,Personal loan,1089539.27,4.91,30,active,2022-01-17,Ampang hillside,landslide,3.65,69.1,high
+LN00772,CUST00979,PROP00857,BR003,Renovation loan,1108406.75,4.94,10,active,2026-05-27,Cheras drainage basin,flood,3.33,38.1,medium
+LN00773,CUST00632,PROP01111,BR013,SME business loan,1448000.5,3.84,30,pending_approval,2024-09-18,Bangi highland,landslide,12.6,34.1,medium
+LN00774,CUST01168,PROP00900,BR008,Home loan,545970.68,6.88,10,defaulted,2023-04-01,Subang Jaya urban drain,flood,5.83,28.8,low
+LN00775,CUST01078,PROP00941,BR001,Home loan,895857.26,3.65,10,pending_approval,2022-09-01,Ampang hillside,landslide,3.72,59.0,high
+LN00776,CUST01326,PROP00783,BR014,Personal loan,2278631.56,4.74,20,closed,2022-03-15,Wangsa Maju basin,flood,6.25,13.7,low
+LN00777,CUST00486,PROP00023,BR017,Personal loan,735661.85,7.19,15,active,2024-07-11,Semenyih catchment,flood,4.67,37.6,medium
+LN00778,CUST00301,PROP01010,BR006,Renovation loan,2955658.79,4.09,20,defaulted,2023-01-09,Sungai Buloh floodplain,flood,7.1,23.2,low
+LN00779,CUST00178,PROP00231,BR015,Personal loan,588163.51,7.32,10,active,2025-01-25,Wangsa Maju basin,flood,6.25,1.5,low
+LN00780,CUST00799,PROP00058,BR001,SME business loan,1363760.23,4.79,20,closed,2022-07-03,Cheras drainage basin,flood,3.04,39.7,medium
+LN00781,CUST01942,PROP00353,BR018,Auto loan,1448843.28,3.57,10,defaulted,2025-03-24,Rawang lowland,flood,3.15,49.9,medium
+LN00782,CUST01344,PROP00308,BR017,Renovation loan,1047860.74,5.76,25,pending_approval,2024-01-07,Kajang stream basin,flood,2.96,41.9,medium
+LN00783,CUST00943,PROP00729,BR017,Personal loan,402064.44,5.19,20,pending_approval,2020-12-28,Semenyih catchment,flood,4.88,18.6,low
+LN00784,CUST01260,PROP00076,BR017,Home loan,1847589.71,4.36,25,active,2026-03-01,Semenyih catchment,flood,5.49,36.7,medium
+LN00785,CUST00309,PROP00227,BR017,Renovation loan,732727.06,6.19,10,active,2020-09-19,Semenyih catchment,flood,5.95,27.8,low
+LN00786,CUST00351,PROP00680,BR016,Auto loan,343642.78,5.38,10,active,2024-09-16,Sungai Buloh floodplain,flood,4.71,23.6,low
+LN00787,CUST00762,PROP00772,BR016,Auto loan,1363195.56,4.62,10,closed,2020-10-04,Sungai Buloh floodplain,flood,0.76,87.9,high
+LN00788,CUST01390,PROP00930,BR004,Renovation loan,627948.58,7.07,10,active,2022-11-17,Wangsa Maju basin,flood,3.74,43.0,medium
+LN00789,CUST01085,PROP00559,BR006,SME business loan,152511.98,6.46,20,active,2025-06-20,Subang Jaya urban drain,flood,7.93,15.2,low
+LN00790,CUST01109,PROP00357,BR005,Home loan,1004738.49,6.03,30,active,2021-05-27,Subang Jaya urban drain,flood,1.94,30.5,medium
+LN00791,CUST01615,PROP00809,BR004,Renovation loan,648904.96,7.07,20,closed,2020-07-19,Ampang hillside,landslide,4.36,43.8,medium
+LN00792,CUST01910,PROP00186,BR011,Renovation loan,337611.9,5.96,5,active,2023-07-09,Semenyih catchment,flood,4.74,35.2,medium
+LN00793,CUST00232,PROP00162,BR008,Personal loan,1234586.73,7.06,10,active,2021-04-20,Shah Alam lowland,flood,3.79,21.9,low
+LN00794,CUST01854,PROP00953,BR008,Personal loan,118715.4,5.8,30,defaulted,2022-08-03,Shah Alam lowland,flood,2.81,62.1,high
+LN00795,CUST01597,PROP00342,BR017,SME business loan,121422.1,3.95,25,defaulted,2023-12-05,Kajang stream basin,flood,3.48,49.9,medium
+LN00796,CUST00696,PROP00999,BR009,Personal loan,266922.7,7.3,15,pending_approval,2021-09-30,Klang riverside,flood,1.03,100,high
+LN00797,CUST01687,PROP00626,BR002,SME business loan,300627.39,6.06,25,closed,2022-01-24,Wangsa Maju basin,flood,6.73,24.2,low
+LN00798,CUST00840,PROP00439,BR005,SME business loan,274902.49,4.57,25,active,2023-04-23,Cheras drainage basin,flood,8.22,9.0,low
+LN00799,CUST00302,PROP00044,BR004,Renovation loan,313083.23,7.43,20,active,2022-07-07,Ampang hillside,landslide,6.1,23.9,low
+LN00800,CUST00156,PROP01060,BR011,Renovation loan,315523.0,4.47,15,active,2023-03-25,Cheras drainage basin,flood,6.01,6.0,low
+LN00801,CUST00920,PROP00997,BR016,SME business loan,2528272.68,4.62,15,closed,2023-11-01,Sungai Buloh floodplain,flood,2.41,60.9,high
+LN00802,CUST00707,PROP00216,BR017,Auto loan,745281.88,3.55,30,pending_approval,2025-08-14,Semenyih catchment,flood,4.33,32.6,medium
+LN00803,CUST01389,PROP01009,BR015,Home loan,2378209.79,3.72,10,active,2021-10-26,Wangsa Maju basin,flood,4.64,31.8,medium
+LN00804,CUST01607,PROP00096,BR014,Personal loan,332137.88,7.02,10,active,2022-03-25,Wangsa Maju basin,flood,7.86,28.1,low
+LN00805,CUST00473,PROP00091,BR015,Renovation loan,374597.24,4.27,10,active,2023-07-01,Wangsa Maju basin,flood,7.68,14.9,low
+LN00806,CUST01362,PROP00018,BR005,SME business loan,2330992.4,5.82,15,active,2021-09-26,Subang Jaya urban drain,flood,1.16,67.3,high
+LN00807,CUST01391,PROP00580,BR012,Home loan,1509842.5,3.62,25,defaulted,2023-06-13,Bangi highland,landslide,4.67,18.8,low
+LN00808,CUST01141,PROP00635,BR007,Personal loan,448182.3,3.53,20,active,2021-01-11,Subang Jaya urban drain,flood,1.06,58.2,high
+LN00809,CUST01571,PROP01186,BR007,Auto loan,191425.3,5.77,5,pending_approval,2021-08-13,Subang Jaya urban drain,flood,3.24,48.5,medium
+LN00810,CUST00661,PROP00773,BR007,Personal loan,289954.22,5.09,10,active,2022-03-13,Puchong industrial zone,landslide,2.56,30.7,medium
+LN00811,CUST00934,PROP00398,BR010,Home loan,1024832.79,7.12,10,active,2022-11-30,Puchong industrial zone,landslide,4.07,26.4,low
+LN00812,CUST00091,PROP00733,BR009,Home loan,396723.15,6.26,5,closed,2023-12-01,Klang riverside,flood,5.02,1.6,low
+LN00813,CUST01825,PROP00414,BR008,SME business loan,347908.37,7.18,15,active,2025-05-28,Shah Alam lowland,flood,4.9,29.9,low
+LN00814,CUST01371,PROP01136,BR015,Home loan,288615.68,6.05,15,active,2022-10-20,Wangsa Maju basin,flood,5.04,28.2,low
+LN00815,CUST01589,PROP00024,BR007,Renovation loan,684104.74,3.55,15,pending_approval,2026-04-26,Subang Jaya urban drain,flood,5.61,23.6,low
+LN00816,CUST01079,PROP01039,BR002,Personal loan,1039897.06,4.13,20,active,2024-10-05,Wangsa Maju basin,flood,6.01,35.7,medium
+LN00817,CUST01218,PROP00368,BR015,SME business loan,151154.09,6.7,10,active,2026-01-15,Wangsa Maju basin,flood,5.23,12.7,low
+LN00818,CUST01468,PROP00869,BR001,Home loan,245188.62,7.28,10,defaulted,2026-05-29,Wangsa Maju basin,flood,8.4,22.8,low
+LN00819,CUST00206,PROP00877,BR017,Renovation loan,352972.96,5.01,5,active,2022-10-27,Kajang stream basin,flood,2.56,56.8,high
+LN00820,CUST00513,PROP00098,BR015,SME business loan,562103.41,3.59,15,closed,2022-03-13,Wangsa Maju basin,flood,2.65,62.7,high
+LN00821,CUST01642,PROP01105,BR015,Personal loan,2076284.3,5.28,20,active,2025-06-27,Wangsa Maju basin,flood,5.86,16.6,low
+LN00822,CUST00169,PROP00656,BR013,SME business loan,252834.88,4.97,5,pending_approval,2025-05-15,Puchong industrial zone,landslide,10.88,25.7,low
+LN00823,CUST01628,PROP00433,BR014,Personal loan,538947.72,5.48,30,closed,2020-08-19,Wangsa Maju basin,flood,2.03,52.6,medium
+LN00824,CUST00810,PROP01198,BR017,Auto loan,415335.28,6.21,15,active,2021-09-28,Semenyih catchment,flood,3.79,56.0,high
+LN00825,CUST00733,PROP00472,BR009,Home loan,249951.11,5.36,25,closed,2026-02-24,Klang riverside,flood,3.82,34.2,medium
+LN00826,CUST01473,PROP01059,BR014,Renovation loan,668871.89,6.36,20,defaulted,2026-03-12,Ampang hillside,landslide,3.63,66.4,high
+LN00827,CUST01650,PROP00786,BR015,Personal loan,376101.95,7.38,15,active,2024-08-26,Ampang hillside,landslide,3.23,72.2,high
+LN00828,CUST00747,PROP01104,BR014,SME business loan,1598293.79,4.55,10,active,2025-05-26,Wangsa Maju basin,flood,5.49,16.9,low
+LN00829,CUST00171,PROP00083,BR013,Renovation loan,216361.39,4.96,15,pending_approval,2022-12-10,Puchong industrial zone,landslide,7.28,24.9,low
+LN00830,CUST01383,PROP01064,BR009,Home loan,655495.04,7.24,20,active,2022-09-07,Klang riverside,flood,2.86,79.4,high
+LN00831,CUST01446,PROP00215,BR011,Auto loan,2419749.36,7.04,15,active,2025-03-02,Semenyih catchment,flood,3.81,32.9,medium
+LN00832,CUST00865,PROP01094,BR007,Home loan,853429.55,5.11,15,active,2021-05-07,Subang Jaya urban drain,flood,1.43,59.6,high
+LN00833,CUST00044,PROP00651,BR016,SME business loan,168272.62,5.67,20,defaulted,2022-11-08,Sungai Buloh floodplain,flood,7.86,25.5,low
+LN00834,CUST00205,PROP00130,BR012,Personal loan,150234.51,7.07,30,active,2022-06-30,Bangi highland,landslide,5.19,35.6,medium
+LN00835,CUST00529,PROP00417,BR002,Auto loan,1552769.95,3.86,5,pending_approval,2025-08-24,Wangsa Maju basin,flood,3.27,56.3,high
+LN00836,CUST00474,PROP00966,BR018,Home loan,413094.88,6.19,20,active,2024-01-19,Rawang lowland,flood,3.26,20.4,low
+LN00837,CUST01643,PROP00354,BR007,Home loan,1212674.45,5.59,30,active,2021-06-29,Shah Alam lowland,flood,2.3,69.2,high
+LN00838,CUST01973,PROP00689,BR003,Home loan,567465.15,7.36,20,closed,2024-10-26,Cheras drainage basin,flood,5.12,29.8,low
+LN00839,CUST01800,PROP00004,BR002,Auto loan,1381643.4,3.62,25,active,2024-07-07,Subang Jaya urban drain,flood,9.78,24.8,low
+LN00840,CUST00554,PROP00839,BR009,SME business loan,1244374.22,4.02,20,defaulted,2022-03-27,Klang riverside,flood,1.34,100,high
+LN00841,CUST01534,PROP01003,BR017,Auto loan,404952.88,7.34,15,active,2020-09-24,Semenyih catchment,flood,3.61,44.2,medium
+LN00842,CUST00203,PROP00979,BR004,SME business loan,505333.38,6.55,10,active,2020-09-13,Wangsa Maju basin,flood,4.61,25.0,low
+LN00843,CUST00485,PROP00323,BR011,Home loan,216267.49,4.51,20,active,2025-10-12,Semenyih catchment,flood,6.14,25.7,low
+LN00844,CUST00248,PROP01026,BR009,Auto loan,527890.98,4.08,25,active,2024-07-19,Klang riverside,flood,4.11,49.5,medium
+LN00845,CUST01465,PROP01191,BR018,Home loan,1501538.71,7.08,15,active,2021-05-05,Rawang lowland,flood,4.32,7.3,low
+LN00846,CUST00077,PROP01144,BR005,Home loan,669017.48,5.54,20,active,2023-10-10,Wangsa Maju basin,flood,10.78,19.8,low
+LN00847,CUST00465,PROP00510,BR006,Renovation loan,328223.48,3.89,30,active,2024-06-24,Cheras drainage basin,flood,7.5,21.5,low
+LN00848,CUST00740,PROP00658,BR017,Personal loan,521607.59,6.26,20,active,2021-01-05,Semenyih catchment,flood,6.88,29.9,low
+LN00849,CUST01132,PROP00123,BR018,Auto loan,301251.2,4.53,10,active,2024-06-30,Rawang lowland,flood,4.03,17.0,low
+LN00850,CUST01851,PROP00663,BR011,Auto loan,286696.48,4.58,15,active,2022-10-04,Semenyih catchment,flood,3.21,53.8,medium
+LN00851,CUST01738,PROP00699,BR006,SME business loan,410667.52,4.65,5,defaulted,2020-08-07,Sungai Buloh floodplain,flood,10.54,24.3,low
+LN00852,CUST01220,PROP00825,BR012,Auto loan,488353.99,7.21,5,active,2021-01-04,Bangi highland,landslide,4.45,32.7,medium
+LN00853,CUST00926,PROP00261,BR018,SME business loan,1008398.87,6.47,10,defaulted,2020-08-21,Rawang lowland,flood,3.79,19.3,low
+LN00854,CUST01036,PROP00529,BR009,Home loan,741010.15,5.67,30,active,2025-02-02,Klang riverside,flood,4.19,23.1,low
+LN00855,CUST01980,PROP00882,BR002,Renovation loan,914073.27,6.84,30,active,2022-03-05,Cheras drainage basin,flood,3.7,43.6,medium
+LN00856,CUST01632,PROP01176,BR007,Auto loan,758460.2,5.73,25,active,2025-06-09,Puchong industrial zone,landslide,1.35,55.1,high
+LN00857,CUST01537,PROP00585,BR006,SME business loan,405912.04,6.19,30,active,2023-06-21,Subang Jaya urban drain,flood,7.84,14.8,low
+LN00858,CUST01952,PROP00863,BR016,Auto loan,661822.6,5.49,10,active,2021-03-08,Sungai Buloh floodplain,flood,3.51,43.0,medium
+LN00859,CUST00647,PROP01130,BR004,SME business loan,654848.51,6.82,25,pending_approval,2026-03-22,Ampang hillside,landslide,4.34,47.5,medium
+LN00860,CUST00983,PROP00570,BR001,Renovation loan,1827534.27,3.88,20,closed,2021-09-17,Wangsa Maju basin,flood,8.72,18.9,low
+LN00861,CUST00609,PROP00816,BR017,Personal loan,316265.84,4.95,10,active,2020-11-01,Semenyih catchment,flood,8.68,28.0,low
+LN00862,CUST00262,PROP00859,BR004,Auto loan,510313.35,4.78,15,active,2024-05-13,Ampang hillside,landslide,0.88,100,high
+LN00863,CUST01729,PROP00592,BR010,Personal loan,358827.67,3.83,30,active,2024-11-06,Puchong industrial zone,landslide,5.3,30.3,medium
+LN00864,CUST00186,PROP00527,BR015,Renovation loan,817606.99,5.79,20,active,2026-06-05,Ampang hillside,landslide,5.34,31.7,medium
+LN00865,CUST00836,PROP00434,BR009,Renovation loan,295790.56,5.76,15,defaulted,2022-06-02,Klang riverside,flood,6.99,33.4,medium
+LN00866,CUST01845,PROP00814,BR016,SME business loan,1150672.5,4.9,25,active,2023-01-08,Sungai Buloh floodplain,flood,0.24,87.9,high
+LN00867,CUST00582,PROP00951,BR003,Renovation loan,493472.07,6.42,20,pending_approval,2024-06-05,Cheras drainage basin,flood,6.18,19.0,low
+LN00868,CUST00803,PROP00522,BR013,Auto loan,658579.74,6.46,25,closed,2021-10-18,Bangi highland,landslide,9.34,26.5,low
+LN00869,CUST01476,PROP00954,BR001,Personal loan,784430.84,5.2,30,active,2024-02-01,Wangsa Maju basin,flood,5.18,20.9,low
+LN00870,CUST00039,PROP00841,BR002,SME business loan,420865.81,3.64,30,defaulted,2025-01-26,Wangsa Maju basin,flood,6.15,25.9,low
+LN00871,CUST00024,PROP00424,BR006,Auto loan,211853.42,5.45,30,closed,2025-11-16,Sungai Buloh floodplain,flood,4.27,43.8,medium
+LN00872,CUST01659,PROP00369,BR014,Renovation loan,1699683.71,6.48,5,pending_approval,2025-05-14,Wangsa Maju basin,flood,5.63,0.4,low
+LN00873,CUST00694,PROP00648,BR006,Personal loan,430370.79,3.99,30,active,2021-01-11,Cheras drainage basin,flood,10.39,24.0,low
+LN00874,CUST01654,PROP01153,BR001,Renovation loan,1271335.99,4.06,25,active,2020-11-04,Wangsa Maju basin,flood,4.04,44.2,medium
+LN00875,CUST01923,PROP00990,BR016,Personal loan,167463.44,7.32,10,active,2024-10-30,Sungai Buloh floodplain,flood,5.54,26.6,low
+LN00876,CUST00032,PROP00109,BR017,Auto loan,375706.19,3.51,30,defaulted,2024-01-12,Semenyih catchment,flood,1.68,76.1,high
+LN00877,CUST01347,PROP00945,BR001,Renovation loan,1182118.88,7.27,20,active,2023-08-27,Wangsa Maju basin,flood,2.24,80.4,high
+LN00878,CUST01148,PROP00595,BR003,Auto loan,1048369.54,7.33,15,active,2024-01-25,Ampang hillside,landslide,5.27,6.4,low
+LN00879,CUST00617,PROP00923,BR002,Personal loan,208935.88,6.33,10,active,2021-11-26,Wangsa Maju basin,flood,4.46,26.9,low
+LN00880,CUST01089,PROP00543,BR005,Auto loan,111563.84,5.46,15,active,2023-10-25,Subang Jaya urban drain,flood,8.11,21.8,low
+LN00881,CUST01063,PROP00823,BR001,Home loan,308564.52,4.74,10,active,2023-08-16,Wangsa Maju basin,flood,7.39,37.4,medium
+LN00882,CUST00619,PROP00344,BR015,Personal loan,660311.9,5.88,20,active,2024-11-09,Wangsa Maju basin,flood,3.75,40.7,medium
+LN00883,CUST00976,PROP00441,BR007,Renovation loan,2025526.47,5.97,25,active,2025-05-09,Shah Alam lowland,flood,2.83,58.6,high
+LN00884,CUST00212,PROP00769,BR015,Home loan,1606901.35,6.15,25,active,2022-05-09,Wangsa Maju basin,flood,6.1,18.9,low
+LN00885,CUST00638,PROP00207,BR017,SME business loan,725503.75,6.98,30,active,2025-06-10,Semenyih catchment,flood,2.09,64.0,high
+LN00886,CUST00958,PROP00792,BR005,Renovation loan,277606.35,6.26,30,defaulted,2026-04-20,Cheras drainage basin,flood,6.76,34.0,medium
+LN00887,CUST00461,PROP00963,BR005,Auto loan,456610.88,7.37,25,active,2021-07-15,Cheras drainage basin,flood,7.68,31.3,medium
+LN00888,CUST00446,PROP00212,BR006,Personal loan,1006496.21,5.34,15,pending_approval,2024-05-10,Subang Jaya urban drain,flood,8.59,28.8,low
+LN00889,CUST00092,PROP00062,BR011,Renovation loan,873770.26,3.9,30,active,2026-03-09,Kajang stream basin,flood,6.21,25.2,low
+LN00890,CUST01214,PROP00987,BR017,Personal loan,358031.13,4.78,5,defaulted,2022-07-06,Semenyih catchment,flood,4.05,17.0,low
+LN00891,CUST00240,PROP00356,BR006,Home loan,304357.58,4.33,5,active,2026-03-17,Subang Jaya urban drain,flood,6.61,37.6,medium
+LN00892,CUST00748,PROP00567,BR002,Personal loan,383850.61,6.56,5,active,2020-11-18,Wangsa Maju basin,flood,8.86,14.6,low
+LN00893,CUST00517,PROP00499,BR007,Auto loan,1399949.5,4.62,25,active,2023-10-04,Puchong industrial zone,landslide,3.39,41.9,medium
+LN00894,CUST01202,PROP00349,BR011,Home loan,1388089.27,4.06,30,active,2026-02-26,Kajang stream basin,flood,4.46,36.8,medium
+LN00895,CUST00981,PROP00544,BR002,Personal loan,1685905.12,5.73,10,closed,2025-01-12,Wangsa Maju basin,flood,9.74,20.6,low
+LN00896,CUST00142,PROP00124,BR012,Auto loan,495688.51,6.57,30,closed,2024-03-30,Bangi highland,landslide,2.71,48.0,medium
+LN00897,CUST00270,PROP00602,BR011,Renovation loan,419445.2,3.92,20,active,2020-10-18,Bangi highland,landslide,3.01,20.4,low
+LN00898,CUST00481,PROP00631,BR018,SME business loan,2271194.97,5.26,25,active,2024-12-07,Rawang lowland,flood,7.27,32.0,medium
+LN00899,CUST00311,PROP00399,BR003,Personal loan,318935.6,7.3,5,pending_approval,2020-10-16,Ampang hillside,landslide,2.0,100,high
+LN00900,CUST01096,PROP00708,BR001,Renovation loan,135257.12,5.0,5,closed,2022-01-26,Ampang hillside,landslide,1.76,94.7,high

@@ -1,0 +1,1201 @@
+property_id,owner_customer_id,type,address,latitude,longitude,market_value_myr,floor_area_sqft,year_built
+PROP00001,CUST00004,Shop lot,"9960, Jalan Brian Junctions, Amandamouth, Selangor",3.168268,101.669562,824823.57,1209,2016
+PROP00002,CUST01041,Bungalow,"1721, Jalan Rowland Street, Hollowayberg, Selangor",3.011403,101.41343,1425775.36,3032,1998
+PROP00003,CUST00987,Semi-detached,"493, Jalan Samuel Islands, Angelaport, Selangor",3.287806,101.622739,1290799.26,2180,2000
+PROP00004,CUST01800,Bungalow,"021, Jalan Krueger Lake, Burgessborough, Selangor",3.09986,101.661873,2288203.99,2794,2007
+PROP00005,CUST01593,Apartment,"57375, Jalan Gonzalez Squares, Jonathantown, Selangor",3.087428,101.459306,431801.06,4413,2023
+PROP00006,CUST00809,Terrace house,"16667, Jalan Marie Circle, Allenchester, Selangor",3.095511,101.764882,614335.35,2163,2006
+PROP00007,CUST01885,Bungalow,"85874, Jalan Walters Street, New Christopherside, Selangor",3.259268,101.598594,2944925.86,2157,2015
+PROP00008,CUST00597,Semi-detached,"82819, Jalan Bishop Field, Port Gabriellaview, Selangor",3.141879,101.656631,1554321.75,3526,2016
+PROP00009,CUST00960,Shop lot,"7251, Jalan Deborah Junction, Rosechester, Selangor",3.168969,101.68377,1975273.85,1059,2003
+PROP00010,CUST01860,Semi-detached,"69409, Jalan Smith Fork, Ronaldview, Selangor",3.28102,101.608508,889700.5,2320,2003
+PROP00011,CUST00989,Shop lot,"95873, Jalan Barry Stravenue, East Kendra, Selangor",2.938259,101.693011,1586645.1,3799,1986
+PROP00012,CUST00095,Semi-detached,"42108, Jalan Kimberly Plains, Stephaniemouth, Selangor",3.172685,101.680779,1243294.4,4500,2018
+PROP00013,CUST01500,Bungalow,"3334, Jalan Roger Groves, East Kelsey, Selangor",3.116015,101.540869,2053825.21,3227,2001
+PROP00014,CUST01174,Bungalow,"27160, Jalan Dillon Walk, South Brandon, Selangor",3.327358,101.588127,1670164.96,2490,1990
+PROP00015,CUST00022,Bungalow,"6336, Jalan Christopher Extensions, East Katherineville, Selangor",3.272975,101.528964,1281232.79,2380,2009
+PROP00016,CUST00864,Semi-detached,"9556, Jalan Jason Course, Timothyhaven, Selangor",3.319451,101.544827,1035316.82,4156,2020
+PROP00017,CUST01355,Terrace house,"70066, Jalan Nixon Courts, Michaelport, Selangor",3.104169,101.64318,383600.43,1846,2007
+PROP00018,CUST01362,Bungalow,"64316, Jalan Smith Harbor, Brandonbury, Selangor",3.053347,101.594977,3029892.01,3962,2010
+PROP00019,CUST00990,Terrace house,"90282, Jalan Heather Track, North Caitlynborough, Selangor",3.086356,101.437406,551512.29,4352,2013
+PROP00020,CUST00892,Terrace house,"459, Jalan Morrow Manor, East Sharon, Selangor",3.128326,101.748896,637903.67,1151,2007
+PROP00021,CUST00223,Semi-detached,"25120, Jalan Harris Lodge, Reginaview, Selangor",2.939003,101.82098,998148.85,3839,1998
+PROP00022,CUST01114,Semi-detached,"500, Jalan Johnson Mountains, Lake Monicachester, Selangor",3.136346,101.700192,1133899.87,1591,1986
+PROP00023,CUST00486,Semi-detached,"86982, Jalan Craig Keys, North Robert, Selangor",2.927652,101.879154,1318761.54,2570,1991
+PROP00024,CUST01589,Semi-detached,"17768, Jalan Taylor Rapids, West Thomasview, Selangor",3.107131,101.584527,796958.07,1759,2020
+PROP00025,CUST00953,Terrace house,"58591, Jalan Vasquez Village, East Jeffrey, Selangor",3.146081,101.660572,407430.93,3322,1988
+PROP00026,CUST00773,Apartment,"23116, Jalan Eaton Cove, East John, Selangor",3.276462,101.556429,270994.12,697,1988
+PROP00027,CUST00296,Terrace house,"457, Jalan Wolf Curve, Robertberg, Selangor",3.194383,101.642466,552912.33,3648,1987
+PROP00028,CUST01517,Bungalow,"060, Jalan Tiffany Bridge, Lake Austin, Selangor",3.156731,101.669678,3138741.39,2926,2016
+PROP00029,CUST01237,Bungalow,"26509, Jalan Webb Key, Lake Molly, Selangor",3.198659,101.724729,2373004.37,1153,2004
+PROP00030,CUST00765,Terrace house,"673, Jalan Howell Plains, Wilsonview, Selangor",2.981292,101.746349,430879.15,3850,2003
+PROP00031,CUST00006,Shop lot,"855, Jalan Jonathan Valley, Ingrammouth, Selangor",3.207732,101.706107,589158.46,722,2022
+PROP00032,CUST01982,Condominium,"158, Jalan Brown Lakes, Mayside, Selangor",3.060577,101.688243,669052.81,3133,1999
+PROP00033,CUST00863,Shop lot,"13711, Jalan Martinez Key, Shaunside, Selangor",3.131197,101.772923,916969.54,2392,2021
+PROP00034,CUST01340,Apartment,"82683, Jalan Mary Forges, East Jessicastad, Selangor",3.022504,101.569546,447399.8,2292,2009
+PROP00035,CUST01990,Shop lot,"929, Jalan Lauren Lake, Lake Stacey, Selangor",3.078726,101.587188,791977.13,1008,2018
+PROP00036,CUST01412,Condominium,"252, Jalan Erin Roads, Port Sarah, Selangor",3.099876,101.518883,502094.25,2452,2005
+PROP00037,CUST01717,Condominium,"289, Jalan Garrison Harbors, South Kennethhaven, Selangor",2.98617,101.829695,376436.85,753,1993
+PROP00038,CUST00135,Terrace house,"7752, Jalan Smith Glen, Jasonland, Selangor",3.164933,101.635691,498912.13,3645,2014
+PROP00039,CUST01304,Terrace house,"62272, Jalan Peter Estate, Myersborough, Selangor",3.124031,101.714992,423780.88,922,2008
+PROP00040,CUST00853,Apartment,"51342, Jalan Martinez Streets, East Scott, Selangor",3.06936,101.483442,207618.03,2715,1995
+PROP00041,CUST00380,Terrace house,"450, Jalan Abigail Pine, Port Courtneyfort, Selangor",3.010174,101.525477,484725.7,2290,2010
+PROP00042,CUST00193,Terrace house,"74189, Jalan Hernandez Throughway, Nancyton, Selangor",3.044476,101.656972,689920.29,1490,2022
+PROP00043,CUST01022,Apartment,"4176, Jalan Nancy Square, Blakebury, Selangor",3.097546,101.637087,388257.51,2590,1987
+PROP00044,CUST00302,Condominium,"119, Jalan Allen Vista, Copelandchester, Selangor",3.116089,101.808765,549770.52,1936,1993
+PROP00045,CUST00086,Bungalow,"0144, Jalan Bowman Isle, Estradaview, Selangor",3.161321,101.755307,3063721.24,4104,2003
+PROP00046,CUST00578,Condominium,"1017, Jalan Brenda Forges, Wadeville, Selangor",3.181766,101.673343,396042.41,1663,2020
+PROP00047,CUST01118,Semi-detached,"789, Jalan Obrien Ways, Williamsville, Selangor",3.182424,101.600166,872253.56,888,2000
+PROP00048,CUST01073,Terrace house,"191, Jalan Tammy Garden, Bettychester, Selangor",3.352252,101.543242,470081.37,770,1999
+PROP00049,CUST01732,Terrace house,"0577, Jalan Shelby Via, Caldwelltown, Selangor",3.22132,101.740037,715359.92,729,1994
+PROP00050,CUST01058,Bungalow,"92051, Jalan Knapp Unions, Lake Stephenview, Selangor",3.186927,101.790743,3067998.63,4368,2001
+PROP00051,CUST01995,Condominium,"5534, Jalan Bowers Islands, Lyonsview, Selangor",3.25934,101.682858,701721.7,2274,1985
+PROP00052,CUST01149,Semi-detached,"38856, Jalan Norman Extensions, Gatesmouth, Selangor",2.958099,101.660664,1537611.43,3827,1990
+PROP00053,CUST00102,Shop lot,"9835, Jalan Garcia Stravenue, Lake Richardfort, Selangor",2.972729,101.777535,686210.62,1017,2022
+PROP00054,CUST01346,Shop lot,"263, Jalan Chase Oval, Matthewmouth, Selangor",3.132994,101.710567,972992.63,4483,2009
+PROP00055,CUST00614,Condominium,"2250, Jalan James Inlet, Katherineside, Selangor",2.993579,101.833318,833034.51,3574,2016
+PROP00056,CUST00211,Condominium,"69131, Jalan Jennifer Wells, Phelpsberg, Selangor",3.165893,101.669476,473679.62,785,1999
+PROP00057,CUST01027,Condominium,"585, Jalan Anderson Lights, Port Stephanieport, Selangor",3.194564,101.522912,753371.1,2712,1991
+PROP00058,CUST00799,Bungalow,"915, Jalan Scott Canyon, New Eric, Selangor",3.119914,101.733701,2657022.61,1878,1985
+PROP00059,CUST01667,Terrace house,"0733, Jalan Nancy Mill, East Alexander, Selangor",3.20855,101.751641,628963.03,1548,1995
+PROP00060,CUST01177,Bungalow,"09776, Jalan Robert Vista, Burtonfurt, Selangor",3.138733,101.582651,2737587.87,1868,2004
+PROP00061,CUST00456,Semi-detached,"454, Jalan Wood Freeway, Amberland, Selangor",3.232559,101.675552,701227.21,3650,2002
+PROP00062,CUST00092,Semi-detached,"253, Jalan Colin Tunnel, Nicholsville, Selangor",2.963268,101.742769,1107911.81,1812,2017
+PROP00063,CUST00464,Terrace house,"358, Jalan Steven Ports, South Christinefort, Selangor",2.917991,101.795595,429173.01,1675,2007
+PROP00064,CUST01815,Apartment,"612, Jalan Ann Points, West Thomasberg, Selangor",3.11284,101.73496,307926.34,4476,1994
+PROP00065,CUST01694,Semi-detached,"51494, Jalan Jennifer Overpass, Padillaberg, Selangor",3.006241,101.815268,1239679.16,3838,1988
+PROP00066,CUST01375,Condominium,"3748, Jalan Rivera Port, Thomasside, Selangor",2.939849,101.849354,428876.74,4439,2013
+PROP00067,CUST00332,Bungalow,"950, Jalan Jennifer Knolls, Port Tiffanyland, Selangor",3.344548,101.569167,2610904.8,2751,2013
+PROP00068,CUST00793,Condominium,"623, Jalan Tina Trail, Port Howard, Selangor",2.979239,101.867343,665075.16,3500,1999
+PROP00069,CUST01731,Bungalow,"715, Jalan Clinton Lodge, Ballardfurt, Selangor",3.082555,101.63579,1864540.25,1361,2010
+PROP00070,CUST00610,Semi-detached,"725, Jalan Cody Knoll, Lake Russell, Selangor",3.077585,101.73964,715229.24,1287,2012
+PROP00071,CUST01341,Condominium,"7124, Jalan Gonzalez Keys, West Shannonville, Selangor",3.189807,101.726486,864181.9,3478,2020
+PROP00072,CUST00673,Semi-detached,"409, Jalan Tina Circle, Codytown, Selangor",3.116066,101.696843,917292.3,3407,1987
+PROP00073,CUST01630,Bungalow,"005, Jalan Torres Union, Micheleburgh, Selangor",3.028086,101.486246,2133906.69,1961,2003
+PROP00074,CUST00821,Apartment,"97283, Jalan Davis Springs, New Neil, Selangor",3.007611,101.440762,240982.04,753,2009
+PROP00075,CUST00526,Apartment,"72827, Jalan Christy Plain, Port Sarahport, Selangor",3.198035,101.739303,299019.33,4493,2018
+PROP00076,CUST01260,Bungalow,"52982, Jalan Tyler Rapids, New Samantha, Selangor",2.999103,101.844162,2070713.36,3203,2022
+PROP00077,CUST00880,Bungalow,"8671, Jalan Matthew Lakes, East Susan, Selangor",3.044175,101.791458,1780348.94,884,2014
+PROP00078,CUST00957,Semi-detached,"3605, Jalan Sabrina Neck, Port Aprilmouth, Selangor",3.258252,101.599815,1427311.26,703,1988
+PROP00079,CUST00612,Semi-detached,"998, Jalan Sherman Row, West Luke, Selangor",3.115057,101.653033,703535.85,894,2013
+PROP00080,CUST00224,Condominium,"3466, Jalan Bennett Overpass, South Damonside, Selangor",3.338054,101.644632,692305.27,1882,2021
+PROP00081,CUST01206,Condominium,"9647, Jalan Townsend Square, New Marieborough, Selangor",3.084128,101.447112,789523.97,4426,1987
+PROP00082,CUST01256,Terrace house,"49982, Jalan Stevenson Place, North Tammyfurt, Selangor",3.162684,101.761814,526939.9,2950,2012
+PROP00083,CUST00171,Apartment,"58068, Jalan William Springs, East Coreyburgh, Selangor",2.96315,101.649956,346343.6,1297,1990
+PROP00084,CUST00822,Apartment,"51373, Jalan Brandon Light, Lake Darren, Selangor",3.075966,101.582806,270230.65,3024,2012
+PROP00085,CUST00076,Condominium,"0352, Jalan Serrano Landing, Williamsberg, Selangor",3.158594,101.63779,699350.0,2725,2004
+PROP00086,CUST00662,Shop lot,"394, Jalan Becker Station, Jamieview, Selangor",3.088981,101.705839,1888426.67,2132,1995
+PROP00087,CUST01471,Semi-detached,"0666, Jalan Kirby Field, Kingtown, Selangor",3.21917,101.571523,1398539.43,708,1998
+PROP00088,CUST01856,Terrace house,"607, Jalan Elizabeth Fork, Lake Dannyburgh, Selangor",2.914592,101.898806,700573.63,3701,1988
+PROP00089,CUST01403,Bungalow,"1285, Jalan Sherry Glens, Mitchellport, Selangor",3.081462,101.613656,2542296.18,2175,2010
+PROP00090,CUST01542,Semi-detached,"9411, Jalan Carson Flats, New Meghanborough, Selangor",2.980094,101.640094,1345869.74,3629,2015
+PROP00091,CUST00473,Terrace house,"80771, Jalan Jeremy Village, Lopezland, Selangor",3.192628,101.661206,747779.84,1486,2021
+PROP00092,CUST01248,Shop lot,"69572, Jalan Harper Canyon, Port Jason, Selangor",3.065095,101.462982,1869557.93,1718,2017
+PROP00093,CUST01397,Condominium,"0902, Jalan Villarreal Glen, West Steven, Selangor",3.082523,101.529437,775667.91,3925,2020
+PROP00094,CUST00042,Semi-detached,"066, Jalan Stacey Parkways, East Jackborough, Selangor",3.262636,101.757311,1472040.36,3308,2000
+PROP00095,CUST01933,Semi-detached,"7071, Jalan Carolyn Heights, East Amy, Selangor",3.202348,101.737478,1292967.77,2189,2020
+PROP00096,CUST01607,Shop lot,"0116, Jalan Christine Extension, Mitchellberg, Selangor",3.179453,101.663003,617361.33,4390,2000
+PROP00097,CUST01868,Terrace house,"30609, Jalan Lisa Trafficway, Port Jeffreyton, Selangor",2.985644,101.471403,707818.5,2572,2023
+PROP00098,CUST00513,Semi-detached,"810, Jalan Pineda Rue, Campbellfurt, Selangor",3.203426,101.705509,705277.24,2090,2020
+PROP00099,CUST01631,Condominium,"3794, Jalan Baird Roads, Mendozaberg, Selangor",3.159124,101.767715,794853.92,2494,2023
+PROP00100,CUST01634,Terrace house,"8532, Jalan Walsh Extensions, Kiddburgh, Selangor",3.227006,101.643358,505432.47,1988,1986
+PROP00101,CUST01166,Bungalow,"0642, Jalan Steve Station, South David, Selangor",3.077906,101.442511,2608417.76,4427,2008
+PROP00102,CUST00068,Semi-detached,"536, Jalan Stephenson Mount, Wallacefurt, Selangor",3.076529,101.604088,887763.33,3027,2019
+PROP00103,CUST01157,Terrace house,"5556, Jalan Jennifer Ford, East Jennifer, Selangor",2.970579,101.640344,725468.6,3314,2005
+PROP00104,CUST01474,Condominium,"395, Jalan Kelley Track, Brooksport, Selangor",3.302853,101.585286,659579.87,1572,2001
+PROP00105,CUST01454,Terrace house,"62718, Jalan Evans Village, Williamsborough, Selangor",2.986738,101.663554,639719.44,2218,2010
+PROP00106,CUST01538,Condominium,"8268, Jalan White Mills, Lake Jamieshire, Selangor",3.100657,101.584893,517269.52,1116,2023
+PROP00107,CUST00997,Apartment,"249, Jalan Danielle Ports, East Robert, Selangor",3.153469,101.700465,186440.47,4384,1996
+PROP00108,CUST01322,Terrace house,"3275, Jalan Erica Turnpike, North Andrewton, Selangor",2.922508,101.887378,616723.67,3810,1992
+PROP00109,CUST00032,Terrace house,"1553, Jalan Susan Inlet, West Cindymouth, Selangor",2.950388,101.858468,677190.5,2337,1989
+PROP00110,CUST00470,Semi-detached,"775, Jalan Keith Courts, East Frank, Selangor",3.202244,101.546748,873273.81,1656,2001
+PROP00111,CUST01922,Shop lot,"89628, Jalan Graves Harbors, North Elizabeth, Selangor",3.047057,101.488571,1271405.02,1170,1990
+PROP00112,CUST00268,Shop lot,"71026, Jalan Gray Extension, New Haileystad, Selangor",3.009209,101.786779,1609800.41,2697,1993
+PROP00113,CUST00689,Apartment,"9927, Jalan Tara Skyway, Nicoleland, Selangor",3.000404,101.813824,359822.54,2137,2021
+PROP00114,CUST01668,Shop lot,"1229, Jalan Byrd Drive, Port Susanborough, Selangor",2.884925,101.613788,1925167.7,4340,2020
+PROP00115,CUST01356,Condominium,"541, Jalan Morrison Union, Smithshire, Selangor",3.14033,101.661353,704312.28,1493,1989
+PROP00116,CUST00235,Bungalow,"2543, Jalan Hendrix Burg, Floresburgh, Selangor",3.013558,101.479243,1487198.55,3369,2014
+PROP00117,CUST01445,Semi-detached,"34476, Jalan Williams Summit, Hopkinsmouth, Selangor",2.956866,101.790392,1470470.46,4444,2008
+PROP00118,CUST01221,Terrace house,"029, Jalan Jessica Brook, Oscarfort, Selangor",3.053451,101.39005,592363.36,1117,1989
+PROP00119,CUST00923,Condominium,"6046, Jalan Richardson Passage, Russellmouth, Selangor",3.056506,101.555116,827271.87,685,2011
+PROP00120,CUST01399,Shop lot,"54837, Jalan Adams Mission, Port Elizabethmouth, Selangor",3.169323,101.592443,1976073.94,3966,2003
+PROP00121,CUST00109,Shop lot,"102, Jalan John Fall, Calvinshire, Selangor",3.166403,101.608407,1444539.67,3540,1999
+PROP00122,CUST00253,Semi-detached,"11005, Jalan Eric Road, Welchmouth, Selangor",3.144989,101.762322,935618.6,1076,2012
+PROP00123,CUST01132,Condominium,"191, Jalan Janet Flats, East Christopherland, Selangor",3.340211,101.548081,490118.5,3162,2022
+PROP00124,CUST00142,Semi-detached,"63301, Jalan Flores Pines, South Lisa, Selangor",2.916765,101.761716,946523.55,4026,2000
+PROP00125,CUST01511,Shop lot,"792, Jalan Roberts Springs, South Jacksontown, Selangor",3.06112,101.800386,601579.71,2941,1999
+PROP00126,CUST01769,Condominium,"23428, Jalan Holly Squares, East Jacobmouth, Selangor",2.900447,101.799565,773036.38,2785,1994
+PROP00127,CUST00766,Semi-detached,"26949, Jalan Hunter Heights, South John, Selangor",3.122754,101.621287,1424538.94,4333,1991
+PROP00128,CUST01145,Condominium,"3804, Jalan Webster Circles, North Troyton, Selangor",3.203099,101.739759,576657.22,1665,2023
+PROP00129,CUST01176,Condominium,"617, Jalan Tiffany Spring, West Briannastad, Selangor",3.166755,101.691253,861769.45,1882,1996
+PROP00130,CUST00205,Apartment,"919, Jalan Acosta Island, Howardfort, Selangor",2.914449,101.739425,249697.31,3400,2018
+PROP00131,CUST00385,Shop lot,"7475, Jalan Jeremy Extension, Lake Michaelmouth, Selangor",3.100993,101.725521,1444690.67,3740,2019
+PROP00132,CUST00814,Terrace house,"5677, Jalan Hernandez Street, Barnestown, Selangor",3.033614,101.463571,379754.2,3807,1999
+PROP00133,CUST01116,Terrace house,"56265, Jalan Ryan Viaduct, East Brittany, Selangor",3.163997,101.632527,591999.92,2728,1986
+PROP00134,CUST00292,Terrace house,"31067, Jalan Joseph Flat, South Philipport, Selangor",3.14475,101.603129,686364.46,1899,2007
+PROP00135,CUST01187,Shop lot,"433, Jalan Lawson Parks, Grahamburgh, Selangor",3.059587,101.730655,583679.43,3222,2009
+PROP00136,CUST00802,Semi-detached,"0511, Jalan Mccarthy Rest, Donaldhaven, Selangor",3.123682,101.809724,1177581.98,4405,1988
+PROP00137,CUST00952,Terrace house,"3670, Jalan Welch Junction, Gabriellachester, Selangor",3.192138,101.526836,625238.17,664,2002
+PROP00138,CUST00023,Semi-detached,"192, Jalan Peterson Landing, West Annette, Selangor",3.125002,101.592621,851468.96,2289,1996
+PROP00139,CUST00947,Semi-detached,"1075, Jalan Sanchez Islands, Port Rachel, Selangor",3.074832,101.613972,1352361.31,1486,1994
+PROP00140,CUST00568,Terrace house,"748, Jalan Ray Isle, East Tammy, Selangor",2.85692,101.738001,564074.96,627,1996
+PROP00141,CUST00359,Bungalow,"939, Jalan Lisa Gateway, Elliotttown, Selangor",3.213042,101.654613,2555705.64,4496,2016
+PROP00142,CUST00242,Semi-detached,"8162, Jalan Miller Overpass, Morrisonview, Selangor",2.898408,101.819977,1573154.21,3863,2021
+PROP00143,CUST00681,Semi-detached,"76342, Jalan Abbott Circle, Wrighttown, Selangor",3.084504,101.598765,1467443.43,1893,2007
+PROP00144,CUST00506,Condominium,"5978, Jalan Kristen Island, Gallowayside, Selangor",3.134193,101.74219,452913.53,2449,2002
+PROP00145,CUST00138,Semi-detached,"39914, Jalan Jill Fields, Johnfurt, Selangor",3.067553,101.543207,1307871.25,2203,2014
+PROP00146,CUST01226,Semi-detached,"0443, Jalan Kenneth Burgs, Millermouth, Selangor",2.870981,101.701467,833575.89,2054,2010
+PROP00147,CUST00510,Semi-detached,"76829, Jalan Blake Coves, Stephenborough, Selangor",2.97608,101.84534,793665.66,1256,2008
+PROP00148,CUST01306,Condominium,"974, Jalan Brenda Islands, North Brianmouth, Selangor",3.189457,101.78112,423171.78,725,1985
+PROP00149,CUST01846,Condominium,"752, Jalan Decker Lane, Lake Ryanmouth, Selangor",3.258973,101.748995,319244.03,4481,2017
+PROP00150,CUST00816,Condominium,"2590, Jalan Nguyen Throughway, New Brianberg, Selangor",3.104259,101.754921,676967.17,3211,2020
+PROP00151,CUST01493,Condominium,"1122, Jalan Alexandra Station, North Karen, Selangor",3.016744,101.399379,779622.61,761,2015
+PROP00152,CUST00284,Condominium,"5165, Jalan Travis Plains, New Robertfurt, Selangor",3.060759,101.669244,349934.73,3207,2013
+PROP00153,CUST01600,Apartment,"281, Jalan Shane Crescent, Jeremyton, Selangor",3.047618,101.580305,385874.11,1790,2019
+PROP00154,CUST01792,Semi-detached,"800, Jalan Timothy Canyon, Port Jesse, Selangor",3.13429,101.605308,820360.89,862,2013
+PROP00155,CUST00699,Condominium,"28556, Jalan Smith Track, Travischester, Selangor",3.197714,101.755233,626861.99,1637,1989
+PROP00156,CUST00352,Semi-detached,"103, Jalan Jason Prairie, Smithland, Selangor",3.170667,101.735021,1251764.8,2360,1998
+PROP00157,CUST00823,Condominium,"582, Jalan Lewis Plain, Lake Julieport, Selangor",3.225414,101.702204,674823.38,3592,2005
+PROP00158,CUST01928,Shop lot,"8586, Jalan Mary Throughway, Matthewmouth, Selangor",3.140537,101.601151,529226.28,2088,1990
+PROP00159,CUST00008,Apartment,"6147, Jalan Sean Run, Harrisville, Selangor",3.127618,101.64592,365931.61,3748,2001
+PROP00160,CUST00288,Condominium,"61339, Jalan Whitaker Spring, New Lisa, Selangor",2.890612,101.825425,424794.74,795,1985
+PROP00161,CUST00357,Semi-detached,"7039, Jalan Robinson Burg, Alexanderburgh, Selangor",3.113991,101.556767,821176.34,1585,2005
+PROP00162,CUST00232,Bungalow,"3765, Jalan Joyce Rapids, South Timothy, Selangor",3.097262,101.534301,1731101.71,3489,1997
+PROP00163,CUST00868,Shop lot,"431, Jalan Nicole Walk, New Brendantown, Selangor",3.077371,101.461278,911987.04,2471,2006
+PROP00164,CUST01171,Semi-detached,"0476, Jalan Colton Land, Lake James, Selangor",3.005618,101.783109,1390768.06,1179,2020
+PROP00165,CUST01506,Semi-detached,"5146, Jalan Kenneth Bypass, West Donaldmouth, Selangor",3.242749,101.683566,1338517.8,1505,1992
+PROP00166,CUST01550,Semi-detached,"10720, Jalan Christopher Freeway, Kaneshire, Selangor",3.019276,101.655165,1250994.68,4024,2020
+PROP00167,CUST00052,Terrace house,"844, Jalan Jacqueline Neck, Lake Heatherborough, Selangor",3.126781,101.802822,449491.7,4114,1985
+PROP00168,CUST01128,Apartment,"66007, Jalan Rivas Loop, North Barbara, Selangor",2.968842,101.806469,197354.96,677,2009
+PROP00169,CUST01450,Bungalow,"14473, Jalan Johnson Groves, East Hannah, Selangor",3.149623,101.636945,2267907.87,725,2019
+PROP00170,CUST01045,Apartment,"09687, Jalan Jennifer Summit, West Michaelstad, Selangor",3.094782,101.733996,329126.14,1008,2006
+PROP00171,CUST00933,Semi-detached,"7825, Jalan Barber Plains, West Jill, Selangor",3.249224,101.523208,969391.33,2976,2011
+PROP00172,CUST00752,Terrace house,"6296, Jalan Mcdonald Key, Dylanfort, Selangor",3.240768,101.725656,584539.41,1811,1991
+PROP00173,CUST01624,Terrace house,"865, Jalan Miller Glen, West Sandy, Selangor",3.13924,101.537657,611678.78,3901,2011
+PROP00174,CUST00566,Semi-detached,"778, Jalan Pamela Junctions, New Matthew, Selangor",3.206901,101.715103,788843.94,3544,1997
+PROP00175,CUST01054,Shop lot,"292, Jalan Makayla Locks, Port Robertville, Selangor",3.113204,101.62698,997124.94,1254,2000
+PROP00176,CUST01986,Bungalow,"808, Jalan Barbara Glens, Lake Jeremy, Selangor",3.226924,101.567306,3351531.34,1928,2017
+PROP00177,CUST00290,Semi-detached,"571, Jalan Dennis Union, Amyfurt, Selangor",3.000691,101.756177,1283129.48,3204,2004
+PROP00178,CUST01772,Shop lot,"639, Jalan Brady Spurs, East Daniellemouth, Selangor",3.098004,101.735985,585898.95,3464,2004
+PROP00179,CUST01727,Apartment,"30817, Jalan Ruth Square, Johnfurt, Selangor",3.216742,101.623333,381461.05,3370,1997
+PROP00180,CUST01236,Terrace house,"3813, Jalan Allen Hill, East Jacobland, Selangor",3.243893,101.755256,384775.85,4346,2006
+PROP00181,CUST00475,Apartment,"47165, Jalan Smith Ranch, Matthewstad, Selangor",3.085456,101.623783,316766.44,2383,1996
+PROP00182,CUST00408,Bungalow,"46997, Jalan Erin Bypass, Florestown, Selangor",3.232329,101.702873,2438096.67,2246,1987
+PROP00183,CUST01583,Apartment,"7681, Jalan Barker River, Stacyfort, Selangor",3.142813,101.705017,323511.54,676,2000
+PROP00184,CUST00754,Apartment,"60717, Jalan Stephens Corner, Lake Maria, Selangor",3.138957,101.720237,396632.25,2785,2017
+PROP00185,CUST01117,Semi-detached,"176, Jalan Allen Mountains, West Kylemouth, Selangor",3.033193,101.5776,805959.61,2826,2012
+PROP00186,CUST01910,Apartment,"96102, Jalan Selena Mills, New Howardview, Selangor",2.99232,101.842298,403240.67,1137,1996
+PROP00187,CUST01549,Apartment,"968, Jalan Jon Crest, Thompsonmouth, Selangor",2.948956,101.854323,438465.15,1945,2003
+PROP00188,CUST01032,Condominium,"2049, Jalan Simmons Spur, Port Chase, Selangor",3.108329,101.585625,327117.34,3616,2007
+PROP00189,CUST01695,Semi-detached,"7306, Jalan Kelsey Cape, Ianmouth, Selangor",3.069418,101.416071,1146332.85,3087,1990
+PROP00190,CUST00611,Semi-detached,"973, Jalan Stokes Crescent, East Donaldshire, Selangor",3.196177,101.73903,1590495.11,3866,2020
+PROP00191,CUST00394,Apartment,"77560, Jalan Reid Coves, Wellsview, Selangor",3.017967,101.612389,306288.69,1184,2013
+PROP00192,CUST01398,Shop lot,"8611, Jalan Jose Shores, Thomashaven, Selangor",2.950425,101.777458,656119.89,2193,1985
+PROP00193,CUST01719,Apartment,"21021, Jalan Elizabeth Mission, Angelafort, Selangor",2.983116,101.666158,441354.55,2936,2014
+PROP00194,CUST01273,Terrace house,"29618, Jalan Jesse Drive, Deanfurt, Selangor",3.020891,101.384776,701277.81,3300,1995
+PROP00195,CUST01309,Condominium,"50801, Jalan Richards Branch, Nicoleberg, Selangor",3.177106,101.613989,527349.4,2736,2023
+PROP00196,CUST00170,Bungalow,"3733, Jalan Mendoza Forest, East Paulside, Selangor",3.189934,101.75113,1650242.33,2478,2012
+PROP00197,CUST00009,Shop lot,"22821, Jalan Palmer Cliffs, East Courtney, Selangor",3.067391,101.728736,1261380.96,2966,2018
+PROP00198,CUST00837,Terrace house,"5346, Jalan Karen Canyon, Kimberlytown, Selangor",3.123352,101.715482,624743.65,4371,2016
+PROP00199,CUST00742,Shop lot,"56793, Jalan Timothy Turnpike, Lucasburgh, Selangor",3.108847,101.609032,675247.97,1609,2021
+PROP00200,CUST00919,Bungalow,"98471, Jalan Greene Mall, New Christopherberg, Selangor",3.084727,101.47909,3232870.78,4063,2023
+PROP00201,CUST00491,Apartment,"054, Jalan Campbell Run, Kevinside, Selangor",3.23474,101.757248,367901.55,4429,1988
+PROP00202,CUST01646,Condominium,"547, Jalan Hughes Well, South Matthew, Selangor",2.925388,101.697719,426746.2,3372,2016
+PROP00203,CUST00669,Shop lot,"758, Jalan John Grove, Nancyhaven, Selangor",3.144084,101.772032,1029148.76,3994,1994
+PROP00204,CUST01744,Bungalow,"55393, Jalan Compton Fields, Zacharychester, Selangor",3.028047,101.674444,3179794.65,2697,2010
+PROP00205,CUST00173,Apartment,"4963, Jalan Leah Spurs, Jamesstad, Selangor",3.266695,101.592546,389504.43,2956,2014
+PROP00206,CUST00984,Shop lot,"885, Jalan Lauren Prairie, North Jenny, Selangor",3.193228,101.628347,1864051.55,2928,1985
+PROP00207,CUST00638,Semi-detached,"3395, Jalan Paige Valleys, Brooksfurt, Selangor",2.964965,101.832369,1228646.96,3120,2022
+PROP00208,CUST00693,Shop lot,"4978, Jalan Thomas Rest, West Davidfurt, Selangor",2.992423,101.821292,1480209.92,1817,2002
+PROP00209,CUST00520,Shop lot,"601, Jalan Lisa Glens, Gibsonside, Selangor",3.033629,101.837614,1489171.38,4161,2004
+PROP00210,CUST01975,Terrace house,"489, Jalan Gonzalez Center, Fullerfort, Selangor",2.899013,101.814867,530759.79,2981,1995
+PROP00211,CUST01872,Shop lot,"176, Jalan Edwards Dam, North Michael, Selangor",3.10565,101.519643,1656777.48,2006,2003
+PROP00212,CUST00446,Semi-detached,"01418, Jalan Anderson Court, Harrisshire, Selangor",3.108292,101.642681,1447310.14,2926,1991
+PROP00213,CUST01581,Shop lot,"01594, Jalan Jordan Fort, New Cassandra, Selangor",3.092839,101.474643,888673.33,1996,2022
+PROP00214,CUST01414,Bungalow,"8532, Jalan Angela Island, East Linda, Selangor",3.177287,101.68545,2386166.79,3166,2021
+PROP00215,CUST01446,Bungalow,"3890, Jalan Christopher Streets, Lisaville, Selangor",2.963253,101.811886,2819298.37,2944,2012
+PROP00216,CUST00707,Semi-detached,"36337, Jalan Patricia Forges, Danielbury, Selangor",2.980619,101.867123,1156644.83,1513,2016
+PROP00217,CUST00251,Bungalow,"469, Jalan Griffin Fort, Port Christophermouth, Selangor",3.163919,101.759351,1365699.73,2553,2018
+PROP00218,CUST00054,Apartment,"2696, Jalan Amber Groves, Lake Travis, Selangor",2.988491,101.4216,362841.43,2602,1998
+PROP00219,CUST00334,Shop lot,"550, Jalan Romero Loaf, Obrienstad, Selangor",3.02763,101.559618,646792.53,3412,2014
+PROP00220,CUST01505,Shop lot,"19626, Jalan Jeffery Knoll, Hillport, Selangor",3.24126,101.718587,1455231.46,1391,2005
+PROP00221,CUST00167,Terrace house,"69709, Jalan Debbie Circles, Marqueztown, Selangor",3.086475,101.733375,546771.81,2789,1998
+PROP00222,CUST00624,Condominium,"9556, Jalan Travis Stream, Blankenshipland, Selangor",2.980586,101.628298,418422.75,3514,2017
+PROP00223,CUST00097,Condominium,"4534, Jalan Buck Green, Moorebury, Selangor",3.200195,101.653554,545280.14,3007,2023
+PROP00224,CUST01655,Apartment,"898, Jalan Meghan Light, Brandonbury, Selangor",3.185096,101.698326,364171.84,777,1996
+PROP00225,CUST01568,Condominium,"21980, Jalan Miller Glens, Hernandezberg, Selangor",3.163587,101.683265,857817.98,3399,2010
+PROP00226,CUST00182,Condominium,"4236, Jalan Jackson Cliff, Port Christopher, Selangor",3.120908,101.709788,488137.18,3348,2006
+PROP00227,CUST00309,Semi-detached,"92487, Jalan Jacobson Freeway, Port Susanland, Selangor",2.934964,101.894904,840287.65,3033,1988
+PROP00228,CUST01113,Condominium,"14281, Jalan Tran Land, East Amanda, Selangor",3.009246,101.653348,460702.99,2595,1989
+PROP00229,CUST00501,Apartment,"30524, Jalan Vincent Centers, Taylorton, Selangor",3.059824,101.597718,419282.06,2996,2000
+PROP00230,CUST00388,Apartment,"2239, Jalan Berry Harbors, Sanchezburgh, Selangor",3.17197,101.682138,367612.39,771,1994
+PROP00231,CUST00178,Semi-detached,"132, Jalan Carlos Lane, North Justin, Selangor",3.160903,101.693397,926328.81,1396,2011
+PROP00232,CUST01837,Apartment,"768, Jalan Oneal Mountain, Kristinshire, Selangor",3.032831,101.463774,332172.22,3874,2015
+PROP00233,CUST00677,Condominium,"648, Jalan Jackson Walks, Martinezton, Selangor",3.203152,101.592294,364664.13,2908,2000
+PROP00234,CUST00753,Shop lot,"19541, Jalan Reyes Hills, Andrewfort, Selangor",3.212733,101.556782,721212.4,3372,1985
+PROP00235,CUST01052,Semi-detached,"03627, Jalan Deborah Hollow, Sancheztown, Selangor",2.972595,101.646202,1361448.62,1023,1994
+PROP00236,CUST01301,Bungalow,"74767, Jalan Watson Ford, Andersonton, Selangor",3.095265,101.572105,2692947.05,3287,1986
+PROP00237,CUST01194,Semi-detached,"21450, Jalan Marshall Lights, Millerport, Selangor",3.033718,101.567855,1201711.52,2044,2000
+PROP00238,CUST01447,Apartment,"8870, Jalan Jones Isle, West Sandra, Selangor",3.206583,101.727239,279823.54,3922,2006
+PROP00239,CUST00988,Semi-detached,"01284, Jalan Angel Forge, Andrewfurt, Selangor",2.996464,101.722453,891021.39,1963,2012
+PROP00240,CUST01160,Bungalow,"9759, Jalan Mitchell Center, South Katherinechester, Selangor",3.221334,101.749662,2593144.82,3353,2004
+PROP00241,CUST01185,Shop lot,"089, Jalan Yolanda Drives, Riveramouth, Selangor",3.056729,101.524422,705347.69,2279,1997
+PROP00242,CUST00025,Apartment,"422, Jalan Christopher Lights, Prestonton, Selangor",2.904803,101.704864,363161.03,2283,1987
+PROP00243,CUST00452,Shop lot,"40236, Jalan Robert Views, South Amy, Selangor",3.062986,101.627988,1737214.74,2239,2021
+PROP00244,CUST00695,Condominium,"3012, Jalan Joseph Orchard, East Taylorburgh, Selangor",3.190507,101.82016,868824.1,2337,2021
+PROP00245,CUST01777,Condominium,"711, Jalan Cain Junctions, Melissaview, Selangor",2.87001,101.712898,389800.0,2911,2013
+PROP00246,CUST01554,Terrace house,"885, Jalan Rose Shores, Lindabury, Selangor",3.152707,101.58815,510164.43,2475,2023
+PROP00247,CUST01235,Semi-detached,"06745, Jalan Porter Stream, Williamsshire, Selangor",3.170358,101.720818,721381.29,3554,1989
+PROP00248,CUST00930,Condominium,"4128, Jalan Megan Forges, South Rebecca, Selangor",2.961232,101.761978,323203.71,1448,2022
+PROP00249,CUST01871,Bungalow,"88566, Jalan Knight Hills, East Franciscofort, Selangor",3.157956,101.75787,1276278.58,2387,2023
+PROP00250,CUST01010,Terrace house,"150, Jalan Sullivan Meadows, South Thomas, Selangor",3.144013,101.596351,502957.02,3582,1989
+PROP00251,CUST01751,Condominium,"55143, Jalan Koch Overpass, Chapmanfurt, Selangor",3.021832,101.647481,752945.52,3950,1999
+PROP00252,CUST01780,Terrace house,"3439, Jalan Matthew Rapid, Brittneyland, Selangor",3.24663,101.716487,646253.05,1245,2021
+PROP00253,CUST00996,Bungalow,"11028, Jalan Vasquez Course, North Aaron, Selangor",3.23078,101.725225,1537423.66,610,2006
+PROP00254,CUST01433,Condominium,"02455, Jalan Billy Inlet, Craigshire, Selangor",3.153032,101.740238,404001.8,2311,1987
+PROP00255,CUST00055,Condominium,"09032, Jalan Holloway Overpass, West Brittneyhaven, Selangor",3.263898,101.588929,830676.33,2692,1999
+PROP00256,CUST01810,Apartment,"94217, Jalan Moore Trail, South Catherineport, Selangor",3.19486,101.705721,229094.39,3792,1988
+PROP00257,CUST00067,Apartment,"65277, Jalan Lynn Inlet, Desireefurt, Selangor",3.070179,101.596344,312568.8,2817,2019
+PROP00258,CUST00708,Bungalow,"3453, Jalan Steven Squares, North Christopher, Selangor",3.165319,101.636615,3347124.37,854,2010
+PROP00259,CUST00842,Shop lot,"121, Jalan Martinez Stream, West Kayleemouth, Selangor",3.200404,101.556158,1277829.67,3441,1986
+PROP00260,CUST01025,Condominium,"376, Jalan Martinez Row, Sharonborough, Selangor",3.304311,101.537058,552833.07,2963,2020
+PROP00261,CUST00926,Semi-detached,"0526, Jalan Michael Causeway, Port Melissaview, Selangor",3.283387,101.577369,1333319.59,2097,2017
+PROP00262,CUST00117,Apartment,"2776, Jalan Cole Via, Juliechester, Selangor",3.088834,101.795406,312588.79,653,2021
+PROP00263,CUST01987,Terrace house,"592, Jalan Misty Expressway, Robertfort, Selangor",2.936979,101.779887,608692.95,4229,2001
+PROP00264,CUST00622,Apartment,"2023, Jalan Krueger Flats, South Benjamin, Selangor",3.154951,101.721285,427540.28,2003,1996
+PROP00265,CUST00151,Bungalow,"55955, Jalan Daniel Trail, East Dylan, Selangor",3.206403,101.663563,2271285.73,1626,2015
+PROP00266,CUST00266,Apartment,"848, Jalan Preston Ramp, South Kayla, Selangor",3.027628,101.524248,183805.38,614,2023
+PROP00267,CUST01847,Semi-detached,"079, Jalan Ryan Throughway, Williamsmouth, Selangor",2.911206,101.67945,1112333.38,4153,1988
+PROP00268,CUST01431,Bungalow,"69176, Jalan Sloan Rest, West Mary, Selangor",3.13162,101.68338,2382082.93,3084,2014
+PROP00269,CUST00783,Apartment,"74403, Jalan Foster Avenue, North Jeffrey, Selangor",2.995571,101.585595,221867.07,2739,1988
+PROP00270,CUST00010,Condominium,"3606, Jalan Susan Unions, Amandaside, Selangor",3.08771,101.560974,836148.51,3414,1989
+PROP00271,CUST00676,Apartment,"0849, Jalan Tyler Prairie, New Donna, Selangor",2.960629,101.788741,212272.12,709,1985
+PROP00272,CUST00191,Terrace house,"1368, Jalan Thompson Shoal, North Gina, Selangor",3.024316,101.778497,608189.51,4456,2012
+PROP00273,CUST00804,Shop lot,"53701, Jalan Sarah Street, Garyport, Selangor",3.051204,101.430796,1096721.28,2710,1985
+PROP00274,CUST00519,Shop lot,"462, Jalan Harris Estates, Connorport, Selangor",3.254139,101.667868,1102128.95,1851,2015
+PROP00275,CUST01108,Apartment,"8811, Jalan Morgan Walk, East Cameronview, Selangor",3.077089,101.796198,351713.9,1191,2014
+PROP00276,CUST01658,Terrace house,"17518, Jalan Dixon Orchard, Kristenstad, Selangor",3.197091,101.693049,702046.91,3716,2001
+PROP00277,CUST01820,Condominium,"52638, Jalan Swanson River, North Francismouth, Selangor",2.949565,101.684179,889788.97,3353,2002
+PROP00278,CUST01559,Terrace house,"88375, Jalan Matthew Loaf, Garciahaven, Selangor",3.052831,101.655703,383896.33,3073,1990
+PROP00279,CUST01300,Apartment,"3239, Jalan Ayala Summit, Lake Jeremyfort, Selangor",3.12454,101.621807,330164.41,2739,2013
+PROP00280,CUST01293,Semi-detached,"765, Jalan Gonzalez Canyon, South Jacobshire, Selangor",3.114713,101.660478,701057.21,2707,2010
+PROP00281,CUST01138,Apartment,"0556, Jalan Tara Wall, Millerville, Selangor",3.153696,101.816959,226048.51,2564,2014
+PROP00282,CUST01210,Terrace house,"881, Jalan Thomas Plaza, Davidton, Selangor",3.123074,101.70268,538518.25,1768,1988
+PROP00283,CUST00657,Bungalow,"534, Jalan Carter Walks, North Sheilaberg, Selangor",3.086981,101.463454,2531656.66,3598,2013
+PROP00284,CUST00428,Condominium,"462, Jalan Morgan Loop, New Michaelfort, Selangor",3.205655,101.535952,688870.02,1802,2011
+PROP00285,CUST00490,Terrace house,"4600, Jalan Murphy Station, Port Derrickhaven, Selangor",2.979326,101.653331,386636.3,4394,2021
+PROP00286,CUST00918,Semi-detached,"915, Jalan Cody Greens, Lucasville, Selangor",3.242733,101.531481,745896.65,1034,2016
+PROP00287,CUST00789,Shop lot,"93913, Jalan Joshua Ville, Port Jennifershire, Selangor",3.142117,101.669297,764915.78,2124,1988
+PROP00288,CUST01873,Bungalow,"848, Jalan Garcia Lodge, West Samanthachester, Selangor",3.056889,101.400371,2289177.32,3410,1999
+PROP00289,CUST00531,Terrace house,"54021, Jalan Stacy Radial, North Patriciaton, Selangor",3.299636,101.528916,382763.36,3363,1996
+PROP00290,CUST00237,Apartment,"5681, Jalan Moore Points, North Matthew, Selangor",2.94128,101.677075,424206.13,3838,2023
+PROP00291,CUST01814,Shop lot,"91073, Jalan Gary View, South Adam, Selangor",2.944773,101.778525,1539228.15,3318,2006
+PROP00292,CUST01142,Semi-detached,"493, Jalan Kelley Circle, Clarkfurt, Selangor",2.957387,101.910365,989162.0,4151,2013
+PROP00293,CUST00929,Condominium,"84526, Jalan Bartlett Heights, Johnville, Selangor",3.216896,101.784331,507929.18,2171,2001
+PROP00294,CUST01565,Apartment,"649, Jalan Smith Crescent, Garzaview, Selangor",2.875277,101.786357,202512.76,1764,1992
+PROP00295,CUST01706,Semi-detached,"292, Jalan Tammy Gateway, Lake Billy, Selangor",2.894373,101.679988,962548.65,4454,2008
+PROP00296,CUST00827,Condominium,"01623, Jalan Chung Ports, Lake Jasonville, Selangor",3.047441,101.517236,443013.28,4439,1999
+PROP00297,CUST00937,Semi-detached,"061, Jalan Clark Divide, Lake Deborah, Selangor",3.054823,101.414943,1367402.74,3759,2023
+PROP00298,CUST01864,Shop lot,"55668, Jalan Ramos Flats, East Paul, Selangor",3.152565,101.670694,1514089.44,2143,1985
+PROP00299,CUST01367,Semi-detached,"37746, Jalan Johnny Meadows, Mooreton, Selangor",3.107339,101.447775,1390139.6,3910,2014
+PROP00300,CUST00893,Apartment,"784, Jalan Robert Heights, West Joshua, Selangor",2.924006,101.598788,320660.55,3120,2010
+PROP00301,CUST00125,Apartment,"0781, Jalan Bailey Row, South James, Selangor",3.105801,101.670023,338822.31,742,2017
+PROP00302,CUST00020,Apartment,"7642, Jalan Walker Dale, Port Jimmyfort, Selangor",3.009368,101.423455,315895.25,1300,2003
+PROP00303,CUST00795,Semi-detached,"3882, Jalan Joseph Land, Hannahview, Selangor",3.200931,101.788385,929942.62,1954,1986
+PROP00304,CUST00574,Semi-detached,"846, Jalan Bryan Coves, West Johnny, Selangor",3.234016,101.710651,888189.75,1658,2008
+PROP00305,CUST00460,Semi-detached,"89982, Jalan Madden Alley, North Mark, Selangor",3.242291,101.727835,1362973.75,1047,1991
+PROP00306,CUST00636,Terrace house,"869, Jalan Smith Fields, North Jessica, Selangor",3.129191,101.592736,714417.62,2722,2008
+PROP00307,CUST00665,Bungalow,"644, Jalan Courtney Skyway, Codyfort, Selangor",3.13435,101.493405,1775656.21,3374,2012
+PROP00308,CUST01344,Shop lot,"335, Jalan Michaela Knolls, Blakeside, Selangor",2.992595,101.816647,1993198.47,1916,2023
+PROP00309,CUST01464,Condominium,"7368, Jalan Hannah Cove, East Robert, Selangor",3.157929,101.660013,514179.51,2962,2011
+PROP00310,CUST01203,Terrace house,"37681, Jalan Erin Plaza, Higginsbury, Selangor",2.956936,101.76168,677493.7,2459,1997
+PROP00311,CUST01637,Bungalow,"335, Jalan Benjamin Branch, Martinezview, Selangor",2.927574,101.816824,1219122.49,3710,1987
+PROP00312,CUST01467,Semi-detached,"973, Jalan Matthew Freeway, North Lindaside, Selangor",3.219821,101.692524,938227.5,2017,2016
+PROP00313,CUST00932,Apartment,"307, Jalan Weaver Shoals, Port Tracyborough, Selangor",3.172438,101.752121,409921.79,1814,2019
+PROP00314,CUST01386,Bungalow,"5118, Jalan Sandy Harbors, South Heatherstad, Selangor",3.030438,101.490584,3200400.03,4397,2015
+PROP00315,CUST01765,Terrace house,"8201, Jalan Elizabeth Fields, Port Eric, Selangor",3.222672,101.674196,637304.66,1177,1989
+PROP00316,CUST01369,Semi-detached,"023, Jalan James Hill, Brownmouth, Selangor",3.234272,101.680357,1574568.53,1646,2023
+PROP00317,CUST00478,Apartment,"92013, Jalan Burton Trace, Marychester, Selangor",3.209784,101.606587,284381.04,1807,1996
+PROP00318,CUST00164,Terrace house,"12760, Jalan Nicholas Place, Lake Megan, Selangor",3.210056,101.736227,542711.59,2843,2001
+PROP00319,CUST01806,Condominium,"1123, Jalan Eric Coves, Perezburgh, Selangor",3.190337,101.770538,348362.44,2360,1990
+PROP00320,CUST01562,Bungalow,"8889, Jalan Mercado Estate, South Roger, Selangor",3.144477,101.684086,1309064.37,1711,2007
+PROP00321,CUST00968,Condominium,"745, Jalan Obrien Street, East Richardfurt, Selangor",3.138431,101.566461,554293.97,4140,2012
+PROP00322,CUST01558,Shop lot,"719, Jalan Laura Crossroad, East Jillianside, Selangor",3.036827,101.758656,1427989.0,3015,2019
+PROP00323,CUST00485,Apartment,"87692, Jalan April Plain, Port David, Selangor",3.004753,101.847406,259162.4,1949,2017
+PROP00324,CUST01939,Apartment,"89813, Jalan Matthew Plain, West Joseside, Selangor",3.112586,101.711864,440948.56,1565,2002
+PROP00325,CUST00467,Condominium,"20673, Jalan Leah Forges, New Dylanmouth, Selangor",3.294078,101.650502,733226.21,2980,1998
+PROP00326,CUST00463,Terrace house,"68157, Jalan Erin Vista, Anthonytown, Selangor",3.111388,101.76735,626502.33,3066,2012
+PROP00327,CUST00363,Shop lot,"00152, Jalan Christopher Field, Bentonville, Selangor",3.057601,101.595384,1986569.52,3460,2022
+PROP00328,CUST00542,Condominium,"8509, Jalan Jennifer Knoll, Nicholasville, Selangor",2.984734,101.791798,609559.49,711,1992
+PROP00329,CUST01189,Bungalow,"444, Jalan Christopher Via, New Elizabeth, Selangor",3.187834,101.686634,1858588.35,1806,2015
+PROP00330,CUST01621,Shop lot,"747, Jalan Edward Views, Walterton, Selangor",3.196765,101.524474,1024208.98,1086,1989
+PROP00331,CUST00861,Semi-detached,"6708, Jalan Mcdonald Cape, North Ebonybury, Selangor",2.966557,101.827004,822492.83,1141,2000
+PROP00332,CUST01533,Semi-detached,"5515, Jalan Moreno Lodge, Hartbury, Selangor",3.261413,101.611651,725400.58,2315,2006
+PROP00333,CUST01480,Apartment,"2483, Jalan Wood Causeway, Kyleburgh, Selangor",3.159481,101.693905,441306.11,1018,2009
+PROP00334,CUST01486,Semi-detached,"608, Jalan Colleen Center, Clarkchester, Selangor",3.074993,101.651886,1272099.08,1826,2000
+PROP00335,CUST00925,Semi-detached,"987, Jalan Buchanan Brook, East Caleb, Selangor",3.024451,101.602157,1564199.76,1321,2016
+PROP00336,CUST00683,Shop lot,"0164, Jalan Pamela Pines, West Connieview, Selangor",3.211857,101.773956,742926.6,1821,2014
+PROP00337,CUST01547,Condominium,"287, Jalan Gilmore Gateway, South Jennifer, Selangor",3.18793,101.606844,816946.46,3875,1991
+PROP00338,CUST01024,Bungalow,"81643, Jalan Emily Divide, Montgomeryport, Selangor",3.075743,101.452895,2806615.56,2613,2019
+PROP00339,CUST00541,Semi-detached,"289, Jalan Russell Estate, East Natashaberg, Selangor",3.175073,101.750639,1185627.65,3868,1988
+PROP00340,CUST00697,Apartment,"8631, Jalan Yu Glen, South Morganfurt, Selangor",3.108788,101.608397,368177.71,1823,2007
+PROP00341,CUST00239,Bungalow,"6255, Jalan Cline Canyon, South Kristina, Selangor",3.225938,101.699117,2123081.72,1548,2007
+PROP00342,CUST01597,Apartment,"558, Jalan Kelly Way, Lake Christopherfurt, Selangor",2.961846,101.791056,201574.32,4409,1986
+PROP00343,CUST00001,Shop lot,"6448, Jalan Kelsey Street, West Johnhaven, Selangor",3.069056,101.48552,1283380.13,1986,1993
+PROP00344,CUST00619,Shop lot,"245, Jalan Steven Village, Lake Haleyton, Selangor",3.230736,101.70873,1284967.36,2813,2009
+PROP00345,CUST01112,Apartment,"0433, Jalan Jason Track, Jameshaven, Selangor",3.181911,101.757619,405228.9,3112,2002
+PROP00346,CUST00576,Bungalow,"9516, Jalan Lindsay Valley, North Codymouth, Selangor",3.044992,101.478459,2409735.92,1870,1996
+PROP00347,CUST01093,Shop lot,"718, Jalan Catherine Flat, New Christopher, Selangor",3.365546,101.635223,1761047.98,1773,2013
+PROP00348,CUST00089,Terrace house,"373, Jalan Richard Islands, North Nicole, Selangor",3.239258,101.768673,447015.56,3343,1999
+PROP00349,CUST01202,Bungalow,"11987, Jalan Esparza Court, Yuchester, Selangor",3.00833,101.752825,2442906.28,4151,2014
+PROP00350,CUST01737,Condominium,"800, Jalan Jason Burg, New Danielchester, Selangor",3.090749,101.55363,425764.91,1252,1986
+PROP00351,CUST01436,Semi-detached,"82980, Jalan Haley Isle, Walshfort, Selangor",3.11382,101.63457,1170658.86,1800,1993
+PROP00352,CUST00899,Shop lot,"4916, Jalan Nicole Springs, South Micheal, Selangor",3.260084,101.762005,1220795.26,2194,1993
+PROP00353,CUST01942,Shop lot,"2014, Jalan Lindsey Ways, Danielport, Selangor",3.343886,101.58675,1666693.96,1362,2015
+PROP00354,CUST01643,Semi-detached,"36875, Jalan Brenda Throughway, Leeburgh, Selangor",3.066635,101.529606,1583401.62,3558,2000
+PROP00355,CUST00445,Semi-detached,"99821, Jalan Shannon Isle, Robertland, Selangor",3.139353,101.580542,1103952.23,1527,2002
+PROP00356,CUST00240,Shop lot,"0428, Jalan Shepard Canyon, Crystalmouth, Selangor",3.087354,101.636145,510879.74,1345,2019
+PROP00357,CUST01109,Shop lot,"76660, Jalan Darren Crossroad, Deleontown, Selangor",3.069746,101.596674,1449943.01,3931,2008
+PROP00358,CUST00190,Semi-detached,"30835, Jalan Sanders Rest, Port Monicatown, Selangor",2.910671,101.779635,856135.83,3263,1993
+PROP00359,CUST00706,Semi-detached,"2715, Jalan Cory Extensions, West Priscilla, Selangor",2.956305,101.798092,1149735.2,3523,1987
+PROP00360,CUST01906,Apartment,"0688, Jalan Ryan Coves, Simsfort, Selangor",3.210838,101.725633,323299.95,3490,2022
+PROP00361,CUST00041,Condominium,"8293, Jalan Roberts Canyon, East Kevinside, Selangor",3.029446,101.538953,765569.48,1503,1993
+PROP00362,CUST01852,Semi-detached,"87354, Jalan Thomas Shores, South Brandon, Selangor",3.21837,101.672285,1530502.8,692,2004
+PROP00363,CUST00593,Terrace house,"59101, Jalan Hayes Square, New Lynnhaven, Selangor",3.01818,101.584327,655320.87,1224,2006
+PROP00364,CUST00333,Semi-detached,"9914, Jalan Andrews Brook, Braunshire, Selangor",3.11603,101.764058,1169086.8,3575,1999
+PROP00365,CUST00991,Semi-detached,"69996, Jalan Kane Shoals, Mariamouth, Selangor",3.117731,101.518114,1284315.12,1800,1991
+PROP00366,CUST00106,Bungalow,"84285, Jalan Walsh Port, East Mark, Selangor",3.307589,101.637054,2436105.16,883,2008
+PROP00367,CUST01688,Apartment,"40849, Jalan Stephanie Field, East Marybury, Selangor",2.893173,101.694506,287927.35,3241,2014
+PROP00368,CUST01218,Apartment,"2669, Jalan Ricky Squares, New Thomasfurt, Selangor",3.209438,101.776201,282630.68,641,2004
+PROP00369,CUST01659,Shop lot,"176, Jalan Dawn Extensions, West Anna, Selangor",3.241387,101.695127,1891148.18,1683,2012
+PROP00370,CUST01196,Condominium,"389, Jalan Mark Shore, Debrahaven, Selangor",3.115705,101.600627,727005.3,3154,1989
+PROP00371,CUST00738,Bungalow,"80405, Jalan Clay Crest, Lake Ashley, Selangor",2.991942,101.877682,2585261.62,2042,2019
+PROP00372,CUST01188,Terrace house,"5082, Jalan Garza Knolls, South Donna, Selangor",3.132278,101.671014,354226.98,4077,2012
+PROP00373,CUST01914,Bungalow,"86965, Jalan Mccoy Village, North Anna, Selangor",3.249469,101.561799,1802071.9,1881,2022
+PROP00374,CUST00613,Apartment,"1238, Jalan Duncan Terrace, West Meganview, Selangor",3.133763,101.747735,438899.5,2327,2002
+PROP00375,CUST00978,Shop lot,"8239, Jalan Atkinson Groves, Port Anthonyburgh, Selangor",3.192164,101.699677,1332737.85,1923,1998
+PROP00376,CUST00847,Shop lot,"3008, Jalan Burke Loaf, North Darrylfurt, Selangor",3.001875,101.637063,570797.71,4120,2000
+PROP00377,CUST00241,Terrace house,"311, Jalan Lisa Isle, North Sierrafurt, Selangor",2.940275,101.742883,446529.55,4472,2017
+PROP00378,CUST00216,Semi-detached,"094, Jalan Kelly Rest, Port Joanton, Selangor",3.14519,101.713919,829402.67,1516,2000
+PROP00379,CUST00221,Terrace house,"6283, Jalan May Road, North Jessica, Selangor",3.110227,101.603672,478187.39,4235,2020
+PROP00380,CUST00105,Bungalow,"44077, Jalan George Lock, North Jennifer, Selangor",2.965247,101.857539,2749414.66,4477,1992
+PROP00381,CUST00992,Semi-detached,"2662, Jalan Melvin Point, Lake Moniquefort, Selangor",3.097914,101.617621,952183.17,3910,1997
+PROP00382,CUST01180,Condominium,"0299, Jalan Kayla Greens, South Sharonside, Selangor",3.12244,101.670081,681532.77,2442,2016
+PROP00383,CUST00969,Terrace house,"1333, Jalan Hall Curve, Michaelburgh, Selangor",2.961616,101.832594,749193.79,4392,2009
+PROP00384,CUST01728,Bungalow,"56178, Jalan Steven Ford, Lake Craig, Selangor",2.903719,101.632693,2046609.04,3454,2022
+PROP00385,CUST00629,Semi-detached,"206, Jalan Jeffery Manors, Port William, Selangor",2.970462,101.848723,1006563.94,2005,2021
+PROP00386,CUST00921,Apartment,"527, Jalan Payne Key, Martinezborough, Selangor",3.103856,101.791038,267536.74,3256,2000
+PROP00387,CUST01802,Bungalow,"1844, Jalan Watkins Stream, Port Beth, Selangor",3.147546,101.606098,2833169.27,939,2013
+PROP00388,CUST00594,Apartment,"26480, Jalan Ryan Haven, East Shannonview, Selangor",3.109471,101.622121,422344.06,2890,1999
+PROP00389,CUST01380,Shop lot,"67812, Jalan Figueroa Parks, East Charles, Selangor",3.084831,101.740356,969413.94,3627,2008
+PROP00390,CUST01523,Semi-detached,"17982, Jalan Courtney Green, Jacksonside, Selangor",3.102802,101.60039,1504798.07,3768,2018
+PROP00391,CUST00720,Terrace house,"7973, Jalan Delacruz Fort, North Melanie, Selangor",3.227715,101.721275,507743.04,1883,1991
+PROP00392,CUST00857,Shop lot,"85605, Jalan Ashley Mission, South Kristenshire, Selangor",3.113285,101.675258,777461.06,1826,2008
+PROP00393,CUST00700,Apartment,"661, Jalan Mendoza Circle, Valenciafort, Selangor",3.149933,101.70245,220213.2,3892,1998
+PROP00394,CUST00945,Condominium,"68205, Jalan Nicholas Divide, Lake Maryburgh, Selangor",3.082856,101.629001,584150.57,2179,2001
+PROP00395,CUST00307,Shop lot,"55216, Jalan Smith Isle, Gilesview, Selangor",2.945796,101.685621,1661915.29,1179,2004
+PROP00396,CUST01049,Shop lot,"9218, Jalan Charles Ports, West Ashley, Selangor",3.357892,101.594671,1043564.13,4115,2000
+PROP00397,CUST01158,Condominium,"9089, Jalan Young Road, Kristatown, Selangor",2.91545,101.683728,742696.01,1765,2003
+PROP00398,CUST00934,Bungalow,"20509, Jalan Eileen Plains, Proctorview, Selangor",3.012797,101.646612,1660632.54,3765,2012
+PROP00399,CUST00311,Terrace house,"424, Jalan Mathis Ridge, Lake Christopherstad, Selangor",3.145415,101.754759,580349.81,969,1996
+PROP00400,CUST00341,Bungalow,"8870, Jalan Davis Fall, New Richard, Selangor",3.288813,101.567383,3272709.94,2081,1995
+PROP00401,CUST00794,Bungalow,"7382, Jalan Sarah Mission, Omarland, Selangor",2.921771,101.893368,2506821.12,3497,1986
+PROP00402,CUST01400,Bungalow,"177, Jalan Cruz Drive, Wagnerberg, Selangor",3.194624,101.627229,3300125.76,962,1993
+PROP00403,CUST01181,Condominium,"58937, Jalan Krystal Place, Erintown, Selangor",3.135364,101.801178,494950.49,2265,1985
+PROP00404,CUST00431,Terrace house,"2350, Jalan Ware Shore, Karlafurt, Selangor",3.112639,101.589865,731924.73,3801,1992
+PROP00405,CUST00607,Shop lot,"9579, Jalan Anthony Crossing, West Rachel, Selangor",3.209891,101.557425,1966091.21,1673,2017
+PROP00406,CUST01039,Condominium,"55442, Jalan Murray Lock, East Michael, Selangor",3.019988,101.583571,428603.44,3742,2012
+PROP00407,CUST00692,Semi-detached,"423, Jalan Frances Streets, Kristinebury, Selangor",3.160036,101.712929,1192178.25,957,1996
+PROP00408,CUST00550,Condominium,"89156, Jalan Jose Spur, Jacobmouth, Selangor",2.998977,101.813972,369584.72,1077,1994
+PROP00409,CUST01394,Terrace house,"725, Jalan Jackson Ports, South Sophia, Selangor",3.089559,101.676852,703140.46,3498,1998
+PROP00410,CUST00051,Terrace house,"35895, Jalan Jeffrey Parkways, New Jenniferstad, Selangor",3.062312,101.417913,386906.77,3025,2004
+PROP00411,CUST01553,Bungalow,"0784, Jalan Herring Points, Alexismouth, Selangor",3.034119,101.549593,3386812.36,807,2020
+PROP00412,CUST00417,Terrace house,"4430, Jalan Kristopher Road, Lake Patriciashire, Selangor",3.202154,101.56901,581358.27,3374,2011
+PROP00413,CUST01629,Condominium,"17972, Jalan James Village, Brandiview, Selangor",3.02242,101.476364,370210.33,2944,1991
+PROP00414,CUST01825,Terrace house,"15364, Jalan Mark Motorway, West Mariaborough, Selangor",3.031136,101.522973,555254.78,887,1998
+PROP00415,CUST01247,Bungalow,"32593, Jalan Alvarez Vista, East Laurenmouth, Selangor",3.16101,101.692389,2872238.13,3451,1998
+PROP00416,CUST01040,Condominium,"0094, Jalan Heidi Row, West Stephanieland, Selangor",3.080833,101.667655,756225.2,4208,2010
+PROP00417,CUST00529,Shop lot,"52769, Jalan Heather Pine, Hoffmanberg, Selangor",3.180351,101.746798,1819993.95,883,2015
+PROP00418,CUST01404,Condominium,"0452, Jalan Megan Pine, Richardberg, Selangor",3.334425,101.52989,714469.01,4294,2021
+PROP00419,CUST00779,Bungalow,"8660, Jalan Shields Prairie, Sparksmouth, Selangor",3.128885,101.651003,3024322.04,2562,2003
+PROP00420,CUST01083,Terrace house,"744, Jalan Devon Squares, Williamview, Selangor",2.860051,101.850214,394805.8,3558,1998
+PROP00421,CUST00715,Condominium,"596, Jalan Hogan Island, Gregoryberg, Selangor",3.178399,101.513915,463458.5,3872,2001
+PROP00422,CUST01519,Semi-detached,"9116, Jalan Johnson Vista, North Bradport, Selangor",3.170743,101.626708,768951.85,4263,2018
+PROP00423,CUST00854,Terrace house,"3931, Jalan David Wells, Port Markmouth, Selangor",3.17183,101.631512,680550.54,2631,2014
+PROP00424,CUST00024,Apartment,"30557, Jalan Aimee Roads, Petersburgh, Selangor",3.162926,101.580126,371021.28,3274,2014
+PROP00425,CUST00889,Semi-detached,"144, Jalan Rosales Pine, Cruzfort, Selangor",3.210327,101.672101,1380312.37,1455,1992
+PROP00426,CUST00777,Shop lot,"73677, Jalan Day Drive, East Michaelhaven, Selangor",2.92091,101.9118,1246194.68,3231,2017
+PROP00427,CUST01482,Shop lot,"254, Jalan Stephanie Cliff, Port Lisa, Selangor",3.088638,101.609013,1616529.77,3750,1988
+PROP00428,CUST01209,Semi-detached,"812, Jalan Mary Crossroad, New Douglas, Selangor",3.108855,101.685961,1578898.37,726,1997
+PROP00429,CUST01850,Semi-detached,"049, Jalan Brian Streets, North Aprilchester, Selangor",3.28065,101.542214,1473742.29,1442,1988
+PROP00430,CUST01224,Terrace house,"7238, Jalan Cooper Place, Port Thomas, Selangor",2.945623,101.742172,355465.71,3032,2023
+PROP00431,CUST00373,Semi-detached,"172, Jalan Rachel Neck, Floresstad, Selangor",3.169951,101.595642,1057491.8,3076,2000
+PROP00432,CUST01332,Condominium,"472, Jalan Moore Ports, West Douglasland, Selangor",3.169227,101.753449,430920.02,2489,1988
+PROP00433,CUST01628,Shop lot,"768, Jalan Jessica Lock, New Mistymouth, Selangor",3.190014,101.717787,977413.37,3953,1985
+PROP00434,CUST00836,Terrace house,"72173, Jalan Scott Stravenue, New Diana, Selangor",3.00185,101.399654,459739.31,798,2020
+PROP00435,CUST00139,Condominium,"05222, Jalan Joyce Extension, Lake Ronaldmouth, Selangor",3.128257,101.783185,478946.7,4058,1986
+PROP00436,CUST00448,Bungalow,"914, Jalan Angela Divide, East Mark, Selangor",3.181825,101.809358,2990127.23,1800,2003
+PROP00437,CUST01064,Bungalow,"3983, Jalan Hawkins Inlet, Robertfort, Selangor",3.079762,101.476223,2469736.65,3152,1995
+PROP00438,CUST00271,Shop lot,"773, Jalan Lindsey Highway, North Ashley, Selangor",2.973152,101.889779,507806.24,2966,2016
+PROP00439,CUST00840,Apartment,"4979, Jalan Henry Mission, Smithshire, Selangor",3.116493,101.678348,426600.24,4034,1994
+PROP00440,CUST01123,Apartment,"71205, Jalan Elizabeth Ranch, Wolffort, Selangor",3.013089,101.452838,380527.52,2058,2005
+PROP00441,CUST00976,Bungalow,"137, Jalan Taylor Point, East Edward, Selangor",3.067595,101.534872,2969380.73,4262,2021
+PROP00442,CUST00070,Condominium,"125, Jalan Daniel Stream, New Jacobton, Selangor",3.255335,101.684995,851602.74,2727,1995
+PROP00443,CUST01280,Semi-detached,"48797, Jalan Bailey Fords, Elizabethstad, Selangor",3.068748,101.786588,1188394.88,4322,1998
+PROP00444,CUST00907,Semi-detached,"38600, Jalan Andre Hollow, South Deanna, Selangor",3.162097,101.730936,1490231.0,4045,1997
+PROP00445,CUST00903,Terrace house,"951, Jalan Jones Village, East Monica, Selangor",3.131955,101.668586,363016.62,3446,2000
+PROP00446,CUST00935,Bungalow,"102, Jalan Kimberly Stream, Elizabethland, Selangor",2.923154,101.818704,1915762.15,2324,2002
+PROP00447,CUST00900,Shop lot,"3748, Jalan Brian View, North Barbara, Selangor",3.143449,101.583711,898623.42,2209,1999
+PROP00448,CUST01883,Terrace house,"1397, Jalan Charlotte Crescent, South Brandon, Selangor",3.057727,101.701424,510129.89,1032,2014
+PROP00449,CUST00768,Bungalow,"21321, Jalan Ortiz Terrace, North Darius, Selangor",3.150367,101.625863,2217209.43,2236,1987
+PROP00450,CUST01992,Apartment,"111, Jalan Powell Curve, North David, Selangor",3.063093,101.579494,181315.14,1023,1992
+PROP00451,CUST00084,Terrace house,"072, Jalan Stanley Pines, Randolphborough, Selangor",3.121208,101.62158,497948.58,1330,2019
+PROP00452,CUST01967,Condominium,"304, Jalan Ryan Junction, New Alexander, Selangor",3.150275,101.748612,721828.53,4252,1989
+PROP00453,CUST00421,Terrace house,"74812, Jalan Thompson Course, Andrewside, Selangor",2.93365,101.867012,390790.99,2183,1986
+PROP00454,CUST01167,Terrace house,"682, Jalan Heath Ports, Tinaberg, Selangor",3.362609,101.538273,385730.38,3088,1995
+PROP00455,CUST01604,Apartment,"462, Jalan Mary Ramp, Lake Melanie, Selangor",3.141827,101.698306,272257.68,3505,2002
+PROP00456,CUST00833,Apartment,"6103, Jalan Anderson Square, Colonville, Selangor",3.083544,101.621434,227371.48,2231,2017
+PROP00457,CUST01974,Apartment,"71243, Jalan Mcconnell Plaza, Amberfurt, Selangor",3.302727,101.512234,429722.83,4462,1999
+PROP00458,CUST00771,Apartment,"2304, Jalan Pamela Tunnel, North Donald, Selangor",3.165624,101.695847,397877.79,1412,2003
+PROP00459,CUST00457,Shop lot,"0615, Jalan Timothy Point, Ramirezburgh, Selangor",3.095702,101.550834,1528978.42,1750,2006
+PROP00460,CUST01018,Semi-detached,"907, Jalan Ryan Wall, South Jeremyberg, Selangor",3.266169,101.560528,1409136.35,717,1985
+PROP00461,CUST01551,Terrace house,"8155, Jalan Benton Estate, East Jacquelineport, Selangor",2.96244,101.809141,387086.33,2294,1993
+PROP00462,CUST01207,Condominium,"30109, Jalan Velez Lodge, Elliottmouth, Selangor",2.92488,101.818969,881204.46,2141,2022
+PROP00463,CUST00377,Condominium,"6491, Jalan Ramos Springs, Nathanchester, Selangor",3.084246,101.638449,714279.32,3269,2013
+PROP00464,CUST01527,Semi-detached,"34712, Jalan Murray Alley, North Angelaville, Selangor",3.243654,101.709389,1418058.27,1549,2019
+PROP00465,CUST00910,Terrace house,"103, Jalan Linda Street, Spencerville, Selangor",3.225107,101.682557,726920.43,1930,2013
+PROP00466,CUST00143,Condominium,"6417, Jalan Rodney Canyon, New Connorstad, Selangor",3.097124,101.756656,455182.65,3798,2023
+PROP00467,CUST01373,Apartment,"1290, Jalan Terri Squares, South Christopherhaven, Selangor",3.077761,101.479228,188949.51,1064,1989
+PROP00468,CUST00175,Apartment,"67130, Jalan Marquez Isle, North Lisaport, Selangor",2.929492,101.834897,411155.78,3686,1986
+PROP00469,CUST00113,Shop lot,"8474, Jalan Laurie Extensions, Lake Jamestown, Selangor",2.896424,101.804492,877816.37,1714,1997
+PROP00470,CUST00897,Semi-detached,"625, Jalan Griffin Squares, Carlsonfort, Selangor",3.146768,101.647337,730533.53,3430,2011
+PROP00471,CUST00489,Bungalow,"31805, Jalan Yvonne Unions, New Richard, Selangor",3.03775,101.503597,1960655.04,3306,2021
+PROP00472,CUST00733,Apartment,"4666, Jalan Christian Prairie, New Johnberg, Selangor",3.01221,101.456133,399051.28,3032,2007
+PROP00473,CUST01879,Semi-detached,"700, Jalan Tina Lodge, Colemanport, Selangor",3.12932,101.737777,1084972.09,1948,2003
+PROP00474,CUST00267,Shop lot,"9011, Jalan Sergio Oval, Martinezview, Selangor",3.313029,101.604313,1627359.66,2549,2007
+PROP00475,CUST01135,Apartment,"04938, Jalan Lori Port, Audreymouth, Selangor",3.113699,101.776949,225510.14,631,1985
+PROP00476,CUST01223,Shop lot,"15204, Jalan Lindsey Hills, Noblefurt, Selangor",3.10018,101.717649,1833490.44,4236,1989
+PROP00477,CUST00860,Apartment,"873, Jalan James Ramp, Jenningschester, Selangor",3.160358,101.71993,262628.9,2975,2003
+PROP00478,CUST00354,Condominium,"9841, Jalan Odonnell Courts, East Todd, Selangor",2.900959,101.637453,440540.94,3361,1992
+PROP00479,CUST00384,Bungalow,"77943, Jalan Mariah Track, Samuelborough, Selangor",3.149055,101.702567,1724291.82,1264,2012
+PROP00480,CUST01354,Bungalow,"899, Jalan Aguilar Crescent, Romanland, Selangor",3.152293,101.688585,2318750.71,973,1987
+PROP00481,CUST01797,Semi-detached,"426, Jalan Anthony Mountain, New Stevenside, Selangor",2.901553,101.901672,1200567.12,4474,1991
+PROP00482,CUST00834,Apartment,"11602, Jalan Crystal Shore, Codyside, Selangor",3.157422,101.726695,351789.65,1983,2013
+PROP00483,CUST01106,Shop lot,"35998, Jalan Lester Creek, South Sydneyside, Selangor",3.153281,101.65894,859111.47,4107,2002
+PROP00484,CUST01338,Bungalow,"948, Jalan Lisa Vista, New Sarahview, Selangor",2.947084,101.890721,1893991.83,1754,1990
+PROP00485,CUST00344,Condominium,"8221, Jalan Arroyo Knolls, New Tonya, Selangor",3.001527,101.421493,675307.99,4249,2000
+PROP00486,CUST00589,Condominium,"570, Jalan Bryan Burg, Amberchester, Selangor",3.008221,101.383562,772305.29,4233,2019
+PROP00487,CUST00414,Condominium,"5712, Jalan Omar Corner, Caitlinland, Selangor",3.000302,101.382937,704701.76,3916,2015
+PROP00488,CUST00336,Shop lot,"128, Jalan Craig Ramp, Laceychester, Selangor",3.224195,101.681554,1237914.05,2872,1992
+PROP00489,CUST01724,Condominium,"827, Jalan Lane Skyway, Beckton, Selangor",3.069868,101.693064,548733.6,1934,2009
+PROP00490,CUST00395,Shop lot,"0953, Jalan Jonathan Turnpike, Port Biancaville, Selangor",3.205256,101.708192,1208529.65,3991,1990
+PROP00491,CUST01402,Shop lot,"6078, Jalan Gregory Haven, West Jennifer, Selangor",2.968907,101.810019,1593422.38,865,2018
+PROP00492,CUST00496,Terrace house,"1796, Jalan Kelly Cape, Milesport, Selangor",3.114795,101.638959,620054.31,2737,2023
+PROP00493,CUST00107,Terrace house,"668, Jalan Jennifer Ridge, Johnsonmouth, Selangor",3.17204,101.805153,545056.5,2962,1992
+PROP00494,CUST00294,Terrace house,"421, Jalan Smith Points, Curtisberg, Selangor",3.085763,101.741649,470278.71,2243,2001
+PROP00495,CUST00442,Terrace house,"59364, Jalan Aaron Ports, West Amanda, Selangor",3.141207,101.650581,737134.68,2986,2017
+PROP00496,CUST01264,Semi-detached,"839, Jalan Nicole Dam, Randallberg, Selangor",3.031424,101.599415,1026916.77,1842,1996
+PROP00497,CUST01208,Semi-detached,"799, Jalan Roger Road, North Kevinborough, Selangor",3.150655,101.73653,891597.13,3596,2018
+PROP00498,CUST00471,Apartment,"93592, Jalan Jennifer Coves, East Thomas, Selangor",3.233832,101.650793,441918.41,1356,2000
+PROP00499,CUST00517,Semi-detached,"0523, Jalan Samantha Islands, South Martintown, Selangor",3.03444,101.633479,1573439.47,2891,2016
+PROP00500,CUST01697,Bungalow,"54472, Jalan Martinez Court, Stewartton, Selangor",3.136827,101.649257,2489172.08,1095,1994
+PROP00501,CUST01575,Terrace house,"44096, Jalan Bruce Mountains, Mosleyland, Selangor",3.306856,101.628713,412729.65,3675,2020
+PROP00502,CUST00047,Condominium,"249, Jalan Amy Stream, Port Richardside, Selangor",3.111526,101.654584,752971.01,2263,2015
+PROP00503,CUST01917,Bungalow,"14174, Jalan Black Cove, Port Mark, Selangor",3.15978,101.773753,2140928.97,2262,2011
+PROP00504,CUST01451,Semi-detached,"66486, Jalan Holly Prairie, Hortonside, Selangor",3.278234,101.621322,1024527.2,3544,1998
+PROP00505,CUST00057,Bungalow,"4869, Jalan Barker Way, West Matthewview, Selangor",3.22244,101.675079,2687150.61,2078,2014
+PROP00506,CUST00774,Shop lot,"0119, Jalan Jennifer Springs, North Megan, Selangor",2.887917,101.708314,1294409.81,1044,1985
+PROP00507,CUST01761,Shop lot,"5360, Jalan Wilson Mountains, South Feliciaton, Selangor",2.974166,101.724475,1208579.83,4007,2022
+PROP00508,CUST00530,Terrace house,"98863, Jalan Edwards Loop, North Xavier, Selangor",2.924747,101.603785,674297.04,2596,2018
+PROP00509,CUST01832,Bungalow,"5590, Jalan Washington Causeway, New Dianashire, Selangor",3.204255,101.723213,2929172.78,2307,2012
+PROP00510,CUST00465,Condominium,"2489, Jalan White Hill, Lutzview, Selangor",3.136273,101.694345,398532.82,2642,1987
+PROP00511,CUST01393,Bungalow,"896, Jalan Jimenez Causeway, Kristinaview, Selangor",3.064447,101.699308,1739530.26,2666,2002
+PROP00512,CUST00005,Shop lot,"04565, Jalan Avila Junctions, New Shannonport, Selangor",3.102322,101.528818,1152791.05,3559,2004
+PROP00513,CUST00817,Shop lot,"3389, Jalan Ronald Gardens, Jonathanfurt, Selangor",2.931602,101.903847,764003.62,2278,2007
+PROP00514,CUST01254,Apartment,"2265, Jalan Brown Locks, Cassandrastad, Selangor",3.075111,101.675068,361763.36,1701,2006
+PROP00515,CUST00705,Semi-detached,"00622, Jalan Gregory Hill, Port Lauren, Selangor",3.057083,101.580246,1123801.97,2076,2002
+PROP00516,CUST01930,Condominium,"7746, Jalan Kathryn Ridge, South Anthonyland, Selangor",3.185917,101.656457,601287.07,2429,2022
+PROP00517,CUST01889,Apartment,"41158, Jalan Ferguson Path, Holdertown, Selangor",3.081075,101.633457,180942.95,4366,1987
+PROP00518,CUST00391,Condominium,"017, Jalan Olson Park, East Nancy, Selangor",3.1973,101.6925,752877.63,849,1996
+PROP00519,CUST01639,Bungalow,"99570, Jalan Griffin Stravenue, Sparksburgh, Selangor",3.066235,101.573676,3480899.43,1524,1988
+PROP00520,CUST01531,Semi-detached,"612, Jalan Samantha Center, New John, Selangor",2.979522,101.880102,1296971.96,4302,2001
+PROP00521,CUST01102,Apartment,"753, Jalan Reed Radial, Delacruzside, Selangor",2.978876,101.604797,437160.63,1512,2000
+PROP00522,CUST00803,Terrace house,"78525, Jalan Gould Extensions, Davidside, Selangor",2.930203,101.703205,749637.88,2490,2001
+PROP00523,CUST01915,Semi-detached,"385, Jalan Cox Terrace, Brandonchester, Selangor",3.059156,101.459077,904390.26,954,2012
+PROP00524,CUST01841,Condominium,"4547, Jalan Singh Ways, Port Nicole, Selangor",3.178645,101.70637,463057.77,2237,2015
+PROP00525,CUST01227,Shop lot,"23274, Jalan Fleming River, South Samuelfurt, Selangor",3.147733,101.512804,1336969.99,2575,2021
+PROP00526,CUST00626,Shop lot,"34272, Jalan James Village, Cohenland, Selangor",3.191617,101.614091,1697830.19,4042,1998
+PROP00527,CUST00186,Semi-detached,"5080, Jalan Catherine Loaf, Port Bobby, Selangor",3.195293,101.796198,1240431.23,1455,1997
+PROP00528,CUST00280,Condominium,"3069, Jalan Mark Plains, West Claudia, Selangor",3.117073,101.625597,895745.65,1130,1994
+PROP00529,CUST01036,Semi-detached,"53400, Jalan Xavier Stravenue, Alexanderhaven, Selangor",3.057244,101.409834,843406.78,4476,2018
+PROP00530,CUST00704,Condominium,"8165, Jalan Joshua Glens, Josechester, Selangor",3.133101,101.682876,598375.47,1323,1996
+PROP00531,CUST00497,Terrace house,"83851, Jalan Morrison Forge, Bushside, Selangor",3.121706,101.580999,364138.02,3917,1999
+PROP00532,CUST01762,Shop lot,"05391, Jalan Amanda Parkway, Morganfurt, Selangor",3.099773,101.698995,1548441.48,4226,1988
+PROP00533,CUST01466,Apartment,"996, Jalan Nicole Track, West Victoriamouth, Selangor",2.944637,101.702285,218495.23,1450,2001
+PROP00534,CUST00100,Shop lot,"9271, Jalan Franco Springs, West Nicholas, Selangor",3.20063,101.679223,1168656.31,1694,1997
+PROP00535,CUST01899,Condominium,"19864, Jalan Joseph Ford, New Shannon, Selangor",2.992665,101.472333,709679.89,3189,2019
+PROP00536,CUST00784,Bungalow,"339, Jalan Edward Creek, Johnsonburgh, Selangor",3.125796,101.675791,1846140.75,2232,1990
+PROP00537,CUST00543,Bungalow,"328, Jalan Jennifer Point, East Dustin, Selangor",2.920853,101.659406,2639654.81,651,2002
+PROP00538,CUST01734,Bungalow,"10232, Jalan Allen Square, Murrayfurt, Selangor",3.147548,101.687336,2404659.03,3511,2008
+PROP00539,CUST01088,Terrace house,"00898, Jalan Espinoza Crossing, New Christopherport, Selangor",3.217451,101.772026,541007.4,2324,2021
+PROP00540,CUST01139,Shop lot,"56140, Jalan Rachael Highway, Debraland, Selangor",3.203518,101.73551,1441750.39,1811,2008
+PROP00541,CUST01888,Apartment,"807, Jalan Fisher Terrace, East Leslie, Selangor",3.182906,101.776917,376534.73,3430,1994
+PROP00542,CUST01515,Shop lot,"9510, Jalan James Trail, South Maryfurt, Selangor",2.912655,101.853356,1309069.05,1511,2014
+PROP00543,CUST01089,Apartment,"05459, Jalan Kim Club, Andrewton, Selangor",3.107691,101.637267,188131.7,1444,1994
+PROP00544,CUST00981,Shop lot,"6664, Jalan Charles Rue, Hendricksport, Selangor",3.153127,101.658091,1954583.03,3067,2012
+PROP00545,CUST00698,Condominium,"13407, Jalan Garcia Ridges, Kelseyfort, Selangor",3.075645,101.550545,457844.37,1143,2018
+PROP00546,CUST00503,Bungalow,"89058, Jalan Russell Plaza, West Angela, Selangor",3.329199,101.566512,1287437.13,3070,2014
+PROP00547,CUST00219,Shop lot,"8999, Jalan Moore Rest, Gloverhaven, Selangor",3.165439,101.67081,1508195.36,4132,1998
+PROP00548,CUST01660,Apartment,"86888, Jalan Thomas Springs, Harringtonland, Selangor",3.234975,101.60958,186171.46,1275,1991
+PROP00549,CUST01186,Bungalow,"0596, Jalan Michael Vista, New Shawnfurt, Selangor",3.230469,101.63289,3095832.16,2322,2007
+PROP00550,CUST01294,Shop lot,"93201, Jalan Ryan Squares, Shawnhaven, Selangor",3.020662,101.733905,1527422.1,722,1993
+PROP00551,CUST01066,Semi-detached,"826, Jalan Kevin Common, Port Sherryshire, Selangor",3.239733,101.575912,1489255.85,3616,2018
+PROP00552,CUST00021,Terrace house,"2175, Jalan Dixon Crest, Tuckerport, Selangor",3.137333,101.670568,511308.97,2474,1999
+PROP00553,CUST00525,Semi-detached,"127, Jalan Cruz Ferry, North Amberside, Selangor",3.163302,101.669439,784258.28,1819,2021
+PROP00554,CUST00342,Condominium,"41996, Jalan Ryan Fall, East Carrie, Selangor",3.055997,101.464611,385395.54,2990,2007
+PROP00555,CUST01614,Shop lot,"5891, Jalan Brown Station, Jenniferstad, Selangor",3.091396,101.566958,501454.51,2761,2006
+PROP00556,CUST00717,Semi-detached,"2185, Jalan Watson Village, West Ryanhaven, Selangor",2.90515,101.653235,1043020.29,1225,1991
+PROP00557,CUST00637,Semi-detached,"09225, Jalan Rivas Station, Lake Brandonfurt, Selangor",3.059261,101.50291,917812.1,3373,2013
+PROP00558,CUST01507,Semi-detached,"56407, Jalan Jason Dale, Melaniefort, Selangor",3.040797,101.668193,905066.92,3072,2001
+PROP00559,CUST01085,Apartment,"82895, Jalan Smith Corners, Meyerhaven, Selangor",3.126989,101.597047,181950.12,2878,2021
+PROP00560,CUST00014,Apartment,"24731, Jalan Victoria Cliffs, Davidside, Selangor",3.141336,101.685149,291984.7,2383,2008
+PROP00561,CUST00664,Bungalow,"0710, Jalan Hahn Row, North Darrenstad, Selangor",3.051853,101.591756,2328380.7,728,1988
+PROP00562,CUST00508,Terrace house,"92711, Jalan Lopez Common, Lake Michaelmouth, Selangor",3.226381,101.620921,614874.63,3615,2014
+PROP00563,CUST01536,Semi-detached,"92300, Jalan Jones Meadows, Erintown, Selangor",3.086685,101.418386,899302.6,3642,1995
+PROP00564,CUST00841,Semi-detached,"4189, Jalan Hoffman Islands, Jeremyberg, Selangor",2.997063,101.57521,884398.98,3485,1996
+PROP00565,CUST00620,Apartment,"876, Jalan Michelle Loop, Davidview, Selangor",2.941171,101.627968,427893.53,2451,2002
+PROP00566,CUST01563,Terrace house,"7161, Jalan Tiffany Flats, Lisaland, Selangor",2.998781,101.451077,520433.81,2203,1985
+PROP00567,CUST00748,Terrace house,"10450, Jalan Michael Points, Walkerburgh, Selangor",3.16463,101.660029,591283.26,1838,2020
+PROP00568,CUST01665,Shop lot,"74357, Jalan Warren View, West Monica, Selangor",3.010626,101.843543,534358.03,2411,1998
+PROP00569,CUST00062,Semi-detached,"68064, Jalan Williams Meadow, Leeside, Selangor",3.153474,101.684295,978587.61,4384,2013
+PROP00570,CUST00983,Bungalow,"44883, Jalan Ponce Island, South Samantha, Selangor",3.153541,101.669401,2644284.42,1409,2015
+PROP00571,CUST01709,Shop lot,"462, Jalan Mark Center, Velasquezview, Selangor",3.26811,101.630222,1909167.68,974,2015
+PROP00572,CUST00869,Bungalow,"065, Jalan Harvey Knoll, West Susanburgh, Selangor",3.116076,101.779553,2743059.19,3055,1997
+PROP00573,CUST01833,Apartment,"92090, Jalan Barrera Islands, North Trevorport, Selangor",3.367918,101.526782,427128.72,3758,2008
+PROP00574,CUST01086,Terrace house,"091, Jalan Cory Corner, South Kimberlyfurt, Selangor",2.869009,101.832399,464225.65,3677,2016
+PROP00575,CUST01853,Semi-detached,"90254, Jalan Fleming Center, East Cynthia, Selangor",2.902177,101.850022,1091796.16,2953,2004
+PROP00576,CUST00915,Condominium,"9535, Jalan Hale Corner, North Patricia, Selangor",2.92456,101.624098,713199.69,1557,2019
+PROP00577,CUST01115,Terrace house,"227, Jalan Glover Port, Monicaton, Selangor",3.008952,101.575965,647680.12,3821,2005
+PROP00578,CUST00813,Terrace house,"26015, Jalan Matthew Wall, West Tammy, Selangor",3.086162,101.597753,613672.36,2193,2012
+PROP00579,CUST01496,Bungalow,"947, Jalan Johnson Haven, Port Travismouth, Selangor",3.115791,101.776028,1640179.72,2821,2004
+PROP00580,CUST01391,Bungalow,"327, Jalan Sarah Station, Dawnbury, Selangor",2.937707,101.750025,2415929.86,3686,2019
+PROP00581,CUST00370,Apartment,"100, Jalan Roberts Springs, West Kendra, Selangor",3.034197,101.577283,246288.13,1681,2007
+PROP00582,CUST00087,Bungalow,"39104, Jalan Martinez Bypass, South Brandon, Selangor",3.009797,101.407767,1933496.15,1477,2017
+PROP00583,CUST00469,Apartment,"411, Jalan Sims Court, Lake Matthew, Selangor",2.868101,101.687647,195594.62,1581,1987
+PROP00584,CUST01573,Bungalow,"928, Jalan Reed Terrace, West Gina, Selangor",3.080299,101.573378,3106005.83,2197,2002
+PROP00585,CUST01537,Shop lot,"2056, Jalan Arthur Lodge, Hudsonshire, Selangor",3.126233,101.573225,748099.34,4410,1999
+PROP00586,CUST00346,Apartment,"06968, Jalan Charles Loaf, Woodston, Selangor",2.961205,101.863984,247806.54,2261,2023
+PROP00587,CUST01784,Condominium,"378, Jalan Benson Crossroad, Lake James, Selangor",2.984069,101.576091,792148.64,3409,2007
+PROP00588,CUST00511,Bungalow,"4953, Jalan Aaron Overpass, Bennettburgh, Selangor",3.026306,101.634847,2239308.85,620,2018
+PROP00589,CUST00154,Apartment,"5032, Jalan Poole Cliffs, Lewisfurt, Selangor",3.17307,101.62224,293294.04,1790,2009
+PROP00590,CUST00985,Bungalow,"4262, Jalan Rodriguez Plain, Isaiahton, Selangor",3.045688,101.536596,3045476.24,1468,2015
+PROP00591,CUST00071,Semi-detached,"292, Jalan Kristina Inlet, Melissaland, Selangor",2.953517,101.709403,1087281.35,4343,2022
+PROP00592,CUST01729,Terrace house,"09060, Jalan Sanchez Route, Dixonbury, Selangor",2.96902,101.622467,520411.7,1362,1996
+PROP00593,CUST01807,Condominium,"21166, Jalan Robinson Dale, West Peggymouth, Selangor",2.928155,101.599806,736214.73,3942,2010
+PROP00594,CUST00668,Bungalow,"5988, Jalan Morris Port, North George, Selangor",3.195271,101.79501,3013898.14,3508,2017
+PROP00595,CUST01148,Shop lot,"964, Jalan Randall Fort, South Emily, Selangor",3.14579,101.723414,1344543.46,3216,1987
+PROP00596,CUST01498,Terrace house,"02755, Jalan Chris Mountain, Wuberg, Selangor",3.141625,101.795784,475542.39,3066,1999
+PROP00597,CUST00850,Bungalow,"71152, Jalan Jennifer Plaza, East Jaimeburgh, Selangor",3.105941,101.608577,2156762.9,3529,2010
+PROP00598,CUST01964,Bungalow,"92158, Jalan Alexa Overpass, Lake Michaelville, Selangor",3.064745,101.771016,1921729.28,3668,1985
+PROP00599,CUST01213,Bungalow,"1186, Jalan Amanda Isle, Lake Briannamouth, Selangor",3.138373,101.655477,1979092.76,4100,2015
+PROP00600,CUST01182,Terrace house,"772, Jalan Patrick Path, Lake Brentmouth, Selangor",3.048065,101.532655,746607.26,4222,1986
+PROP00601,CUST01886,Apartment,"78931, Jalan Franklin Drives, Nolanhaven, Selangor",2.906254,101.746353,411160.67,987,2019
+PROP00602,CUST00270,Terrace house,"5401, Jalan Gary Throughway, Martinton, Selangor",2.939686,101.772713,503906.76,4345,1990
+PROP00603,CUST01518,Bungalow,"83948, Jalan Colleen Villages, East Elaine, Selangor",2.897057,101.658075,1466652.28,4341,2010
+PROP00604,CUST00967,Terrace house,"04144, Jalan Archer Shoal, Lake David, Selangor",3.154927,101.597689,700834.87,1976,1992
+PROP00605,CUST01159,Shop lot,"811, Jalan Dickson Lake, Lake Alejandro, Selangor",3.210402,101.742662,1715839.09,1511,2021
+PROP00606,CUST01075,Bungalow,"02030, Jalan Giles Square, East Melissa, Selangor",3.182728,101.610468,2196128.83,3304,2016
+PROP00607,CUST01620,Terrace house,"77521, Jalan Nathan Fields, Port Katherinehaven, Selangor",3.158493,101.719525,606804.16,3099,1994
+PROP00608,CUST00327,Condominium,"65064, Jalan Gonzalez Springs, West Jenniferbury, Selangor",2.903325,101.614844,750728.14,4481,2020
+PROP00609,CUST01564,Apartment,"7756, Jalan Cheryl Fork, Port Chad, Selangor",2.963498,101.609583,184663.6,4361,1991
+PROP00610,CUST01541,Bungalow,"29161, Jalan Evans Way, Port Shirleyshire, Selangor",3.013486,101.419536,1706007.46,3929,1993
+PROP00611,CUST00416,Bungalow,"831, Jalan Joseph Ville, Carlfurt, Selangor",3.063365,101.375411,2011933.08,1152,1987
+PROP00612,CUST00157,Apartment,"2291, Jalan Sheila Manor, Smithton, Selangor",3.076146,101.621252,191164.11,813,1998
+PROP00613,CUST00516,Semi-detached,"6856, Jalan Stevens Terrace, South Jesusfurt, Selangor",3.050464,101.57961,1146424.03,2738,2020
+PROP00614,CUST00323,Semi-detached,"19865, Jalan Brown Prairie, Kimberlyview, Selangor",3.278227,101.600779,929397.95,628,2009
+PROP00615,CUST00635,Condominium,"0766, Jalan Gail Rapids, Lake Jeffrey, Selangor",2.992832,101.834929,843069.25,3831,1993
+PROP00616,CUST01163,Terrace house,"5049, Jalan Jackson Field, Port Gary, Selangor",3.161215,101.57473,747870.93,3024,2008
+PROP00617,CUST01786,Semi-detached,"61142, Jalan Robinson Loop, Port Joanne, Selangor",3.205844,101.586794,1306396.81,1288,1992
+PROP00618,CUST00838,Shop lot,"854, Jalan Craig Passage, New Jessicaville, Selangor",3.21874,101.723929,595208.58,935,1992
+PROP00619,CUST00356,Shop lot,"962, Jalan Jennifer View, Lake Carolynfurt, Selangor",3.193239,101.626037,1565683.4,3794,1999
+PROP00620,CUST01598,Bungalow,"3385, Jalan Paige Stravenue, Staceyburgh, Selangor",2.941046,101.903133,3330179.86,1401,1988
+PROP00621,CUST01839,Shop lot,"0583, Jalan John Flats, Port Hannahland, Selangor",2.930175,101.664074,1261952.67,2628,2022
+PROP00622,CUST00971,Semi-detached,"58760, Jalan Baird Grove, Michellefurt, Selangor",3.216197,101.688847,1409227.41,1505,1992
+PROP00623,CUST01366,Apartment,"947, Jalan Flynn Locks, Jennifermouth, Selangor",2.976164,101.889238,342008.88,2873,2017
+PROP00624,CUST01183,Terrace house,"53659, Jalan Ritter Groves, Hugheshaven, Selangor",2.975339,101.678879,688327.38,4210,2022
+PROP00625,CUST01617,Bungalow,"1634, Jalan Christian Junctions, Mitchellside, Selangor",3.000158,101.677721,2954463.04,4123,2020
+PROP00626,CUST01687,Terrace house,"095, Jalan Romero Via, Jacobfurt, Selangor",3.153875,101.695638,487511.97,964,1989
+PROP00627,CUST00616,Condominium,"255, Jalan Sanders Vista, Whitebury, Selangor",2.916156,101.854274,775563.91,624,2018
+PROP00628,CUST00236,Terrace house,"74235, Jalan Joseph Lights, Port Justinview, Selangor",2.969949,101.80368,726569.9,4245,2020
+PROP00629,CUST00875,Shop lot,"893, Jalan Laura Estate, Velasquezport, Selangor",3.374671,101.612214,1694369.66,2267,1987
+PROP00630,CUST00018,Shop lot,"4307, Jalan Robinson Trail, Pereztown, Selangor",3.02745,101.678563,1416777.19,4315,1991
+PROP00631,CUST00481,Bungalow,"81785, Jalan Douglas Crest, West Jessicamouth, Selangor",3.276393,101.525453,3133794.53,1718,2012
+PROP00632,CUST00399,Bungalow,"84523, Jalan Ochoa Shoals, Jocelynburgh, Selangor",3.131005,101.729592,3213147.59,722,2010
+PROP00633,CUST00375,Shop lot,"8744, Jalan Williams Parks, Lake Tammie, Selangor",3.101414,101.496267,998625.84,4321,2017
+PROP00634,CUST01110,Shop lot,"086, Jalan Hutchinson View, East Rebecca, Selangor",3.077516,101.721201,1916996.82,1674,2006
+PROP00635,CUST01141,Condominium,"7296, Jalan Fleming Lodge, East Taylor, Selangor",3.065474,101.588794,710554.2,3211,2019
+PROP00636,CUST01038,Shop lot,"40052, Jalan Randolph Circles, West Markhaven, Selangor",3.094434,101.745331,560932.38,1656,1994
+PROP00637,CUST01441,Apartment,"000, Jalan Timothy Springs, Lake David, Selangor",3.130594,101.704175,218630.3,3134,1986
+PROP00638,CUST00965,Shop lot,"2573, Jalan Ronald Rapids, Jeremyshire, Selangor",3.151143,101.612681,1164593.89,2365,1996
+PROP00639,CUST01932,Shop lot,"136, Jalan Troy Expressway, East Davidfurt, Selangor",3.153348,101.748608,1300481.03,2460,2010
+PROP00640,CUST00040,Bungalow,"552, Jalan Thompson Stravenue, New Deannashire, Selangor",3.154279,101.684589,3054770.85,1399,1987
+PROP00641,CUST01440,Apartment,"735, Jalan Jennifer Ridges, Margaretborough, Selangor",3.019823,101.642541,313749.65,2748,2010
+PROP00642,CUST00161,Shop lot,"22273, Jalan Patricia Rapids, North Justin, Selangor",2.901566,101.820049,1568299.7,4246,2018
+PROP00643,CUST00085,Condominium,"3532, Jalan Rodney Corners, Teresafort, Selangor",3.143882,101.713483,879652.21,3411,2009
+PROP00644,CUST00367,Semi-detached,"1087, Jalan William Loaf, Frenchville, Selangor",3.164092,101.760576,776322.12,3707,2009
+PROP00645,CUST01080,Bungalow,"236, Jalan Corey Overpass, East Randystad, Selangor",3.175526,101.717458,2117740.24,632,1997
+PROP00646,CUST00999,Apartment,"838, Jalan Janice Walks, Wadechester, Selangor",2.911912,101.828156,398136.7,2238,2020
+PROP00647,CUST00640,Shop lot,"484, Jalan Mendoza Islands, Molinaberg, Selangor",3.141416,101.674332,1119596.41,3264,1987
+PROP00648,CUST00694,Condominium,"33222, Jalan Cynthia Throughway, Jonberg, Selangor",3.133445,101.66338,803512.28,3655,2016
+PROP00649,CUST00163,Condominium,"8922, Jalan Jessica Knoll, Brownburgh, Selangor",3.050792,101.558344,337743.29,2090,2016
+PROP00650,CUST00308,Shop lot,"535, Jalan Rachel Gardens, Linbury, Selangor",2.983736,101.584481,1906717.34,1920,1994
+PROP00651,CUST00044,Apartment,"18046, Jalan Hill Views, North Todd, Selangor",3.166057,101.632128,220870.32,3990,2009
+PROP00652,CUST01957,Apartment,"3841, Jalan Hernandez Shoals, East Kimburgh, Selangor",3.208441,101.757792,381183.71,2740,2004
+PROP00653,CUST01490,Semi-detached,"0846, Jalan Ashley Stravenue, Sandovalfurt, Selangor",3.036966,101.529702,861777.52,2082,1988
+PROP00654,CUST01693,Shop lot,"54705, Jalan King Cliffs, Lake Donna, Selangor",2.932358,101.713922,1039970.8,3598,1999
+PROP00655,CUST01842,Condominium,"1641, Jalan Ashlee Spring, Markview, Selangor",3.218793,101.789136,731395.22,2709,2002
+PROP00656,CUST00169,Apartment,"91969, Jalan Brittany Mission, Howardburgh, Selangor",2.948006,101.681452,345407.28,3996,1999
+PROP00657,CUST01002,Condominium,"70204, Jalan Ryan Estate, North Cindyfort, Selangor",3.074801,101.555801,376125.23,3540,1992
+PROP00658,CUST00740,Condominium,"21241, Jalan Ashley Terrace, Bullockfurt, Selangor",2.901226,101.881945,852814.08,2970,2002
+PROP00659,CUST01931,Condominium,"8976, Jalan Ashley Pike, Lewisburgh, Selangor",3.129367,101.789589,735322.49,3847,2002
+PROP00660,CUST00751,Terrace house,"7731, Jalan David Run, Leonardtown, Selangor",2.917166,101.810649,462414.96,726,2019
+PROP00661,CUST00557,Condominium,"5988, Jalan Wong Manor, Johnborough, Selangor",2.989222,101.891191,459143.51,4314,1997
+PROP00662,CUST00137,Semi-detached,"943, Jalan Carrie Roads, Murphyborough, Selangor",2.974792,101.736232,1232566.79,2828,1994
+PROP00663,CUST01851,Condominium,"89523, Jalan Duane Estate, New Chadtown, Selangor",2.964493,101.818628,358001.32,1070,2012
+PROP00664,CUST00565,Terrace house,"7644, Jalan Marsh Haven, Smithton, Selangor",3.071079,101.631109,436804.3,3150,2021
+PROP00665,CUST01427,Bungalow,"26876, Jalan Parker Shores, Crawfordport, Selangor",3.120487,101.65911,1385863.82,1046,1985
+PROP00666,CUST01021,Bungalow,"797, Jalan Dyer Corners, Velasquezfurt, Selangor",3.045268,101.618644,2080592.58,4128,2004
+PROP00667,CUST01269,Semi-detached,"6045, Jalan Andrew Gardens, Leroybury, Selangor",3.00923,101.463994,1167386.46,3125,2012
+PROP00668,CUST00282,Apartment,"3096, Jalan Cunningham Ridges, South Scott, Selangor",2.992922,101.833315,316062.39,2449,2003
+PROP00669,CUST00140,Condominium,"95296, Jalan Manuel Causeway, Brittneytown, Selangor",2.938565,101.842592,550206.91,3742,2004
+PROP00670,CUST00114,Condominium,"55128, Jalan Steven Spring, South Kevin, Selangor",3.097508,101.736687,417253.01,3701,2016
+PROP00671,CUST00552,Apartment,"59489, Jalan Carr Keys, Robertchester, Selangor",3.220377,101.691792,259765.47,1360,1993
+PROP00672,CUST00832,Terrace house,"45443, Jalan Fletcher Turnpike, Port Peggyville, Selangor",3.006721,101.836604,377043.38,2508,2018
+PROP00673,CUST00851,Bungalow,"9993, Jalan Martha Walks, Joshuamouth, Selangor",3.278523,101.612993,1258057.22,788,2000
+PROP00674,CUST01881,Bungalow,"3946, Jalan Smith Trace, East Jeffrey, Selangor",2.986493,101.892847,2893298.41,1364,2017
+PROP00675,CUST00956,Apartment,"586, Jalan Catherine Neck, New Elizabeth, Selangor",2.991577,101.731862,299172.8,2536,2012
+PROP00676,CUST00655,Terrace house,"894, Jalan John Cove, Port Ashleyberg, Selangor",2.958459,101.800456,562910.76,2813,2019
+PROP00677,CUST00037,Shop lot,"21707, Jalan Turner Walk, Jameschester, Selangor",3.171969,101.63928,1544445.07,2650,2013
+PROP00678,CUST00201,Terrace house,"5792, Jalan Benjamin Branch, West Joshuachester, Selangor",3.217582,101.778143,600307.51,1883,1998
+PROP00679,CUST00729,Condominium,"6129, Jalan Ashley View, East Phyllisstad, Selangor",2.906033,101.841603,730069.63,2197,2020
+PROP00680,CUST00351,Apartment,"21375, Jalan Lin Pines, Leeshire, Selangor",3.234725,101.594278,389826.61,3505,1993
+PROP00681,CUST00831,Shop lot,"7086, Jalan Sandra Ridge, North Jose, Selangor",2.994635,101.586811,551699.92,4046,2003
+PROP00682,CUST01170,Apartment,"8434, Jalan Sanders Forges, North Jeffreyside, Selangor",3.149041,101.662875,393395.11,1678,1999
+PROP00683,CUST00917,Terrace house,"503, Jalan Zamora Field, Mooreberg, Selangor",3.33035,101.58069,672107.76,934,2002
+PROP00684,CUST00518,Bungalow,"33474, Jalan Joseph Fords, North Kevinmouth, Selangor",3.382854,101.513658,3013443.47,3047,2009
+PROP00685,CUST01337,Semi-detached,"968, Jalan Harrington Plains, North Andreamouth, Selangor",3.056492,101.478083,980699.65,4415,1998
+PROP00686,CUST00350,Bungalow,"294, Jalan Mullins Causeway, Port Desiree, Selangor",3.022789,101.458819,3155468.84,996,1992
+PROP00687,CUST01671,Condominium,"774, Jalan Steven Field, West Jaredmouth, Selangor",3.000915,101.647897,791212.7,4233,2002
+PROP00688,CUST01503,Condominium,"23850, Jalan Fernando Points, Robertmouth, Selangor",3.089013,101.636012,673332.75,4048,2014
+PROP00689,CUST01973,Terrace house,"75233, Jalan Abigail Drives, North Derek, Selangor",3.052079,101.753071,648524.68,3843,2004
+PROP00690,CUST01331,Bungalow,"56913, Jalan Natalie Forks, East Jameschester, Selangor",3.235906,101.701426,2341569.17,3626,2019
+PROP00691,CUST00986,Shop lot,"7116, Jalan Diaz Via, South Melissaberg, Selangor",3.098632,101.710295,1120033.6,881,2018
+PROP00692,CUST01095,Semi-detached,"9955, Jalan Rachel Centers, West Darlene, Selangor",3.089996,101.691607,1160561.84,819,1993
+PROP00693,CUST01608,Condominium,"01239, Jalan Cabrera Extension, North Jay, Selangor",2.92709,101.803671,599484.64,1645,1998
+PROP00694,CUST00599,Condominium,"202, Jalan Ellis Union, North Shawnburgh, Selangor",2.888162,101.612822,608981.44,2611,2003
+PROP00695,CUST01656,Condominium,"24050, Jalan Olsen Stravenue, Hendricksview, Selangor",3.102933,101.694109,428631.78,1256,1995
+PROP00696,CUST00387,Apartment,"871, Jalan May Spurs, Morrisview, Selangor",3.116126,101.709519,251290.44,767,2013
+PROP00697,CUST01514,Shop lot,"1992, Jalan Williams Lake, New Monique, Selangor",3.21692,101.589918,676489.08,1878,2018
+PROP00698,CUST00028,Semi-detached,"2725, Jalan Hector Island, Port Stephaniemouth, Selangor",3.03233,101.593192,978688.56,2531,2016
+PROP00699,CUST01738,Condominium,"6844, Jalan Stacey Oval, Lake Jacob, Selangor",3.144756,101.647171,541613.6,2283,2007
+PROP00700,CUST00763,Semi-detached,"121, Jalan Christopher Causeway, New Stephenhaven, Selangor",3.17153,101.577362,1039862.65,3537,1993
+PROP00701,CUST01585,Condominium,"35869, Jalan Elizabeth Cliffs, Wyattfort, Selangor",3.0639,101.616979,372087.73,1341,2019
+PROP00702,CUST01011,Condominium,"0392, Jalan Garcia River, Heatherburgh, Selangor",2.921747,101.782457,815230.43,2662,2011
+PROP00703,CUST00291,Semi-detached,"517, Jalan Gerald Divide, Doughertyview, Selangor",3.09154,101.400699,1200037.3,1671,2013
+PROP00704,CUST00488,Condominium,"38722, Jalan Michael Highway, East Daniel, Selangor",3.076019,101.492933,659218.05,1409,1985
+PROP00705,CUST01720,Apartment,"65496, Jalan Regina Streets, Lake Amberborough, Selangor",3.021201,101.483027,353838.68,4034,2012
+PROP00706,CUST00443,Terrace house,"44470, Jalan Shaw Path, Romeroshire, Selangor",3.111401,101.526065,710053.58,2242,2010
+PROP00707,CUST00815,Apartment,"0470, Jalan Alex Landing, Cannonstad, Selangor",3.041403,101.537627,446905.01,987,1996
+PROP00708,CUST01096,Apartment,"95377, Jalan Hanson Falls, Simmonsborough, Selangor",3.169468,101.763571,235507.67,1992,2018
+PROP00709,CUST01587,Bungalow,"95634, Jalan Shaun Parks, Floresburgh, Selangor",3.264408,101.513368,1410616.39,2733,2004
+PROP00710,CUST00873,Apartment,"59206, Jalan Norma Keys, East Lisaberg, Selangor",3.189097,101.63012,206481.06,1670,1996
+PROP00711,CUST00101,Shop lot,"59229, Jalan Wilson Islands, Robinsonberg, Selangor",2.911681,101.747863,852558.44,2882,1990
+PROP00712,CUST00181,Apartment,"559, Jalan Hall Gardens, Barnettberg, Selangor",2.999362,101.826466,330960.02,3573,1999
+PROP00713,CUST00532,Bungalow,"629, Jalan Beck Falls, South Nicholasmouth, Selangor",3.181599,101.797158,1418149.18,3423,2011
+PROP00714,CUST00688,Apartment,"498, Jalan Debbie Plaza, Coltonborough, Selangor",3.112435,101.629691,379290.53,3959,2020
+PROP00715,CUST00913,Bungalow,"138, Jalan Bradley Ports, Lake Melissa, Selangor",3.04103,101.649399,3343716.9,1283,1989
+PROP00716,CUST01633,Condominium,"12212, Jalan Nathan Hill, Lake Nathanberg, Selangor",3.172799,101.707606,852837.65,1454,2011
+PROP00717,CUST00315,Apartment,"8687, Jalan Evans Branch, Port Brandihaven, Selangor",2.877389,101.801317,335574.15,1326,2016
+PROP00718,CUST01891,Semi-detached,"4880, Jalan Parker Inlet, Port Mary, Selangor",3.06802,101.473907,1128616.85,2099,2021
+PROP00719,CUST00276,Semi-detached,"06298, Jalan Ramos Pine, Sanchezmouth, Selangor",3.297639,101.586834,764712.34,4013,2004
+PROP00720,CUST01405,Bungalow,"566, Jalan Bautista Locks, Kimberlyville, Selangor",2.931939,101.779886,1367839.62,2017,1999
+PROP00721,CUST00995,Terrace house,"623, Jalan Barrett Creek, Lake Sarah, Selangor",3.15858,101.832911,733973.24,3272,2019
+PROP00722,CUST00155,Semi-detached,"21320, Jalan Vaughn Cape, Frankview, Selangor",3.053618,101.542249,1469468.78,1386,1997
+PROP00723,CUST00549,Semi-detached,"314, Jalan Pace Port, North Thomasmouth, Selangor",2.928972,101.785533,1464572.39,1070,2008
+PROP00724,CUST01458,Terrace house,"69999, Jalan Johnston Pine, Lake Eugeneborough, Selangor",3.220551,101.547561,382799.02,3097,1991
+PROP00725,CUST00701,Terrace house,"80036, Jalan Ortiz Street, Lake Aaron, Selangor",3.094112,101.793694,473127.07,1351,1997
+PROP00726,CUST01741,Bungalow,"53285, Jalan Amy Field, North Marcton, Selangor",3.346985,101.541104,1559452.88,905,2001
+PROP00727,CUST01752,Terrace house,"2438, Jalan Andrea Alley, Angelaburgh, Selangor",3.138637,101.462755,351014.32,3574,2018
+PROP00728,CUST01272,Semi-detached,"9299, Jalan Brian Locks, Martinmouth, Selangor",3.172743,101.610251,1399603.65,4316,2001
+PROP00729,CUST00943,Terrace house,"3328, Jalan Nicole Parkway, Nunezborough, Selangor",2.914277,101.869272,474746.47,3175,2023
+PROP00730,CUST00015,Semi-detached,"76185, Jalan Nicole Plains, Thompsonmouth, Selangor",2.897827,101.678711,901754.57,3309,1986
+PROP00731,CUST00196,Bungalow,"36841, Jalan Teresa Field, Lake William, Selangor",3.213444,101.725711,2076047.14,3329,1999
+PROP00732,CUST01434,Terrace house,"33921, Jalan Michael Ferry, Mclaughlinland, Selangor",3.081144,101.48665,583613.33,2215,1992
+PROP00733,CUST00091,Condominium,"750, Jalan Cisneros Orchard, Cruzton, Selangor",2.999877,101.448354,574841.54,2370,2004
+PROP00734,CUST01896,Apartment,"5920, Jalan Melissa Via, Johnland, Selangor",2.999553,101.644274,317407.65,2184,2021
+PROP00735,CUST01396,Apartment,"279, Jalan Huber Crescent, Hullville, Selangor",3.101408,101.620605,426016.31,3141,2015
+PROP00736,CUST00886,Shop lot,"9698, Jalan Amber Hills, Donnaburgh, Selangor",3.006477,101.853718,1046054.11,4347,2013
+PROP00737,CUST01017,Semi-detached,"026, Jalan Richardson View, Fergusonburgh, Selangor",3.151555,101.720183,1120214.59,1085,1992
+PROP00738,CUST01909,Bungalow,"591, Jalan Mario Ford, Christinashire, Selangor",2.987785,101.898807,1420512.33,2510,2016
+PROP00739,CUST01969,Shop lot,"255, Jalan Carrie Skyway, Fullertown, Selangor",3.027695,101.615258,1755039.55,2294,1985
+PROP00740,CUST01435,Bungalow,"4299, Jalan Sean Road, Thomaschester, Selangor",3.121188,101.806055,1982762.94,2682,2020
+PROP00741,CUST01422,Shop lot,"9417, Jalan Washington Points, New Kimberlymouth, Selangor",3.157037,101.739164,1325445.53,3689,1989
+PROP00742,CUST00265,Apartment,"7485, Jalan Sullivan Club, Port Charlene, Selangor",3.124033,101.62719,361858.57,2542,1997
+PROP00743,CUST00718,Semi-detached,"416, Jalan Sanchez Villages, Stonemouth, Selangor",2.882423,101.615692,1475793.19,3949,2022
+PROP00744,CUST01736,Shop lot,"69881, Jalan Carter Prairie, West Kellytown, Selangor",3.046909,101.601978,1873708.58,4103,2011
+PROP00745,CUST01875,Terrace house,"286, Jalan Mark Extension, Port Pamton, Selangor",3.085786,101.447542,417286.49,1422,1994
+PROP00746,CUST01484,Shop lot,"62706, Jalan Roberts Rapids, North Maryburgh, Selangor",3.052496,101.658518,1136445.63,3884,2007
+PROP00747,CUST01989,Apartment,"8458, Jalan Kayla Alley, Port Elizabeth, Selangor",3.140214,101.797292,378545.01,2722,2013
+PROP00748,CUST00245,Bungalow,"57488, Jalan Christine Street, Greenville, Selangor",3.004325,101.565493,1796350.79,2989,2001
+PROP00749,CUST01152,Apartment,"563, Jalan Edward Mission, Roseton, Selangor",3.175718,101.606739,275467.47,3173,2000
+PROP00750,CUST00317,Apartment,"30566, Jalan Brittany Ways, Deannatown, Selangor",3.037827,101.504612,413154.28,3253,1987
+PROP00751,CUST01126,Terrace house,"6418, Jalan Saunders Fields, Irwinport, Selangor",3.062527,101.642507,659861.12,1588,2013
+PROP00752,CUST00723,Terrace house,"7908, Jalan Sloan Brook, New Thomaschester, Selangor",3.043008,101.61575,573663.28,1717,2018
+PROP00753,CUST00259,Condominium,"001, Jalan Ronald Spurs, North Jerryport, Selangor",3.071628,101.572679,685009.66,1659,2006
+PROP00754,CUST01297,Apartment,"4299, Jalan Phillip Harbor, Stephanieside, Selangor",2.955998,101.798449,255507.58,4150,1987
+PROP00755,CUST01491,Terrace house,"5240, Jalan Thomas Tunnel, North Mario, Selangor",3.162545,101.78952,499839.0,2779,1998
+PROP00756,CUST00306,Semi-detached,"9967, Jalan Leslie Manors, East Sheila, Selangor",3.089924,101.433667,1222311.3,1364,2023
+PROP00757,CUST01546,Semi-detached,"19053, Jalan Sarah Rue, Scotttown, Selangor",3.146231,101.768019,972649.48,3632,2018
+PROP00758,CUST00922,Terrace house,"7476, Jalan Weaver Spur, Nathanbury, Selangor",3.114848,101.684628,539887.43,2478,1998
+PROP00759,CUST01947,Apartment,"652, Jalan Melanie Viaduct, New Jeffrey, Selangor",3.097911,101.826675,203587.5,605,2009
+PROP00760,CUST00551,Shop lot,"71245, Jalan Robinson Expressway, North Joycefurt, Selangor",3.162051,101.659051,886351.74,720,2005
+PROP00761,CUST01179,Condominium,"21173, Jalan Cynthia Mountain, Mooreview, Selangor",3.020486,101.767772,544566.78,2715,1999
+PROP00762,CUST00405,Bungalow,"839, Jalan Peters Station, Angelaburgh, Selangor",2.995937,101.641309,2193326.89,1427,2003
+PROP00763,CUST00977,Shop lot,"94252, Jalan Garcia Crescent, Tracyland, Selangor",3.198738,101.592212,1140561.78,3433,2010
+PROP00764,CUST01200,Condominium,"1050, Jalan Michael Rapid, West Shaneport, Selangor",3.195204,101.684279,431046.31,4110,1993
+PROP00765,CUST01456,Bungalow,"7353, Jalan Barton Hills, Russoport, Selangor",2.893269,101.638805,2624461.62,1683,1992
+PROP00766,CUST01472,Terrace house,"71594, Jalan Gonzalez Highway, North Mathew, Selangor",3.167733,101.677749,633484.89,3704,2021
+PROP00767,CUST00331,Terrace house,"8803, Jalan David Forge, Millerland, Selangor",3.15339,101.651274,700850.31,686,1996
+PROP00768,CUST01216,Semi-detached,"338, Jalan Ronald Camp, Hunterburgh, Selangor",3.086493,101.629724,1423774.62,1051,2023
+PROP00769,CUST00212,Bungalow,"152, Jalan Daniels Flat, West Margaretchester, Selangor",3.167626,101.688358,1803452.87,4209,2014
+PROP00770,CUST01776,Condominium,"51521, Jalan Holt Lodge, Marieborough, Selangor",3.042388,101.554824,611021.78,1566,1986
+PROP00771,CUST01097,Condominium,"3780, Jalan William Way, West Rogerfort, Selangor",2.970543,101.63735,833667.89,2431,2008
+PROP00772,CUST00762,Bungalow,"44671, Jalan Ramos Lane, New Lisa, Selangor",3.197165,101.57619,2557096.85,4102,2006
+PROP00773,CUST00661,Apartment,"143, Jalan Lisa Dale, Pamelachester, Selangor",3.034964,101.621397,360543.99,3747,1996
+PROP00774,CUST00256,Semi-detached,"5099, Jalan Hannah Creek, New Caitlinmouth, Selangor",3.075367,101.591604,726093.99,2252,2018
+PROP00775,CUST00159,Semi-detached,"3908, Jalan Marissa Spur, Frankland, Selangor",3.164109,101.743715,754416.31,948,2019
+PROP00776,CUST01924,Condominium,"968, Jalan Conway Extension, Peterhaven, Selangor",3.100075,101.685064,659828.53,1579,2010
+PROP00777,CUST00433,Bungalow,"499, Jalan Aguilar Mill, New Renee, Selangor",3.254109,101.739442,1452510.98,1368,2016
+PROP00778,CUST00909,Shop lot,"7595, Jalan Sonia Streets, Port Brittanyburgh, Selangor",3.231671,101.570432,1382374.54,1818,1991
+PROP00779,CUST01918,Condominium,"17978, Jalan Lori Hills, Lake Charlene, Selangor",3.2009,101.553668,598937.64,4430,2017
+PROP00780,CUST00579,Shop lot,"1705, Jalan Moon Greens, Lisaview, Selangor",3.173051,101.585935,1257536.43,647,2016
+PROP00781,CUST00338,Shop lot,"67286, Jalan Christopher Stream, Lake Anthony, Selangor",3.210714,101.729916,1703966.83,2256,2008
+PROP00782,CUST01361,Semi-detached,"856, Jalan Kimberly Ports, New Valerie, Selangor",2.98238,101.485203,940595.32,2631,1987
+PROP00783,CUST01326,Bungalow,"8145, Jalan Paige Brooks, Port Daniel, Selangor",3.198896,101.67333,2765679.82,1834,2013
+PROP00784,CUST00685,Condominium,"9055, Jalan Ann Manors, Richardsbury, Selangor",3.0034,101.385165,783318.37,1533,2001
+PROP00785,CUST00942,Semi-detached,"1588, Jalan Karen Mountain, Port Marymouth, Selangor",3.270997,101.552945,891760.06,4408,2006
+PROP00786,CUST01650,Terrace house,"26011, Jalan Kristin Common, East Susanside, Selangor",3.183924,101.772461,697190.67,4194,2001
+PROP00787,CUST00227,Bungalow,"97425, Jalan Martinez Stream, Williamston, Selangor",3.247821,101.560846,1332838.17,640,1997
+PROP00788,CUST01935,Bungalow,"858, Jalan Melissa Stravenue, North Justinton, Selangor",3.212471,101.594162,1763173.7,3316,2009
+PROP00789,CUST00376,Shop lot,"43736, Jalan Rebecca Square, Harrisfurt, Selangor",3.046752,101.723052,1922334.71,2353,2016
+PROP00790,CUST01627,Bungalow,"71358, Jalan Carroll Fords, Johnton, Selangor",3.10297,101.607574,2355924.29,1693,2001
+PROP00791,CUST01150,Bungalow,"058, Jalan Cantrell Terrace, Davisport, Selangor",3.139821,101.808447,2492526.94,2945,2005
+PROP00792,CUST00958,Terrace house,"3156, Jalan Allen Oval, West Michael, Selangor",3.11577,101.691753,429961.19,1362,1987
+PROP00793,CUST01586,Semi-detached,"16436, Jalan Donna Villages, South Todd, Selangor",2.961567,101.832252,704570.99,3521,2006
+PROP00794,CUST01764,Terrace house,"0289, Jalan Barajas Run, Ortizmouth, Selangor",3.017744,101.797756,399679.17,2081,1995
+PROP00795,CUST00844,Terrace house,"42816, Jalan Scott Viaduct, Jonesville, Selangor",2.893285,101.799233,709573.16,3086,2023
+PROP00796,CUST00325,Condominium,"753, Jalan Nichols Viaduct, Robertview, Selangor",3.227657,101.773383,431366.92,3059,1995
+PROP00797,CUST00790,Semi-detached,"51038, Jalan Derek Forest, West Douglaschester, Selangor",3.199444,101.712665,1017361.8,613,2000
+PROP00798,CUST01416,Bungalow,"62814, Jalan Rhodes Motorway, New Karibury, Selangor",3.112291,101.68095,1469880.73,2046,2002
+PROP00799,CUST00709,Condominium,"530, Jalan Andrews Cape, Simpsonview, Selangor",3.089615,101.413376,709570.4,1453,1995
+PROP00800,CUST01683,Shop lot,"909, Jalan Glen Plain, Sheenahaven, Selangor",3.039239,101.655741,1413886.94,1480,1990
+PROP00801,CUST01060,Terrace house,"4551, Jalan Mariah Trafficway, Amandamouth, Selangor",3.238054,101.79081,358796.66,1124,1997
+PROP00802,CUST01954,Condominium,"71743, Jalan Darlene Manors, Port Danielfurt, Selangor",2.94224,101.848733,719869.99,3705,2009
+PROP00803,CUST00487,Terrace house,"0343, Jalan William Ford, Ramosstad, Selangor",3.125292,101.809329,470382.58,4181,1992
+PROP00804,CUST00144,Condominium,"333, Jalan Campbell Mountains, Smithview, Selangor",2.951027,101.851373,846028.57,829,2007
+PROP00805,CUST00365,Semi-detached,"30909, Jalan Sheri Keys, New Margaret, Selangor",3.131996,101.585202,895763.07,2714,2007
+PROP00806,CUST01374,Bungalow,"0282, Jalan Anderson Greens, North Sandra, Selangor",2.990795,101.676384,2228263.06,1437,2022
+PROP00807,CUST01178,Condominium,"23190, Jalan Cole Dale, West Katherineland, Selangor",3.15855,101.733013,462537.15,3535,2006
+PROP00808,CUST00963,Bungalow,"07941, Jalan Erik Landing, Port Andrea, Selangor",3.126301,101.645313,3108694.59,2134,1990
+PROP00809,CUST01615,Shop lot,"09794, Jalan Stephanie Divide, Port Joshua, Selangor",3.162898,101.731519,781690.86,2710,1993
+PROP00810,CUST00483,Condominium,"0987, Jalan Julie Glens, Harrisburgh, Selangor",3.063387,101.405243,652128.93,4155,1991
+PROP00811,CUST00890,Apartment,"1742, Jalan Keith Greens, East Robert, Selangor",3.164197,101.742955,278585.02,2512,2011
+PROP00812,CUST01905,Shop lot,"89003, Jalan Reyes Meadows, Lake Patrickton, Selangor",3.008291,101.399779,1585726.18,1978,2006
+PROP00813,CUST01795,Bungalow,"0286, Jalan Benson Extension, East Kimberlyton, Selangor",3.049126,101.541811,1485047.05,2333,2006
+PROP00814,CUST01845,Bungalow,"536, Jalan Griffith Cliff, Jamesside, Selangor",3.19802,101.569068,2243010.05,1023,2006
+PROP00815,CUST01584,Apartment,"005, Jalan Alvarez Island, North Codybury, Selangor",3.154701,101.718404,318374.66,1753,2022
+PROP00816,CUST00609,Apartment,"59007, Jalan Christina Corners, Port Kimberly, Selangor",3.000491,101.902759,379015.44,2690,2021
+PROP00817,CUST00392,Semi-detached,"722, Jalan Daniel Plains, Knighthaven, Selangor",3.179984,101.769857,1340660.85,768,2000
+PROP00818,CUST00627,Semi-detached,"1672, Jalan David Unions, Leslieview, Selangor",3.317298,101.51513,1236093.74,2079,2007
+PROP00819,CUST01239,Condominium,"617, Jalan Ashley Plaza, South Marymouth, Selangor",3.111497,101.685353,520960.38,1962,2017
+PROP00820,CUST00702,Bungalow,"4360, Jalan Mandy Trace, Kellyberg, Selangor",2.864087,101.847238,2940254.23,1149,1994
+PROP00821,CUST01779,Apartment,"52160, Jalan Matthew Forest, Karinaberg, Selangor",2.897115,101.693978,300697.59,4025,2013
+PROP00822,CUST00948,Apartment,"094, Jalan Harmon Mission, Warefurt, Selangor",2.964692,101.787408,280468.05,4179,1996
+PROP00823,CUST01063,Terrace house,"032, Jalan May Knoll, Codyberg, Selangor",3.147236,101.694885,400476.41,2706,2013
+PROP00824,CUST01015,Bungalow,"6179, Jalan Cortez Burg, West Stacy, Selangor",2.984487,101.599851,3068138.02,1617,2015
+PROP00825,CUST01220,Terrace house,"598, Jalan Rodriguez Camp, North Daniel, Selangor",2.910394,101.825794,547383.93,3511,2003
+PROP00826,CUST01543,Bungalow,"158, Jalan George Meadows, Holderport, Selangor",2.939799,101.712593,3461527.36,2842,2004
+PROP00827,CUST01384,Semi-detached,"986, Jalan Mendoza Meadow, Martinezmouth, Selangor",3.093591,101.683051,1506749.37,4376,1991
+PROP00828,CUST01560,Shop lot,"0088, Jalan Collins Green, New Karamouth, Selangor",3.091997,101.66008,1345459.79,3828,2011
+PROP00829,CUST00226,Condominium,"819, Jalan Ashley Overpass, Christineshire, Selangor",2.991627,101.757527,497935.27,3000,1999
+PROP00830,CUST01594,Condominium,"16400, Jalan Duncan Stream, South Cathy, Selangor",3.099384,101.7341,765913.94,2365,2013
+PROP00831,CUST01329,Terrace house,"235, Jalan Joshua Grove, Nelsonton, Selangor",2.90322,101.619369,500241.64,1107,1994
+PROP00832,CUST00630,Semi-detached,"213, Jalan Flores Meadows, East Jennifer, Selangor",3.14844,101.805135,832772.77,2577,2010
+PROP00833,CUST01911,Apartment,"21237, Jalan Michelle Knolls, Aaronborough, Selangor",3.001817,101.456182,400599.68,4484,1992
+PROP00834,CUST01062,Terrace house,"00008, Jalan Wright Highway, Chavezshire, Selangor",3.3648,101.606554,548574.56,4404,1988
+PROP00835,CUST01653,Apartment,"90088, Jalan David Crest, Yatestown, Selangor",3.053442,101.391769,270825.3,1585,2003
+PROP00836,CUST00321,Apartment,"169, Jalan Lori Dam, Harrismouth, Selangor",3.200089,101.795545,419687.15,2089,2012
+PROP00837,CUST01778,Semi-detached,"989, Jalan Singh River, South Alanmouth, Selangor",3.085922,101.628755,1592892.45,3317,1998
+PROP00838,CUST01938,Shop lot,"8186, Jalan Cooke Loaf, North Brent, Selangor",3.103316,101.78439,1225481.53,4125,2011
+PROP00839,CUST00554,Bungalow,"984, Jalan John Crest, Lake Marymouth, Selangor",3.041822,101.457133,2019079.16,631,2004
+PROP00840,CUST01094,Terrace house,"18151, Jalan Benson Isle, Port Ashley, Selangor",3.102948,101.627665,361987.72,2309,1988
+PROP00841,CUST00039,Terrace house,"2034, Jalan Casey Ford, Kathrynview, Selangor",3.150909,101.714303,498222.72,1950,2015
+PROP00842,CUST00608,Terrace house,"6075, Jalan Harding Rest, Justinview, Selangor",3.083097,101.64406,600298.89,2971,2014
+PROP00843,CUST00257,Bungalow,"6720, Jalan Brian Dam, Nicoletown, Selangor",2.982417,101.560102,2082545.74,789,2000
+PROP00844,CUST00601,Semi-detached,"81822, Jalan William Ranch, Tammyberg, Selangor",2.968898,101.809002,732442.13,2958,2018
+PROP00845,CUST01363,Shop lot,"2085, Jalan Tyler Spurs, Rebeccamouth, Selangor",3.261048,101.745979,1518825.15,960,1987
+PROP00846,CUST00858,Bungalow,"53642, Jalan Maxwell Motorway, North Kennethburgh, Selangor",2.867476,101.826393,1652878.14,920,1990
+PROP00847,CUST00104,Condominium,"182, Jalan Rodriguez Crescent, Maysburgh, Selangor",3.151472,101.713486,326226.28,2262,2003
+PROP00848,CUST00063,Condominium,"559, Jalan Justin Way, Wilsonton, Selangor",2.994605,101.839595,711583.45,3604,2000
+PROP00849,CUST00103,Semi-detached,"79230, Jalan Simmons Burg, North Davidbury, Selangor",3.062998,101.707611,918694.4,3006,1987
+PROP00850,CUST00588,Shop lot,"271, Jalan Christopher Summit, East Tonya, Selangor",3.120195,101.756321,1834210.58,2825,2020
+PROP00851,CUST01699,Shop lot,"96151, Jalan Anthony Greens, Alexanderchester, Selangor",3.107695,101.599915,1991424.43,857,2020
+PROP00852,CUST01963,Apartment,"5344, Jalan Swanson Wells, Dianaberg, Selangor",2.898516,101.89078,256498.17,4446,2013
+PROP00853,CUST00859,Semi-detached,"6346, Jalan Daniel Corners, Joelstad, Selangor",3.195486,101.770646,1395632.35,2370,2010
+PROP00854,CUST00726,Condominium,"3472, Jalan Young Point, Millerchester, Selangor",3.144255,101.741386,743488.94,2826,1999
+PROP00855,CUST01262,Condominium,"225, Jalan Kara Crossroad, Barnettburgh, Selangor",2.931903,101.821214,476367.71,3642,2010
+PROP00856,CUST00468,Condominium,"7086, Jalan Padilla Loaf, Sarahfurt, Selangor",2.965082,101.790627,736758.43,2291,2004
+PROP00857,CUST00979,Semi-detached,"24197, Jalan Phelps Mills, Kristyport, Selangor",3.100557,101.77985,1283419.73,1395,1995
+PROP00858,CUST01328,Semi-detached,"7129, Jalan Danielle Lake, North Robertville, Selangor",3.188591,101.629227,1065818.57,2411,2023
+PROP00859,CUST00262,Terrace house,"489, Jalan Holder Drive, East Lawrence, Selangor",3.147322,101.767979,623239.75,2851,2015
+PROP00860,CUST00590,Apartment,"3404, Jalan Koch Terrace, Kelleyville, Selangor",3.009986,101.794053,344533.66,1291,2004
+PROP00861,CUST01516,Terrace house,"15649, Jalan Martin Glens, North Tara, Selangor",2.993333,101.811616,472382.15,4490,2001
+PROP00862,CUST01320,Bungalow,"441, Jalan Craig Station, Schroederside, Selangor",3.057406,101.567474,2618190.38,1971,2000
+PROP00863,CUST01952,Semi-detached,"182, Jalan Wright Walks, Hallbury, Selangor",3.217676,101.543851,1063037.82,3277,1994
+PROP00864,CUST01849,Condominium,"9488, Jalan Jennifer Pines, Brendachester, Selangor",3.090619,101.716328,675963.16,3845,2022
+PROP00865,CUST00258,Bungalow,"066, Jalan Cline Brook, Melanieville, Selangor",2.971398,101.737051,3051968.87,1698,2022
+PROP00866,CUST00750,Bungalow,"21254, Jalan Diana Harbors, Port Jessicabury, Selangor",3.112997,101.533489,1346915.8,4275,1992
+PROP00867,CUST00536,Condominium,"16049, Jalan Smith Garden, Thomashaven, Selangor",3.112285,101.640572,645923.1,3838,1994
+PROP00868,CUST01284,Shop lot,"0032, Jalan Yvonne Flats, New Seanshire, Selangor",3.171842,101.687059,1962160.04,3244,1993
+PROP00869,CUST01468,Condominium,"901, Jalan Lindsey Bypass, East Kennethfort, Selangor",3.164848,101.664807,411443.29,814,1999
+PROP00870,CUST00453,Shop lot,"31719, Jalan Gill Point, Williamsville, Selangor",3.073914,101.674597,1336995.73,1705,1988
+PROP00871,CUST00845,Terrace house,"625, Jalan Jennifer Green, New Deborahmouth, Selangor",3.17935,101.711168,431501.05,2294,2016
+PROP00872,CUST01937,Bungalow,"550, Jalan Chase Mill, Jeffreyhaven, Selangor",3.064883,101.626092,3416420.85,2630,2017
+PROP00873,CUST01880,Apartment,"10728, Jalan Mills Alley, Taylormouth, Selangor",3.152713,101.837098,268521.66,2177,2005
+PROP00874,CUST00174,Semi-detached,"037, Jalan Sonia Coves, Johnsonhaven, Selangor",3.066804,101.470965,1286553.52,3328,2008
+PROP00875,CUST01996,Semi-detached,"97223, Jalan King Overpass, New Jamesmouth, Selangor",3.243423,101.584807,1205460.21,608,1988
+PROP00876,CUST00121,Shop lot,"07681, Jalan Ian Heights, Lake Jenniferside, Selangor",3.227319,101.665242,697647.03,2220,2015
+PROP00877,CUST00206,Apartment,"5780, Jalan Geoffrey Glens, Jamesberg, Selangor",2.972537,101.779661,433972.57,1681,1998
+PROP00878,CUST01858,Condominium,"62216, Jalan Kristina Lights, Arnoldmouth, Selangor",3.16475,101.679989,580135.29,2105,2011
+PROP00879,CUST00304,Apartment,"6706, Jalan Fleming Knolls, South Christineville, Selangor",3.070149,101.689243,232078.38,1629,2001
+PROP00880,CUST01285,Condominium,"95215, Jalan Jill Villages, Klineberg, Selangor",3.114328,101.584419,352668.08,3405,2017
+PROP00881,CUST01509,Shop lot,"1070, Jalan James Cape, Patriciaburgh, Selangor",3.321095,101.572467,649627.99,2110,1993
+PROP00882,CUST01980,Shop lot,"3198, Jalan Becky Heights, Wesleybury, Selangor",3.115438,101.721667,1361658.31,2941,2018
+PROP00883,CUST00233,Terrace house,"04169, Jalan Lisa Island, North Dylan, Selangor",2.936784,101.861819,671786.62,2274,2008
+PROP00884,CUST01408,Apartment,"1675, Jalan Wolfe Lodge, East Elizabeth, Selangor",3.231782,101.685599,417363.5,2841,2005
+PROP00885,CUST00378,Apartment,"534, Jalan Clarence Islands, Port Davidview, Selangor",3.194593,101.741056,447000.55,4337,1996
+PROP00886,CUST00374,Bungalow,"6427, Jalan Foley Crossing, Thomasside, Selangor",3.001165,101.451788,3196472.66,2548,2012
+PROP00887,CUST00812,Condominium,"5128, Jalan Rebecca Park, Lindsayberg, Selangor",3.144391,101.693484,812525.06,3350,2022
+PROP00888,CUST01444,Apartment,"95978, Jalan Matthew Green, South Melissa, Selangor",3.22438,101.761579,214791.31,1437,2020
+PROP00889,CUST01949,Shop lot,"097, Jalan Jeremy Lights, East Kennethport, Selangor",3.128814,101.590898,1700600.63,3121,1989
+PROP00890,CUST01572,Terrace house,"5467, Jalan Thomas Knolls, South Cristianmouth, Selangor",3.123268,101.807897,495452.15,1119,2023
+PROP00891,CUST01007,Semi-detached,"08715, Jalan Trujillo Throughway, Schmidtbury, Selangor",2.929235,101.589491,1510162.44,3280,2003
+PROP00892,CUST01929,Apartment,"0317, Jalan Parker Forks, Port Jacobmouth, Selangor",3.078211,101.584527,346896.34,685,2006
+PROP00893,CUST01968,Shop lot,"1485, Jalan Powers Lights, East Annamouth, Selangor",2.961418,101.697433,770285.49,3124,2012
+PROP00894,CUST00027,Apartment,"6862, Jalan Lopez Path, Wendymouth, Selangor",3.326774,101.619584,238203.57,4301,2017
+PROP00895,CUST01577,Terrace house,"6420, Jalan Delgado Lane, East Timothy, Selangor",3.130432,101.744326,601004.46,2562,2008
+PROP00896,CUST01426,Terrace house,"35386, Jalan Butler Dam, Cassandraborough, Selangor",3.132995,101.694304,354335.81,3676,1994
+PROP00897,CUST01069,Terrace house,"687, Jalan Richard Skyway, Port Josehaven, Selangor",3.098735,101.650046,510581.38,3007,2014
+PROP00898,CUST00545,Condominium,"9320, Jalan Deleon Tunnel, West Adam, Selangor",2.872178,101.620495,793863.65,1051,2003
+PROP00899,CUST01136,Condominium,"89273, Jalan Harmon Islands, Pattersonview, Selangor",3.030678,101.595009,326236.29,1606,1990
+PROP00900,CUST01168,Condominium,"53567, Jalan Jillian Parkway, Portermouth, Selangor",3.104141,101.562805,779909.95,1335,2011
+PROP00901,CUST01789,Terrace house,"4261, Jalan John Tunnel, Dylanburgh, Selangor",3.042377,101.655171,420213.52,1424,2010
+PROP00902,CUST01730,Apartment,"3627, Jalan Henry Squares, East Sherry, Selangor",2.999969,101.764335,271733.2,690,2011
+PROP00903,CUST01081,Apartment,"71117, Jalan Curtis Overpass, Lawsonfort, Selangor",3.263255,101.536334,269574.35,1213,2011
+PROP00904,CUST00559,Terrace house,"62042, Jalan Wilson Grove, Raybury, Selangor",3.028747,101.744265,619780.87,2259,2015
+PROP00905,CUST01801,Shop lot,"52169, Jalan Jared Walks, East Anthony, Selangor",3.134213,101.774752,971128.19,631,1985
+PROP00906,CUST00628,Shop lot,"69801, Jalan Lopez Locks, Tylerland, Selangor",3.153526,101.751851,1768188.08,4358,2012
+PROP00907,CUST01513,Bungalow,"68017, Jalan Stephenson Trace, East Lindaland, Selangor",3.015349,101.563999,1206302.85,2493,1989
+PROP00908,CUST00324,Terrace house,"3705, Jalan Shelly Highway, East Jack, Selangor",2.992016,101.816335,629129.71,974,2009
+PROP00909,CUST01470,Condominium,"2446, Jalan Melissa Wall, Mooreview, Selangor",3.150155,101.676253,786115.75,1586,2008
+PROP00910,CUST01478,Condominium,"6380, Jalan Susan Bypass, Avilamouth, Selangor",3.169335,101.528546,756144.41,4364,1999
+PROP00911,CUST00855,Apartment,"0259, Jalan Rodriguez Rapids, Lake Cassandra, Selangor",2.991608,101.585802,323025.79,3606,2022
+PROP00912,CUST01143,Semi-detached,"72728, Jalan Ernest Ports, Port Paulstad, Selangor",3.180761,101.767481,997762.35,3949,1988
+PROP00913,CUST01310,Condominium,"049, Jalan Brown Village, Higginsmouth, Selangor",3.184194,101.701318,387168.14,1043,2018
+PROP00914,CUST01238,Condominium,"5272, Jalan Kelly Ford, Bakershire, Selangor",2.984596,101.854251,537566.89,1685,2011
+PROP00915,CUST01345,Shop lot,"0708, Jalan Turner Alley, Goodmanstad, Selangor",3.040427,101.8366,1893279.55,1955,1992
+PROP00916,CUST01249,Terrace house,"0208, Jalan Elizabeth Cove, New Brandon, Selangor",3.207922,101.780431,471834.87,4106,1989
+PROP00917,CUST01413,Bungalow,"15439, Jalan Joshua Plains, New Jeffreyburgh, Selangor",3.236338,101.73784,1275387.45,1894,1991
+PROP00918,CUST01640,Apartment,"3332, Jalan Susan Gardens, Carlosberg, Selangor",3.021118,101.618954,285664.69,2095,2000
+PROP00919,CUST01415,Condominium,"5501, Jalan Veronica Haven, Lauraton, Selangor",3.000243,101.832961,303907.91,2574,2008
+PROP00920,CUST01601,Shop lot,"69888, Jalan Neal Fords, Port Kimberly, Selangor",3.025365,101.414003,1805765.44,611,2021
+PROP00921,CUST00884,Terrace house,"24362, Jalan Anderson Valleys, West Anneside, Selangor",3.159298,101.797272,512248.17,1679,1999
+PROP00922,CUST00335,Shop lot,"312, Jalan Goodwin Course, New Brian, Selangor",3.16755,101.628338,1470139.53,992,2014
+PROP00923,CUST00617,Apartment,"9659, Jalan Stephanie Crest, East Tammy, Selangor",3.166543,101.715309,299025.76,1055,1996
+PROP00924,CUST01976,Bungalow,"3177, Jalan Chapman Harbors, North Rebecca, Selangor",3.155987,101.713564,1590119.07,4280,1999
+PROP00925,CUST00484,Shop lot,"2941, Jalan Rachel Junctions, New Davidfurt, Selangor",3.029674,101.55261,1729634.76,3650,2015
+PROP00926,CUST00825,Bungalow,"1317, Jalan Hall Locks, South Melissa, Selangor",3.18647,101.760734,2060457.65,2767,1991
+PROP00927,CUST01936,Apartment,"7528, Jalan King Cove, Lake Anthony, Selangor",3.018987,101.615453,189938.74,3075,1991
+PROP00928,CUST01292,Shop lot,"617, Jalan Anthony Ports, Lake Judy, Selangor",3.059442,101.732851,1661346.03,1578,1986
+PROP00929,CUST00088,Terrace house,"452, Jalan Brown Expressway, North Michaelbury, Selangor",3.129226,101.652402,624252.5,3553,2008
+PROP00930,CUST01390,Semi-detached,"5051, Jalan Clark Trail, North Bonnie, Selangor",3.195167,101.761837,1245918.05,2845,1997
+PROP00931,CUST01443,Semi-detached,"43087, Jalan Lowery Mountain, West Steven, Selangor",3.011022,101.789945,1229972.21,4242,2009
+PROP00932,CUST00033,Bungalow,"54221, Jalan Jean Glens, Isabellaside, Selangor",3.30591,101.53354,2584963.78,3944,2001
+PROP00933,CUST00078,Apartment,"92048, Jalan Vasquez Meadows, Waltersshire, Selangor",3.214514,101.648005,370135.99,3882,2003
+PROP00934,CUST01311,Condominium,"33299, Jalan Gomez Knolls, East Matthewside, Selangor",3.142292,101.710306,887470.13,1968,2021
+PROP00935,CUST01265,Semi-detached,"464, Jalan Nicole Isle, Jillhaven, Selangor",3.321871,101.616842,719308.83,2637,2009
+PROP00936,CUST01195,Apartment,"82567, Jalan Richard Extensions, Lake Williamfurt, Selangor",3.360633,101.511351,285828.55,4160,1985
+PROP00937,CUST01708,Apartment,"2925, Jalan Bradshaw Wall, Jillianland, Selangor",3.018921,101.851567,294852.23,3272,1996
+PROP00938,CUST01545,Condominium,"628, Jalan Gerald Ways, Alanville, Selangor",3.031653,101.546276,546401.95,3713,1993
+PROP00939,CUST01566,Shop lot,"256, Jalan Katherine Hills, Jacksonchester, Selangor",3.029118,101.635273,1074537.48,3629,1989
+PROP00940,CUST00639,Terrace house,"94201, Jalan Laura Gardens, Christophershire, Selangor",3.078616,101.690323,645801.54,708,2023
+PROP00941,CUST01078,Semi-detached,"290, Jalan Catherine Shoal, Fostermouth, Selangor",3.158319,101.736619,1454593.56,3006,1989
+PROP00942,CUST00299,Terrace house,"26604, Jalan Clayton Center, Russellburgh, Selangor",3.13261,101.675644,675832.68,875,2014
+PROP00943,CUST01666,Condominium,"74003, Jalan Brendan Trace, New Jeffreystad, Selangor",2.893187,101.793721,599756.49,2263,1995
+PROP00944,CUST01031,Shop lot,"89222, Jalan Huff Course, New Jeffreytown, Selangor",3.039173,101.827194,1500467.64,2745,2014
+PROP00945,CUST01347,Semi-detached,"060, Jalan Steven Shoals, West Ricardofurt, Selangor",3.202441,101.709285,1406405.3,946,2002
+PROP00946,CUST01084,Shop lot,"60762, Jalan Campbell Station, Alexshire, Selangor",3.098824,101.61575,1078545.76,1130,1991
+PROP00947,CUST00666,Shop lot,"3723, Jalan Henderson Mills, Hopkinsbury, Selangor",3.03489,101.798074,1484056.9,3611,2023
+PROP00948,CUST00652,Terrace house,"133, Jalan Wilson Row, Justinland, Selangor",3.219767,101.61179,735656.19,2441,1997
+PROP00949,CUST00533,Apartment,"4231, Jalan Bailey Viaduct, Darrenborough, Selangor",3.04898,101.8403,285392.73,3869,2021
+PROP00950,CUST00108,Condominium,"2776, Jalan Woods Manor, South Micheleborough, Selangor",3.065091,101.691433,389577.83,2050,1992
+PROP00951,CUST00582,Condominium,"9429, Jalan Lori Meadow, South Markmouth, Selangor",3.123757,101.700686,813289.69,3587,2021
+PROP00952,CUST00361,Apartment,"88701, Jalan Harvey Port, East Kevin, Selangor",2.959444,101.600475,377263.89,3804,1996
+PROP00953,CUST01854,Apartment,"02483, Jalan Parker Trail, Christianfort, Selangor",3.089685,101.529275,208576.98,2512,2002
+PROP00954,CUST01476,Semi-detached,"34565, Jalan Walter Loaf, Shanetown, Selangor",3.200425,101.682915,1275065.96,1374,2008
+PROP00955,CUST01927,Shop lot,"54853, Jalan Wilkinson Dam, Hansenton, Selangor",2.871867,101.799868,669508.47,3577,2016
+PROP00956,CUST01750,Apartment,"7238, Jalan Gross Grove, Lake Alexandertown, Selangor",3.117521,101.609655,314764.05,3087,2000
+PROP00957,CUST00295,Bungalow,"538, Jalan Garrett Island, Harmonview, Selangor",3.095192,101.684686,2733335.86,4471,2006
+PROP00958,CUST00126,Bungalow,"16435, Jalan Mary Bypass, South Amanda, Selangor",2.876956,101.657602,1740952.11,2183,2023
+PROP00959,CUST00887,Terrace house,"6047, Jalan Mclaughlin Hill, South William, Selangor",3.051124,101.436769,420977.5,1192,1987
+PROP00960,CUST00908,Terrace house,"443, Jalan Williams Stream, Millermouth, Selangor",3.255518,101.718924,628811.31,4253,2001
+PROP00961,CUST00745,Condominium,"564, Jalan Sweeney Curve, Fischerfurt, Selangor",3.024,101.744491,528914.18,2610,1992
+PROP00962,CUST01278,Bungalow,"154, Jalan April Viaduct, North Edwardfort, Selangor",2.974577,101.835609,2522950.83,1463,2008
+PROP00963,CUST00461,Shop lot,"291, Jalan Kimberly Inlet, Blakemouth, Selangor",3.068876,101.687246,614452.66,3732,2020
+PROP00964,CUST00403,Apartment,"860, Jalan Cherry Lakes, Mullinschester, Selangor",3.068023,101.764173,353176.41,2772,1993
+PROP00965,CUST01377,Semi-detached,"50337, Jalan Melendez Ramp, East Anthony, Selangor",3.036408,101.661528,1036519.94,1564,2006
+PROP00966,CUST00474,Shop lot,"7306, Jalan Haynes Crest, East Jessica, Selangor",3.346813,101.575356,757496.8,1156,2023
+PROP00967,CUST00820,Semi-detached,"6794, Jalan Christina Trail, Romerohaven, Selangor",3.026313,101.50589,928223.01,2665,1992
+PROP00968,CUST01219,Semi-detached,"5385, Jalan Paul Terrace, New Robert, Selangor",3.083424,101.404422,1231801.26,3321,2022
+PROP00969,CUST01861,Terrace house,"2898, Jalan Archer Burg, Laurenmouth, Selangor",3.164114,101.743685,530823.06,2937,1995
+PROP00970,CUST01325,Condominium,"49221, Jalan Brown Rue, Hubbardland, Selangor",3.119521,101.460668,349622.44,3241,2014
+PROP00971,CUST00435,Terrace house,"670, Jalan Myers Ferry, Port Chadburgh, Selangor",3.175536,101.582387,667286.32,2925,2002
+PROP00972,CUST01212,Semi-detached,"073, Jalan Katie Pass, Lake Wandaside, Selangor",3.136426,101.671406,1036169.5,3704,1988
+PROP00973,CUST00711,Shop lot,"71826, Jalan Church Trafficway, Port Linda, Selangor",3.099706,101.740307,1490250.1,3568,2015
+PROP00974,CUST00358,Semi-detached,"1708, Jalan Short Inlet, Georgeshire, Selangor",3.323259,101.607269,970590.03,903,1993
+PROP00975,CUST00961,Shop lot,"2039, Jalan Teresa Corners, West Kevin, Selangor",3.202787,101.745423,978897.23,2032,2000
+PROP00976,CUST01940,Terrace house,"901, Jalan Howard Port, Colefurt, Selangor",3.157026,101.627761,625973.66,2627,2007
+PROP00977,CUST01217,Semi-detached,"219, Jalan Weiss Mill, North Micheal, Selangor",3.106415,101.712072,842129.02,3135,2002
+PROP00978,CUST01713,Condominium,"824, Jalan Anna Passage, Donnabury, Selangor",3.127654,101.763968,528321.06,3474,2008
+PROP00979,CUST00203,Semi-detached,"21781, Jalan Ruiz Wall, South Cynthiaview, Selangor",3.176712,101.698196,867807.97,3105,2001
+PROP00980,CUST00255,Semi-detached,"315, Jalan Dakota Run, Nicoleshire, Selangor",3.10732,101.691047,1182256.79,4245,2014
+PROP00981,CUST00848,Bungalow,"281, Jalan Smith Mission, North Thomasberg, Selangor",3.220406,101.724387,1925473.72,667,2010
+PROP00982,CUST00818,Bungalow,"4070, Jalan Anthony Roads, New Danielleland, Selangor",3.163678,101.692795,2679397.48,1716,2002
+PROP00983,CUST00846,Shop lot,"2628, Jalan Caroline Mall, Lake Molly, Selangor",2.962275,101.580769,601188.34,1828,1994
+PROP00984,CUST00524,Bungalow,"4850, Jalan Stephen Path, Stephanieburgh, Selangor",3.180693,101.824415,2290069.53,3148,1997
+PROP00985,CUST01290,Condominium,"741, Jalan Robert Alley, Gilesville, Selangor",3.12052,101.645437,368839.26,605,1991
+PROP00986,CUST00914,Bungalow,"961, Jalan Lauren Lodge, Andersonside, Selangor",3.345156,101.549206,2455104.27,3222,2011
+PROP00987,CUST01214,Shop lot,"82039, Jalan Stephen Roads, South James, Selangor",2.913855,101.836696,670436.49,1237,2022
+PROP00988,CUST01528,Apartment,"4435, Jalan Mccoy Ferry, Matthewhaven, Selangor",3.149446,101.749135,236737.05,1856,2017
+PROP00989,CUST01449,Terrace house,"701, Jalan Alex Summit, Lisaberg, Selangor",2.938476,101.888639,479980.31,2645,1987
+PROP00990,CUST01923,Apartment,"2536, Jalan Brenda Drives, South Michael, Selangor",3.236039,101.604421,286817.83,3233,1990
+PROP00991,CUST00493,Apartment,"28497, Jalan Morrow Squares, East Chelseamouth, Selangor",3.245755,101.717291,407221.93,4199,1995
+PROP00992,CUST01453,Apartment,"24365, Jalan Megan Spurs, Bobbystad, Selangor",3.0132,101.56562,425319.7,1762,2011
+PROP00993,CUST01137,Condominium,"64818, Jalan Clarke Tunnel, Erinbury, Selangor",3.157781,101.746475,876907.88,4001,1999
+PROP00994,CUST00349,Semi-detached,"4882, Jalan Michael Stravenue, Boltonbury, Selangor",3.132035,101.668803,1260685.17,3449,1995
+PROP00995,CUST01335,Apartment,"546, Jalan Hernandez Flat, East Ronnie, Selangor",3.121483,101.69157,181070.83,4026,1990
+PROP00996,CUST00645,Apartment,"6799, Jalan Campbell Cliffs, West Bonnie, Selangor",3.145258,101.768639,241849.95,2176,2009
+PROP00997,CUST00920,Bungalow,"722, Jalan Stephanie Ferry, Lopezchester, Selangor",3.184344,101.585021,3329611.71,4012,2001
+PROP00998,CUST01406,Shop lot,"920, Jalan Butler Cliffs, Fryshire, Selangor",3.151285,101.717945,575954.54,807,2000
+PROP00999,CUST00696,Terrace house,"623, Jalan Bennett Ramp, New Robin, Selangor",3.051513,101.451968,370588.54,2967,2007
+PROP01000,CUST00214,Condominium,"833, Jalan Walton Street, Grimesfurt, Selangor",3.085354,101.793784,344735.18,3190,1990
+PROP01001,CUST01834,Condominium,"877, Jalan Carr Landing, Smithville, Selangor",3.196839,101.504782,399274.72,3193,1991
+PROP01002,CUST01897,Semi-detached,"48208, Jalan Woodard Via, North Mark, Selangor",3.037838,101.637966,1163135.8,4308,2023
+PROP01003,CUST01534,Terrace house,"839, Jalan Eric Crossroad, Smithtown, Selangor",2.981619,101.84914,561512.63,4316,2006
+PROP01004,CUST00434,Shop lot,"44076, Jalan Mary Stream, Port Kevinbury, Selangor",3.145809,101.681676,795588.28,2205,2008
+PROP01005,CUST00318,Bungalow,"49134, Jalan Alvin Path, Morrisside, Selangor",3.137611,101.559952,1983251.44,4451,2023
+PROP01006,CUST01154,Semi-detached,"2099, Jalan Newman Village, Phillipsberg, Selangor",3.358539,101.598513,1326978.17,4201,2005
+PROP01007,CUST00866,Bungalow,"0592, Jalan April Fort, Marietown, Selangor",3.18618,101.732573,1427478.99,2128,2015
+PROP01008,CUST00184,Shop lot,"766, Jalan Cindy Green, Martinezshire, Selangor",3.092096,101.645475,993790.02,3621,2004
+PROP01009,CUST01389,Bungalow,"056, Jalan Natasha Corner, Hopkinsbury, Selangor",3.219039,101.76846,3184410.07,3234,1991
+PROP01010,CUST00301,Bungalow,"079, Jalan Ortiz Pine, Armstrongfort, Selangor",3.153385,101.613674,3294123.43,1707,2017
+PROP01011,CUST01988,Terrace house,"40434, Jalan Scott Station, West Jeremiah, Selangor",3.146428,101.650997,650431.86,1486,2017
+PROP01012,CUST01504,Semi-detached,"37956, Jalan Alexander Parks, Simpsonburgh, Selangor",3.137039,101.690279,1511152.45,2980,1997
+PROP01013,CUST01121,Condominium,"75036, Jalan Katherine Track, North Dwayne, Selangor",2.94446,101.814001,547312.81,1230,1985
+PROP01014,CUST00260,Shop lot,"9991, Jalan Zachary Fields, South Billy, Selangor",3.19764,101.821397,545793.05,2444,2004
+PROP01015,CUST01863,Bungalow,"2444, Jalan Mitchell Rest, Port Josephchester, Selangor",3.214888,101.696518,3274994.01,3248,2004
+PROP01016,CUST00649,Bungalow,"78623, Jalan Downs Avenue, Gutierrezland, Selangor",2.868459,101.775386,2381026.47,2732,2010
+PROP01017,CUST00584,Bungalow,"170, Jalan Davis Square, Lake Garrett, Selangor",3.189713,101.794851,1370436.56,2821,1994
+PROP01018,CUST01330,Bungalow,"951, Jalan Bell Fields, Benjaminland, Selangor",3.115378,101.710007,1486635.78,3311,2009
+PROP01019,CUST01522,Bungalow,"580, Jalan Reed Streets, Lake Jillville, Selangor",2.943823,101.744338,3388786.5,4340,2011
+PROP01020,CUST01270,Shop lot,"7449, Jalan Caldwell Gateway, South Brandonfort, Selangor",3.046255,101.613706,1365071.18,4322,2005
+PROP01021,CUST00732,Terrace house,"0040, Jalan Patricia Unions, Lake Larryport, Selangor",3.137826,101.615702,573898.58,704,1991
+PROP01022,CUST00839,Apartment,"84039, Jalan Gregory Unions, Lake Jasonfurt, Selangor",3.222874,101.772693,418320.62,1491,1991
+PROP01023,CUST01283,Bungalow,"2038, Jalan Herman Plains, Cohenview, Selangor",3.202647,101.613429,2965255.84,4234,2000
+PROP01024,CUST00162,Shop lot,"078, Jalan Edward Islands, New Heidi, Selangor",3.079373,101.657179,1959268.94,3578,1993
+PROP01025,CUST01925,Shop lot,"64693, Jalan Jennifer Junctions, Andersonton, Selangor",3.244173,101.632409,1881703.81,2216,1996
+PROP01026,CUST00248,Terrace house,"97440, Jalan Kathleen Ville, Freemanhaven, Selangor",3.081209,101.452186,601892.76,3796,1995
+PROP01027,CUST00998,Condominium,"987, Jalan Candace Canyon, New Hollyland, Selangor",2.856086,101.677949,862376.25,3703,2001
+PROP01028,CUST01382,Semi-detached,"431, Jalan James Walks, Port Peter, Selangor",3.127196,101.733286,1419857.39,3932,2013
+PROP01029,CUST00046,Condominium,"15848, Jalan Hoffman Junctions, Port Reginald, Selangor",2.932109,101.891048,671447.7,3597,1997
+PROP01030,CUST01934,Shop lot,"11960, Jalan Gamble Union, East Andrew, Selangor",2.969144,101.793295,1491015.49,3677,2019
+PROP01031,CUST00938,Semi-detached,"97077, Jalan Cox Harbors, Timothyton, Selangor",3.180933,101.622058,1337495.46,4327,2015
+PROP01032,CUST00075,Shop lot,"231, Jalan Christensen Highway, Reeseshire, Selangor",3.103973,101.705484,1814769.25,4143,2016
+PROP01033,CUST00410,Terrace house,"3946, Jalan Lara Lodge, Port Rick, Selangor",3.085115,101.663435,529528.53,1984,1996
+PROP01034,CUST00050,Terrace house,"59605, Jalan Theresa Dam, Jonesside, Selangor",3.111037,101.514237,358185.66,4010,1998
+PROP01035,CUST00129,Apartment,"0257, Jalan Smith Loaf, Williamston, Selangor",3.321779,101.59633,410707.86,676,2023
+PROP01036,CUST01006,Condominium,"3066, Jalan Ryan Branch, Bradleyhaven, Selangor",3.173922,101.53128,470194.38,2492,1993
+PROP01037,CUST01742,Apartment,"164, Jalan Claire Radial, North Micheleshire, Selangor",2.864175,101.618645,258121.71,865,2012
+PROP01038,CUST00136,Bungalow,"91203, Jalan Douglas Dale, New Joseburgh, Selangor",3.092398,101.654897,2563004.64,1449,2022
+PROP01039,CUST01079,Semi-detached,"375, Jalan Horton Lakes, Port Daniel, Selangor",3.154536,101.707826,1377210.17,3686,1999
+PROP01040,CUST00099,Condominium,"260, Jalan Cindy Place, Williamsmouth, Selangor",3.12155,101.687484,431718.27,3293,1991
+PROP01041,CUST01144,Bungalow,"7454, Jalan Jarvis Ramp, North Luis, Selangor",2.892136,101.639928,2526083.82,4318,2009
+PROP01042,CUST00030,Shop lot,"894, Jalan Frost Fork, North Angelaside, Selangor",3.027573,101.64979,749618.07,4016,2014
+PROP01043,CUST00500,Terrace house,"89655, Jalan Justin Villages, Kathleenfurt, Selangor",3.035286,101.738819,541241.62,3621,1987
+PROP01044,CUST01147,Condominium,"2295, Jalan David Ridges, Williamschester, Selangor",3.021813,101.574035,511369.07,4344,2014
+PROP01045,CUST01677,Bungalow,"0361, Jalan Pittman Inlet, Johnsontown, Selangor",3.15755,101.748253,2612650.87,2104,2022
+PROP01046,CUST01368,Shop lot,"7266, Jalan David Knoll, West Williamtown, Selangor",3.328224,101.578338,1139572.3,2969,2022
+PROP01047,CUST00366,Condominium,"53017, Jalan Erin Roads, South Tylerville, Selangor",3.155285,101.61054,491249.09,1879,2014
+PROP01048,CUST01690,Semi-detached,"6058, Jalan Armstrong Landing, East Jonathan, Selangor",3.155805,101.711134,1585065.03,3284,1985
+PROP01049,CUST00548,Shop lot,"33954, Jalan Bradley Centers, Schmittstad, Selangor",3.312165,101.509742,1337884.72,4363,2004
+PROP01050,CUST01225,Bungalow,"15790, Jalan Sharp Crossing, Port Dawnhaven, Selangor",3.171485,101.738369,2607498.73,4339,2010
+PROP01051,CUST01055,Semi-detached,"986, Jalan Brandt Hills, Carpenterchester, Selangor",3.245621,101.692567,1154111.9,3485,2011
+PROP01052,CUST00056,Bungalow,"6183, Jalan Nicole Station, Bakerside, Selangor",3.138338,101.676683,3349037.04,3925,2005
+PROP01053,CUST00824,Bungalow,"6805, Jalan Williams Ferry, Lake Heather, Selangor",3.117062,101.636651,2996627.41,1653,2020
+PROP01054,CUST00602,Shop lot,"1843, Jalan Linda Courts, East Anthony, Selangor",3.068143,101.504797,756972.36,4287,2008
+PROP01055,CUST00274,Condominium,"6733, Jalan Melissa Divide, Lewisberg, Selangor",3.225172,101.773778,790279.02,3977,1997
+PROP01056,CUST00650,Bungalow,"96440, Jalan Misty Dale, Johnburgh, Selangor",2.913333,101.646487,1354838.05,1804,1991
+PROP01057,CUST00716,Shop lot,"7699, Jalan Jonathan Mill, Sellersburgh, Selangor",3.159955,101.786324,1031580.89,4371,1991
+PROP01058,CUST01783,Apartment,"85202, Jalan Gina Brooks, West Haleytown, Selangor",3.289091,101.530264,272508.72,3354,1999
+PROP01059,CUST01473,Semi-detached,"69332, Jalan Carter Forest, Troyland, Selangor",3.173723,101.743258,906440.56,3697,2007
+PROP01060,CUST00156,Apartment,"982, Jalan Lauren Orchard, Loriland, Selangor",3.04422,101.755742,378173.16,1631,1989
+PROP01061,CUST00941,Condominium,"4526, Jalan Robin Mills, Samuelland, Selangor",3.145504,101.581082,384400.08,1668,1993
+PROP01062,CUST01318,Bungalow,"83100, Jalan Kramer Gardens, Lake Eric, Selangor",3.104174,101.66102,3009745.72,2509,1987
+PROP01063,CUST01360,Shop lot,"2277, Jalan Owens Ford, South Oliviahaven, Selangor",3.152981,101.789439,758733.73,3194,2019
+PROP01064,CUST01383,Semi-detached,"066, Jalan Blair Burgs, Smithside, Selangor",3.021597,101.45638,756815.42,3845,2018
+PROP01065,CUST01231,Bungalow,"0360, Jalan Mendez Extension, Derekport, Selangor",2.98742,101.674433,2925268.53,2047,2004
+PROP01066,CUST01919,Shop lot,"07402, Jalan Nelson Spring, Kennedystad, Selangor",3.247683,101.783279,980235.98,1169,1992
+PROP01067,CUST01606,Shop lot,"267, Jalan Taylor Port, Port Saraburgh, Selangor",3.164535,101.553142,975760.65,2981,2012
+PROP01068,CUST01315,Condominium,"03638, Jalan Walters Underpass, Wareview, Selangor",3.15581,101.686761,342198.14,1852,2023
+PROP01069,CUST01037,Terrace house,"1497, Jalan Edwards Oval, North Alexandra, Selangor",3.180803,101.663713,709066.25,2791,2017
+PROP01070,CUST00313,Terrace house,"99798, Jalan Wilkinson Rapid, West Carolhaven, Selangor",3.229858,101.627462,676564.51,3598,2006
+PROP01071,CUST00073,Apartment,"0995, Jalan Smith Haven, East Madison, Selangor",2.942138,101.819224,361799.67,707,1986
+PROP01072,CUST00081,Terrace house,"4322, Jalan Theresa Glens, Garciaville, Selangor",3.055942,101.705321,553772.54,676,2000
+PROP01073,CUST01266,Apartment,"89811, Jalan Gilbert Points, Jeremytown, Selangor",3.090805,101.662858,373121.11,3375,1987
+PROP01074,CUST01812,Bungalow,"12762, Jalan Renee Viaduct, Sheilaport, Selangor",3.087167,101.710553,1552051.66,910,2001
+PROP01075,CUST01359,Terrace house,"25678, Jalan Brown Passage, East Jamie, Selangor",2.96759,101.85104,403886.39,1672,2012
+PROP01076,CUST00381,Semi-detached,"870, Jalan Sandoval Vista, Carloshaven, Selangor",2.983532,101.568198,1179662.96,3227,1997
+PROP01077,CUST01539,Bungalow,"61349, Jalan Morales Mountain, Petermouth, Selangor",3.152223,101.524315,2595139.42,2558,1985
+PROP01078,CUST00382,Terrace house,"679, Jalan Bradley Underpass, Leeside, Selangor",3.095073,101.653285,462041.72,3238,2004
+PROP01079,CUST00877,Shop lot,"09723, Jalan Brock Causeway, New Nicolechester, Selangor",3.157133,101.789702,807396.18,1851,1993
+PROP01080,CUST00090,Terrace house,"66201, Jalan Morris Island, Cohenchester, Selangor",3.012585,101.731362,698315.44,3896,1986
+PROP01081,CUST01105,Terrace house,"5786, Jalan Murphy Trace, Pamelastad, Selangor",3.072821,101.474602,354794.77,1797,1992
+PROP01082,CUST00329,Apartment,"24764, Jalan Adam Lights, Morganchester, Selangor",3.164101,101.701916,270168.68,3652,2014
+PROP01083,CUST01009,Shop lot,"240, Jalan Jones Light, Jonathanville, Selangor",3.107846,101.607732,1208537.48,1201,1993
+PROP01084,CUST00523,Apartment,"24441, Jalan Fitzpatrick Avenue, Port Melanie, Selangor",3.037131,101.486859,294281.07,4125,2014
+PROP01085,CUST01046,Semi-detached,"38686, Jalan William Fort, Loriton, Selangor",2.896672,101.675634,1415419.81,914,2018
+PROP01086,CUST00924,Bungalow,"170, Jalan Ricky Cape, Lisaview, Selangor",3.249984,101.562443,3364170.37,2870,2016
+PROP01087,CUST01324,Semi-detached,"38602, Jalan Laura Isle, New Cherylside, Selangor",2.982305,101.801614,1141995.88,2550,2013
+PROP01088,CUST00498,Condominium,"09413, Jalan Contreras Bridge, Littlefort, Selangor",2.952793,101.694181,600060.64,2503,1989
+PROP01089,CUST01204,Bungalow,"797, Jalan Mary Junction, New Joseph, Selangor",3.060736,101.713752,1393256.52,2950,1999
+PROP01090,CUST01111,Condominium,"56948, Jalan Kent Canyon, Harrisfurt, Selangor",3.091771,101.638309,325031.85,2675,2015
+PROP01091,CUST01068,Terrace house,"748, Jalan Ashley Parks, New John, Selangor",3.14735,101.645781,584771.48,1906,2006
+PROP01092,CUST01898,Bungalow,"59802, Jalan Smith Stravenue, Josephton, Selangor",3.148525,101.742655,3059521.98,946,2014
+PROP01093,CUST00094,Terrace house,"15892, Jalan Meyer Ridge, South Jamesport, Selangor",3.116665,101.694144,565420.38,4281,1986
+PROP01094,CUST00865,Shop lot,"03197, Jalan Ruiz Place, Stevensstad, Selangor",3.065052,101.594881,1104109.6,1876,1987
+PROP01095,CUST01047,Terrace house,"41864, Jalan James Parkway, Port Catherine, Selangor",3.078198,101.410231,489134.39,2584,2005
+PROP01096,CUST00843,Bungalow,"868, Jalan Rodriguez Manor, East Deborah, Selangor",3.056742,101.651024,1443899.06,2809,2005
+PROP01097,CUST01485,Condominium,"26058, Jalan Moran Throughway, Gabrielchester, Selangor",3.149402,101.757414,319780.91,4288,2002
+PROP01098,CUST01611,Condominium,"4831, Jalan Lee Alley, Powellshire, Selangor",2.969527,101.794078,650117.52,2435,1990
+PROP01099,CUST01953,Terrace house,"15181, Jalan Fernandez Drive, Kimberlyfurt, Selangor",3.156716,101.691806,727262.13,1533,2018
+PROP01100,CUST01944,Semi-detached,"5946, Jalan Sarah Drives, East Steve, Selangor",3.029532,101.644216,707589.85,823,2014
+PROP01101,CUST01529,Apartment,"37179, Jalan Tina Extension, South Erin, Selangor",3.069739,101.573208,233249.35,2889,2002
+PROP01102,CUST00761,Apartment,"006, Jalan Holloway Well, Brownside, Selangor",3.141329,101.629516,276941.17,3257,2007
+PROP01103,CUST00229,Shop lot,"7795, Jalan Jones Turnpike, Fishermouth, Selangor",3.172949,101.687313,979415.78,1756,1987
+PROP01104,CUST00747,Bungalow,"3981, Jalan Megan Summit, South Willie, Selangor",3.252639,101.738331,2828874.73,3375,2011
+PROP01105,CUST01642,Bungalow,"9157, Jalan Angela Hollow, Williamfurt, Selangor",3.23113,101.684078,3211412.83,2803,2022
+PROP01106,CUST01748,Shop lot,"68384, Jalan Jenkins Pine, Port Erictown, Selangor",3.201932,101.614942,1846231.94,1154,1991
+PROP01107,CUST01475,Terrace house,"761, Jalan John Locks, East Dannytown, Selangor",2.890388,101.828999,532212.75,1172,1985
+PROP01108,CUST00261,Bungalow,"518, Jalan Eric Port, Booneville, Selangor",3.105754,101.595428,1913818.05,3712,1989
+PROP01109,CUST00781,Apartment,"207, Jalan Rose Loaf, Port Davidmouth, Selangor",3.169107,101.677198,288683.76,3418,2013
+PROP01110,CUST01410,Shop lot,"237, Jalan Bridget Divide, Tranbury, Selangor",3.238918,101.573218,523436.2,4464,2002
+PROP01111,CUST00632,Shop lot,"48649, Jalan Morse Gardens, Bradleyfort, Selangor",2.916409,101.672663,1978356.77,2860,2012
+PROP01112,CUST00731,Semi-detached,"7896, Jalan Wendy Field, Michaelmouth, Selangor",2.919074,101.643754,931400.94,1719,1994
+PROP01113,CUST00482,Apartment,"77312, Jalan Craig Isle, Crystalmouth, Selangor",3.054458,101.529068,261167.13,4479,2016
+PROP01114,CUST01532,Bungalow,"0521, Jalan Williamson Spring, New Joshua, Selangor",3.147136,101.715755,2153184.59,936,1992
+PROP01115,CUST01763,Bungalow,"4045, Jalan Daniel Club, Calebfort, Selangor",3.207553,101.770706,2265327.56,3789,1985
+PROP01116,CUST01652,Semi-detached,"12350, Jalan Richard Mills, West Courtneyfurt, Selangor",2.918525,101.787154,1398902.28,3438,2003
+PROP01117,CUST01048,Terrace house,"910, Jalan Johns Mission, Medinaberg, Selangor",3.318598,101.558084,535432.33,1151,2004
+PROP01118,CUST00879,Bungalow,"44568, Jalan Baker Mountains, Angelbury, Selangor",2.935514,101.866673,2502477.78,3113,2015
+PROP01119,CUST00775,Shop lot,"6401, Jalan Robinson Dale, Timothyfort, Selangor",3.211864,101.741907,589762.84,1475,1988
+PROP01120,CUST00322,Bungalow,"315, Jalan Diaz Squares, New Renee, Selangor",3.233481,101.543924,3460008.11,3888,2014
+PROP01121,CUST01357,Shop lot,"273, Jalan William Points, Lake Benjamin, Selangor",2.891875,101.708796,1250316.72,3016,2021
+PROP01122,CUST00509,Bungalow,"158, Jalan Dorsey Shore, Dawnbury, Selangor",3.150144,101.716643,1569940.86,2513,1986
+PROP01123,CUST01700,Terrace house,"24165, Jalan Andrea Road, Amandashire, Selangor",3.118995,101.608663,721636.51,3385,1997
+PROP01124,CUST00402,Apartment,"6073, Jalan Carter Lights, Fletcherfurt, Selangor",3.228878,101.547474,246166.47,1613,1990
+PROP01125,CUST01295,Shop lot,"15958, Jalan Santos Road, Adamsville, Selangor",2.954764,101.868375,1068433.17,2122,1991
+PROP01126,CUST01488,Semi-detached,"1705, Jalan Stacy Expressway, New Elizabethfurt, Selangor",3.199108,101.73266,1030483.37,930,2015
+PROP01127,CUST01711,Condominium,"814, Jalan Jeremy Track, Maryfort, Selangor",2.953427,101.639648,842117.06,2485,2002
+PROP01128,CUST01770,Apartment,"0948, Jalan Heather Valleys, Robertsberg, Selangor",3.291823,101.581963,419840.84,3901,2015
+PROP01129,CUST00528,Shop lot,"286, Jalan Beck Garden, Port Sarah, Selangor",3.130993,101.683506,995905.56,2156,1993
+PROP01130,CUST00647,Shop lot,"65099, Jalan Mann Ferry, New Pamelachester, Selangor",3.126187,101.796306,732253.72,1105,1989
+PROP01131,CUST01826,Shop lot,"7719, Jalan Fritz Loop, Cisnerostown, Selangor",3.006522,101.835519,599692.2,3024,1986
+PROP01132,CUST01004,Terrace house,"56342, Jalan Dennis Vista, East Erin, Selangor",3.174581,101.741657,545520.09,1615,2010
+PROP01133,CUST00285,Terrace house,"49980, Jalan Rachel Fords, Stantonside, Selangor",3.211122,101.703576,494192.34,1126,1996
+PROP01134,CUST00420,Apartment,"67590, Jalan Thomas Mission, West Edwardport, Selangor",3.179799,101.622495,224266.55,4141,2012
+PROP01135,CUST00252,Condominium,"6144, Jalan Christina Forest, Port Michele, Selangor",3.292684,101.558491,748957.67,2097,1997
+PROP01136,CUST01371,Apartment,"74656, Jalan Taylor Valleys, Liville, Selangor",3.218313,101.686314,389237.8,1091,1992
+PROP01137,CUST01670,Shop lot,"637, Jalan Noah Cliff, Jillfurt, Selangor",2.989703,101.820407,969005.14,3731,2021
+PROP01138,CUST01479,Shop lot,"559, Jalan Danielle Oval, Bennettview, Selangor",3.066298,101.666502,712503.6,3844,1990
+PROP01139,CUST00441,Apartment,"49003, Jalan Smith Fall, Matthewborough, Selangor",3.074525,101.8033,264937.56,2396,2005
+PROP01140,CUST00124,Bungalow,"4486, Jalan Taylor Place, New Aaron, Selangor",3.136766,101.613984,1492680.53,3226,2008
+PROP01141,CUST01686,Bungalow,"3314, Jalan Hill Street, West Gloriaport, Selangor",2.986588,101.469722,2535217.87,4090,2004
+PROP01142,CUST01548,Condominium,"325, Jalan Danny Square, Foxmouth, Selangor",3.254193,101.659311,380139.85,2022,2020
+PROP01143,CUST01913,Apartment,"531, Jalan Nancy Branch, Alexismouth, Selangor",3.054503,101.488326,318017.54,3441,1998
+PROP01144,CUST00077,Shop lot,"3776, Jalan Davis Fields, Lake Allisonstad, Selangor",3.145567,101.652021,999889.1,3241,1995
+PROP01145,CUST01287,Terrace house,"001, Jalan Hanna Corner, Jamieland, Selangor",3.119251,101.740831,720422.92,2630,2005
+PROP01146,CUST00686,Shop lot,"1143, Jalan Olson Loop, Lake Dale, Selangor",3.088646,101.618744,1262720.4,2999,2013
+PROP01147,CUST01250,Apartment,"78187, Jalan Brandon Skyway, Mccoymouth, Selangor",3.103133,101.524402,426258.6,2066,1996
+PROP01148,CUST01644,Semi-detached,"4257, Jalan Richard Plaza, East Michelleshire, Selangor",3.066692,101.622762,1139791.27,1636,2003
+PROP01149,CUST01424,Semi-detached,"331, Jalan Mcmahon Fall, North Richard, Selangor",3.207527,101.695754,938088.98,3005,2000
+PROP01150,CUST00734,Terrace house,"23028, Jalan Sawyer Rue, Reneetown, Selangor",3.154292,101.601556,369523.54,635,2009
+PROP01151,CUST00876,Condominium,"522, Jalan Yang Court, Kristinatown, Selangor",3.088141,101.648466,534104.77,2837,2012
+PROP01152,CUST00244,Semi-detached,"6701, Jalan Jones Island, North Cody, Selangor",2.949198,101.658342,1027739.0,2095,1998
+PROP01153,CUST01654,Bungalow,"6338, Jalan David Walk, West Benjamin, Selangor",3.181233,101.701137,2008763.35,3268,2003
+PROP01154,CUST01429,Bungalow,"3922, Jalan Brandon Lane, Lake Anthony, Selangor",2.903039,101.65941,1431554.44,1096,1986
+PROP01155,CUST01983,Semi-detached,"901, Jalan Katherine Glens, Jasonshire, Selangor",3.147618,101.732753,841444.0,2076,2001
+PROP01156,CUST00798,Condominium,"33252, Jalan Moses Crescent, East John, Selangor",3.048243,101.470526,661831.35,778,1990
+PROP01157,CUST01725,Bungalow,"456, Jalan Cook Forge, Jacobfurt, Selangor",3.115154,101.621468,3165199.07,3935,1999
+PROP01158,CUST01626,Apartment,"4976, Jalan Glen Prairie, Jordanview, Selangor",3.049081,101.473964,306558.37,2403,2021
+PROP01159,CUST00447,Apartment,"09536, Jalan Fields Mountains, West Dorothy, Selangor",3.22961,101.692274,360475.78,4256,1991
+PROP01160,CUST01618,Terrace house,"529, Jalan Greer Knolls, Davenportland, Selangor",3.101607,101.755131,624255.07,3769,1988
+PROP01161,CUST01165,Shop lot,"2665, Jalan Hart Circles, Tonyfurt, Selangor",3.16778,101.596722,1737847.89,3670,2022
+PROP01162,CUST00043,Bungalow,"53809, Jalan Butler Cove, Thomasstad, Selangor",3.020207,101.418975,2369585.72,2775,2001
+PROP01163,CUST00297,Semi-detached,"36952, Jalan Humphrey Tunnel, Sandrafurt, Selangor",3.087171,101.513768,1201129.71,2064,1994
+PROP01164,CUST00158,Terrace house,"5353, Jalan Martinez Roads, Julieberg, Selangor",2.885363,101.805712,664543.27,2645,2022
+PROP01165,CUST01173,Shop lot,"3679, Jalan Kenneth Junction, Millermouth, Selangor",3.036448,101.846341,893845.15,4394,2004
+PROP01166,CUST00881,Apartment,"638, Jalan Mario Forest, Robertmouth, Selangor",3.089664,101.62595,372038.7,2050,2014
+PROP01167,CUST01651,Condominium,"639, Jalan Robert Courts, Crossberg, Selangor",3.064597,101.620214,569175.22,1390,1991
+PROP01168,CUST01756,Shop lot,"9793, Jalan Robert Knoll, Lake Stacey, Selangor",3.05389,101.641446,1591820.3,3298,1994
+PROP01169,CUST01099,Condominium,"16837, Jalan Anthony Brooks, Drakefort, Selangor",3.092928,101.442508,379633.65,1194,2002
+PROP01170,CUST01876,Bungalow,"60720, Jalan Joshua Ridges, Olsenside, Selangor",3.077597,101.53732,3419478.92,2214,1993
+PROP01171,CUST01903,Semi-detached,"082, Jalan Dennis Ports, North David, Selangor",2.993294,101.790563,1526309.77,1708,1986
+PROP01172,CUST00829,Terrace house,"46394, Jalan Sanders Islands, Maryshire, Selangor",3.104361,101.400042,461265.98,4380,2009
+PROP01173,CUST00368,Terrace house,"264, Jalan Christensen Ford, New Daniel, Selangor",3.136245,101.707577,415348.22,2147,1999
+PROP01174,CUST00684,Terrace house,"99403, Jalan Hoover Greens, Lake Danielchester, Selangor",2.934295,101.634927,490086.01,4440,1993
+PROP01175,CUST01407,Bungalow,"649, Jalan Davis Lodge, Mayotown, Selangor",3.213553,101.728415,2852454.6,1263,1987
+PROP01176,CUST01632,Shop lot,"8335, Jalan Carol Bypass, South Danielstad, Selangor",3.010661,101.621326,1454646.37,3007,2007
+PROP01177,CUST01342,Bungalow,"016, Jalan Ashley Groves, Port Karenborough, Selangor",3.164904,101.777407,3447796.29,4480,1993
+PROP01178,CUST01101,Semi-detached,"34437, Jalan Whitaker Shoals, Lake Joshua, Selangor",3.03658,101.427892,1141331.33,3854,2002
+PROP01179,CUST00472,Apartment,"40984, Jalan Jessica Cliffs, Snyderborough, Selangor",3.030845,101.621001,368787.21,1488,1999
+PROP01180,CUST00080,Semi-detached,"14811, Jalan Smith Haven, Port Angelport, Selangor",3.207509,101.710819,874173.69,3825,1993
+PROP01181,CUST00314,Condominium,"202, Jalan Castaneda Crest, Moonton, Selangor",3.25916,101.732104,664746.73,3752,2022
+PROP01182,CUST00195,Apartment,"199, Jalan John Divide, Port Kaylaview, Selangor",2.942406,101.697934,212317.3,648,1993
+PROP01183,CUST00703,Condominium,"548, Jalan Beasley Circle, West James, Selangor",3.181997,101.68036,340627.34,1393,2001
+PROP01184,CUST01622,Semi-detached,"0791, Jalan Hood Ramp, East Samanthafurt, Selangor",3.041129,101.413044,1560771.95,2931,2009
+PROP01185,CUST00710,Apartment,"15711, Jalan Wilson Wells, Port Janice, Selangor",2.882717,101.698739,238475.54,2634,1989
+PROP01186,CUST01571,Condominium,"402, Jalan Escobar Skyway, East Tarahaven, Selangor",3.075511,101.607393,366839.22,707,2007
+PROP01187,CUST01759,Bungalow,"141, Jalan David Place, Rosalesport, Selangor",3.02849,101.622165,1647454.45,2877,2014
+PROP01188,CUST01317,Bungalow,"2719, Jalan Tara Mountains, Travisport, Selangor",3.171437,101.729091,3472730.06,811,2015
+PROP01189,CUST01350,Semi-detached,"3913, Jalan Benjamin Route, Turnerville, Selangor",3.134306,101.710651,1104362.94,3998,1999
+PROP01190,CUST00764,Semi-detached,"619, Jalan Jackson Row, North Michael, Selangor",3.100819,101.561159,1590013.64,4241,2002
+PROP01191,CUST01465,Bungalow,"13153, Jalan Williams Ranch, Churchburgh, Selangor",3.356305,101.578185,1981736.66,4260,1995
+PROP01192,CUST00928,Apartment,"1684, Jalan Rogers Islands, Port Diana, Selangor",3.162288,101.752042,343765.04,3997,1986
+PROP01193,CUST01494,Shop lot,"410, Jalan Cynthia Haven, Leland, Selangor",3.03617,101.383648,527805.97,3088,1988
+PROP01194,CUST00112,Bungalow,"798, Jalan Meyer Knolls, Myersport, Selangor",3.082304,101.678004,2706980.46,2556,1990
+PROP01195,CUST00972,Terrace house,"993, Jalan Anthony Coves, Ryanstad, Selangor",3.07622,101.438784,558978.67,4062,2002
+PROP01196,CUST01392,Shop lot,"635, Jalan Osborne Hill, Port Veronica, Selangor",2.976567,101.81186,1549514.44,2935,2011
+PROP01197,CUST01867,Condominium,"1726, Jalan Anderson Shoal, Richardtown, Selangor",3.178207,101.690186,345231.75,1942,2018
+PROP01198,CUST00810,Terrace house,"6070, Jalan Christopher Walks, Danielbury, Selangor",2.982012,101.832548,534097.61,2424,1986
+PROP01199,CUST01791,Bungalow,"68624, Jalan Kristin Passage, Stricklandville, Selangor",3.162042,101.712663,2409282.08,832,2012
+PROP01200,CUST01912,Apartment,"06689, Jalan Emily Unions, South Derekberg, Selangor",3.339361,101.558136,433518.93,2504,2006
